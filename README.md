@@ -178,6 +178,14 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ## style
 -
 ## outfit
--
+- Polyvore [[homepage]](https://github.com/xthan/polyvore) [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) :pig:
+```bib
+@inproceedings{han2017learning,
+  author = {Han, Xintong and Wu, Zuxuan and Jiang, Yu-Gang and Davis, Larry S},
+  title = {Learning Fashion Compatibility with Bidirectional LSTMs},
+  booktitle = {ACM Multimedia},
+  year  = {2017},
+}
+```
 - CP-VITON dataset [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
 
