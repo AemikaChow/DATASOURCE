@@ -12,7 +12,7 @@
   organization={IEEE}
 }
 ```
-- CFPD 2013 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD)
+- CFPD 2013 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) :thought_balloon:
 ```bib
 @article{liu2013fashion,
   title={Fashion parsing with weak color-category labels},
