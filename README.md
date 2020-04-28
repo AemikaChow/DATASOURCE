@@ -159,7 +159,19 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2017}
 }
 ```
-- shopping 100k [[pdf]](https://www.researchgate.net/profile/Kenan_Ak/publication/324728522_Efficient_Multi-Attribute_Similarity_Learning_Towards_Attribute-based_Fashion_Search/links/5adf5078aca272fdaf89c65a/Efficient-Multi-Attribute-Similarity-Learning-Towards-Attribute-based-Fashion-Search.pdf)
+- Women|Men Video 2018 [[pdf]](https://www.researchgate.net/profile/Sanyi_Zhang/publication/321785076_Watch_Fashion_Shows_to_Tell_Clothing_Attributes/links/5cdf0e3c92851c4eabaa3e07/Watch-Fashion-Shows-to-Tell-Clothing-Attributes.pdf)
+```bib
+@article{zhang2018watch,
+  title={Watch fashion shows to tell clothing attributes},
+  author={Zhang, Sanyi and Liu, Si and Cao, Xiaochun and Song, Zhanjie and Zhou, Jie},
+  journal={Neurocomputing},
+  volume={282},
+  pages={98--110},
+  year={2018},
+  publisher={Elsevier}
+}
+```
+- Shopping 100k 2018 [[pdf]](https://www.researchgate.net/profile/Kenan_Ak/publication/324728522_Efficient_Multi-Attribute_Similarity_Learning_Towards_Attribute-based_Fashion_Search/links/5adf5078aca272fdaf89c65a/Efficient-Multi-Attribute-Similarity-Learning-Towards-Attribute-based-Fashion-Search.pdf)
 ```bib
 @inproceedings{ak2018efficient,
   title={Efficient multi-attribute similarity learning towards attribute-based fashion search},
@@ -191,7 +203,6 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   publisher={Elsevier}
 }
 ```
-
 - FindFashion 2019 combine DeepFashion & Street2Shop [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuang_Fashion_Retrieval_via_Graph_Reasoning_Networks_on_a_Similarity_Pyramid_ICCV_2019_paper.pdf) 
 ```bib
 @inproceedings{kuang2019fashion,
@@ -209,7 +220,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 
 ## outfit
-- Stylatrix [[data]](https://www.dropbox.com/s/8s609zhdzzox5an/stylatrix_images.zip?dl=0)
+- Stylatrix
 ```bib
 @article{sunstylatrix,
   title={Stylatrix: an interactive model-based system for fashion exploration and outfit discovery},
