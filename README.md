@@ -7,6 +7,7 @@
 > * DeepFashion2 [[homepage]](https://github.com/switchablenorms/DeepFashion2)
 ## parsing
 > * Fashionista [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/)
+> * CFPD [[homepage]]() [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf)
 > * LIP dataset [[homepage]](http://sysu-hcp.net/lip/) <p align="justify">
 ## style
 > *
