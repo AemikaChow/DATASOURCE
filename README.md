@@ -105,6 +105,15 @@ For style analysis, attribute recognition, trend anaylsis, multi-task learning, 
   year={2017}
 }
 ```
+- Atlas 2019 [[homepage]](https://github.com/vumaasha/atlas) [[pdf]](https://arxiv.org/pdf/1908.08984.pdf) :pig:
+```bib
+@article{umaashankar2019atlas,
+  title={Atlas: A Dataset and Benchmark for E-commerce Clothing Product Categorization},
+  author={Umaashankar, Venkatesh and Prakash, Aditi and others},
+  journal={arXiv preprint arXiv:1908.08984},
+  year={2019}
+}
+```
 
 ## keypoints
 - LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
