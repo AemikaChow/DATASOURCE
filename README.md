@@ -48,7 +48,7 @@
   publisher={IEEE}
 }
 ```
-- Refined Fashionista 2017 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](https://arxiv.org/pdf/1703.01386.pdf) :pig:
+- Refined Fashionista 2017 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](https://arxiv.org/pdf/1703.01386.pdf) [[github]](https://github.com/pongsate1/fashion-parsing) :pig:
 ```bib
 @article{tangseng2017looking,
   title={Looking at outfit to parse clothing},
