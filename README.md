@@ -108,7 +108,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year = {2014}
 }
 ```
-- DARN 2015 [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf) [[google]](https://drive.google.com/open?id=0B7YvPjaCEC3jV1M3LUNTMjczcDg)
+- DARN 2015 [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf)
 ```bib
 @inproceedings{huang2015cross,
   title={Cross-domain image retrieval with a dual attribute-aware ranking network},
@@ -157,6 +157,17 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   booktitle={Proceedings of the 25th ACM international conference on Multimedia},
   pages={190--198},
   year={2017}
+}
+```
+- shopping 100k [[pdf]](https://www.researchgate.net/profile/Kenan_Ak/publication/324728522_Efficient_Multi-Attribute_Similarity_Learning_Towards_Attribute-based_Fashion_Search/links/5adf5078aca272fdaf89c65a/Efficient-Multi-Attribute-Similarity-Learning-Towards-Attribute-based-Fashion-Search.pdf)
+```bib
+@inproceedings{ak2018efficient,
+  title={Efficient multi-attribute similarity learning towards attribute-based fashion search},
+  author={Ak, Kenan E and Lim, Joo Hwee and Tham, Jo Yew and Kassim, Ashraf A},
+  booktitle={2018 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={1671--1679},
+  year={2018},
+  organization={IEEE}
 }
 ```
 - Atlas 2019 [[homepage]](https://github.com/vumaasha/atlas) [[pdf]](https://arxiv.org/pdf/1908.08984.pdf) :pig:
