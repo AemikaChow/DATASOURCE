@@ -1,6 +1,7 @@
 # DATASOURCE
 
 - :pig: means the dataset is available.
+If you want to knwo more details of each datasets, please kindly find in
 
 ## Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and etc.
