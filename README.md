@@ -6,6 +6,20 @@
 ## Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and etc.
 - Fashionista 2012 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) :pig:
+<details>
+<summary>bibtex</summary>
+<pre><code>
+@inproceedings{yamaguchi2012parsing,
+  title={Parsing clothing in fashion photographs},
+  author={Yamaguchi, Kota and Kiapour, M Hadi and Ortiz, Luis E and Berg, Tamara L},
+  booktitle={2012 IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={3570--3577},
+  year={2012},
+  organization={IEEE}
+}
+</code></pre>
+</details>
+
 ```bib
 @inproceedings{yamaguchi2012parsing,
   title={Parsing clothing in fashion photographs},
