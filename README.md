@@ -74,7 +74,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 
 
 ## Attribute
-For style analysis, attribute recognition, trend anaylsis, multi-task learning, consumer-to-shop clothes retrieval, in-shop clothes retrieval and etc.
+For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi-task learning, consumer-to-shop clothes retrieval, in-shop clothes retrieval and etc.
 - UT-Zap50K 2014 [[homepage]](http://vision.cs.utexas.edu/projects/finegrained/utzap50k/) [[pdf]](http://aronyu.io/vision/papers/cvpr14/aron-cvpr14.pdf)
 ```bib
 @InProceedings{finegrained,
