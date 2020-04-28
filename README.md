@@ -1,10 +1,5 @@
 # DATASOURCE
 
-## attribute
-- DeepFashioin [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
-## keypoints
-- LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
-- DeepFashion2 [[homepage]](https://github.com/switchablenorms/DeepFashion2)
 ## parsing
 - Fashionista 2012 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf)
 ```bib
@@ -30,7 +25,7 @@
   publisher={IEEE}
 }
 ```
-- CCP 2013 [[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](http://linliang.net/wp-content/uploads/2017/07/TMM_Clothes.pdf) [[github]](https://github.com/bearpaw/clothing-co-parsing)
+- CCP 2013 [[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](http://linliang.net/wp-content/uploads/2017/07/TMM_Clothes.pdf) [[github]](https://github.com/bearpaw/clothing-co-parsing) :squirrel:
 ```bib
 @inproceedings{yang2014clothing,
   title={Clothing Co-Parsing by Joint Image Segmentation and Labeling},
@@ -40,6 +35,26 @@
   organization={IEEE}
 }
 ```
+- HPW 2015 [[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](https://arxiv.org/pdf/1503.02391.pdf)
+```bib
+@article{liang2015deep,
+  title={Deep human parsing with active template regression},
+  author={Liang, Xiaodan and Liu, Si and Shen, Xiaohui and Yang, Jianchao and Liu, Luoqi and Dong, Jian and Lin, Liang and Yan, Shuicheng},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={37},
+  number={12},
+  pages={2402--2414},
+  year={2015},
+  publisher={IEEE}
+}
+```
+
+## attribute
+- DeepFashioin [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+## keypoints
+- LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
+- DeepFashion2 [[homepage]](https://github.com/switchablenorms/DeepFashion2)
+
 ## style
 -
 ## outfit
