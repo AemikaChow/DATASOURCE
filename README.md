@@ -1,7 +1,7 @@
 # DATASOURCE for fAshIon
 
 - :pig: means the dataset can be found
-- If you want to knwo more details of each datasets, please kindly find in
+- If you have problems with a specific dataset shows below, please kindly contact its authors.
 
 ## Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and etc.
