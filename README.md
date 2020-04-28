@@ -259,6 +259,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2018}
 }
 ```
+- FCDB [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Kataoka_Ten-Million-Order_Human_Database_for_World-Wide_Fashion_Culture_Analysis_CVPRW_2019_paper.pdf)
+```bib
+@InProceedings{Kataoka_2019_CVPR_Workshops,
+author = {Kataoka, Hirokatsu and Satoh, Yutaka and Abe, Kaori and Minoguchi, Munetaka and Nakamura, Akio},
+title = {Ten-Million-Order Human Database for World-Wide Fashion Culture Analysis},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2019}
+}
+```
 - Fashion IQ 2019 [[pdf]](https://arxiv.org/pdf/1905.12794.pdf) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) :pig:
 ```bib
 @article{guo2019fashion,
