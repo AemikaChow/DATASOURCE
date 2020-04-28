@@ -48,7 +48,16 @@
   publisher={IEEE}
 }
 ```
-
+- ModaNet 2018 [[homepage]](https://github.com/eBay/modanet) [[pdf]](https://arxiv.org/pdf/1807.01394.pdf) [[github]](https://github.com/hrsma2i/modanet) :pig:
+```bib
+@inproceedings{zheng2018modanet,
+  title={Modanet: A large-scale street fashion dataset with polygon annotations},
+  author={Zheng, Shuai and Yang, Fan and Kiapour, M Hadi and Piramuthu, Robinson},
+  booktitle={Proceedings of the 26th ACM international conference on Multimedia},
+  pages={1670--1678},
+  year={2018}
+}
+```
 ## attribute
 - DeepFashioin [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 ## keypoints
