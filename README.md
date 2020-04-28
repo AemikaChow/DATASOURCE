@@ -170,7 +170,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   publisher={Elsevier}
 }
 ```
-- FindFashion combine DeepFashion & Street2Shop [[googlelink]](https://drive.google.com/file/d/1dt5ddlVbZ0ALHodqvWHX-p4UQd2jZ0Nv/view) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuang_Fashion_Retrieval_via_Graph_Reasoning_Networks_on_a_Similarity_Pyramid_ICCV_2019_paper.pdf) 
+- FindFashion 2019 combine DeepFashion & Street2Shop [[googlelink]](https://drive.google.com/file/d/1dt5ddlVbZ0ALHodqvWHX-p4UQd2jZ0Nv/view) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuang_Fashion_Retrieval_via_Graph_Reasoning_Networks_on_a_Similarity_Pyramid_ICCV_2019_paper.pdf) 
 ```bib
 @inproceedings{kuang2019fashion,
   title={Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid},
