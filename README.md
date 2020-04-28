@@ -1,6 +1,6 @@
 # DATASOURCE for fAshIon
 
-- :pig: means the dataset is available.
+- :pig: means the dataset can be found
 - If you want to knwo more details of each datasets, please kindly find in
 
 ## Parsing 
