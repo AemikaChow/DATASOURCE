@@ -6,7 +6,17 @@
 - LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
 - DeepFashion2 [[homepage]](https://github.com/switchablenorms/DeepFashion2)
 ## parsing
-- Fashionista [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/)
+- Fashionista 2012 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf)
+```bib
+@inproceedings{yamaguchi2012parsing,
+  title={Parsing clothing in fashion photographs},
+  author={Yamaguchi, Kota and Kiapour, M Hadi and Ortiz, Luis E and Berg, Tamara L},
+  booktitle={2012 IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={3570--3577},
+  year={2012},
+  organization={IEEE}
+}
+```
 - CFPD 2013 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD)
 ```bib
 @article{liu2013fashion,
