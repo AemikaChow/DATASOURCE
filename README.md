@@ -209,6 +209,13 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 
 ## outfit
+- Stylatrix [[data]](https://www.dropbox.com/s/8s609zhdzzox5an/stylatrix_images.zip?dl=0)
+```bib
+@article{sunstylatrix,
+  title={Stylatrix: an interactive model-based system for fashion exploration and outfit discovery},
+  author={Sun, Will J and Gajos, Krzysztof Z}
+}
+```
 - Polyvore [[homepage]](https://github.com/xthan/polyvore) [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) :pig:
 ```bib
 @inproceedings{han2017learning,
