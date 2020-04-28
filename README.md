@@ -249,7 +249,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 - CP-VITON dataset [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
 
 ## Others
-- Shoe 2018 [[pdf]](http://papers.nips.cc/paper/7348-dialog-based-interactive-image-retrieval.pdf) 
+- Shoe 2018 [[pdf]](http://papers.nips.cc/paper/7348-dialog-based-interactive-image-retrieval.pdf)
+```bib
+@inproceedings{guo2018dialog,
+  title={Dialog-based interactive image retrieval},
+  author={Guo, Xiaoxiao and Wu, Hui and Cheng, Yu and Rennie, Steven and Tesauro, Gerald and Feris, Rogerio},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={678--688},
+  year={2018}
+}
+```
 - Fashion IQ 2019 [[pdf]](https://arxiv.org/pdf/1905.12794.pdf) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) :pig:
 ```bib
 @article{guo2019fashion,
