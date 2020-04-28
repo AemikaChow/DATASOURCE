@@ -73,7 +73,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 
 
 ## Attribute
-For style analysis, attribute recognition, trend anaylsis, multi-task learning and etc.
+For style analysis, attribute recognition, trend anaylsis, multi-task learning, consumer-to-shop clothes retrieval, in-shop clothes retrieval and etc.
 - DeepFashion 2016[[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/liuLQWTcvpr16.pdf) :pig:
 ```bib
 @inproceedings{liuLQWTcvpr16DeepFashion,
