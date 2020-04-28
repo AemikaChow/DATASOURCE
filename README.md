@@ -68,8 +68,22 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   year={2018}
 }
 ```
-## attribute
-- DeepFashioin [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+
+
+## Attribute
+For style analysis, attribute recognition, trend anaylsis, multi-task learning and etc.
+- DeepFashioin 2016[[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+- SFS 2017 [[homepage]](https://zenodo.org/record/833051#.XqfGivmWa70) [[pdf]](http://doi.org/10.1145/3123266.3123441)
+```bib
+@inproceedings{gu2017understanding,
+  title={Understanding fashion trends from street photos via neighbor-constrained embedding learning},
+  author={Gu, Xiaoling and Wong, Yongkang and Peng, Pai and Shou, Lidan and Chen, Gang and Kankanhalli, Mohan S},
+  booktitle={Proceedings of the 25th ACM international conference on Multimedia},
+  pages={190--198},
+  year={2017}
+}
+```
+
 ## keypoints
 - LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
 - DeepFashion2 [[homepage]](https://github.com/switchablenorms/DeepFashion2)
