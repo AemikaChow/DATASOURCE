@@ -85,6 +85,16 @@ For style analysis, attribute recognition, trend anaylsis, multi-task learning, 
  year = {2016} 
  }
  ```
+- MVC 2016 [[homepage]](http://mvc-datasets.github.io/MVC/) [[pdf]](https://www.iis.sinica.edu.tw/papers/song/19692-F.pdf) :pig:
+```bib
+@inproceedings{liu2016mvc,
+  title={Mvc: A dataset for view-invariant clothing retrieval and attribute prediction},
+  author={Liu, Kuan-Hsien and Chen, Ting-Yen and Chen, Chu-Song},
+  booktitle={Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval},
+  pages={313--316},
+  year={2016}
+}
+```
 - SFS 2017 [[homepage]](https://zenodo.org/record/833051#.XqfGivmWa70) [[pdf]](http://doi.org/10.1145/3123266.3123441) :pig:
 ```bib
 @inproceedings{gu2017understanding,
