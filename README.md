@@ -85,7 +85,7 @@ For style analysis, attribute recognition, trend anaylsis, multi-task learning, 
  year = {2016} 
  }
  ```
-- MVC 2016 [[homepage]](http://mvc-datasets.github.io/MVC/) [[pdf]](https://www.iis.sinica.edu.tw/papers/song/19692-F.pdf) :pig:
+- MVC 2016 [[homepage]](http://mvc-datasets.github.io/MVC/) [[pdf]](https://www.iis.sinica.edu.tw/papers/song/19692-F.pdf) [[github]](https://github.com/MVC-Datasets/MVC) :pig:
 ```bib
 @inproceedings{liu2016mvc,
   title={Mvc: A dataset for view-invariant clothing retrieval and attribute prediction},
