@@ -52,6 +52,19 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   publisher={IEEE}
 }
 ```
+- Fashion Icon 2015 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20with%20Video%20Context.pdf)
+```bib
+@article{liu2015fashion,
+  title={Fashion parsing with video context},
+  author={Liu, Si and Liang, Xiaodan and Liu, Luoqi and Lu, Ke and Lin, Liang and Cao, Xiaochun and Yan, Shuicheng},
+  journal={IEEE Transactions on Multimedia},
+  volume={17},
+  number={8},
+  pages={1347--1358},
+  year={2015},
+  publisher={IEEE}
+}
+```
 - Refined Fashionista 2017 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](https://arxiv.org/pdf/1703.01386.pdf) [[github]](https://github.com/pongsate1/fashion-parsing) :pig:
 ```bib
 @article{tangseng2017looking,
