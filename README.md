@@ -170,6 +170,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   publisher={Elsevier}
 }
 ```
+
 - FindFashion 2019 combine DeepFashion & Street2Shop [[googlelink]](https://drive.google.com/file/d/1dt5ddlVbZ0ALHodqvWHX-p4UQd2jZ0Nv/view) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuang_Fashion_Retrieval_via_Graph_Reasoning_Networks_on_a_Similarity_Pyramid_ICCV_2019_paper.pdf) 
 ```bib
 @inproceedings{kuang2019fashion,
@@ -185,8 +186,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 - LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
 - DeepFashion2 [[homepage]](https://github.com/switchablenorms/DeepFashion2)
 
-## style
--
+
 ## outfit
 - Polyvore [[homepage]](https://github.com/xthan/polyvore) [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) :pig:
 ```bib
@@ -198,4 +198,15 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 }
 ```
 - CP-VITON dataset [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
+
+## others
+- TFCD 2019 [[pdf]](https://arxiv.org/ftp/arxiv/papers/1907/1907.00400.pdf)
+```bib
+@article{bigon2019prediction,
+  title={Prediction is very hard, especially about conversion. Predicting user purchases from clickstream data in fashion e-commerce},
+  author={Bigon, Luca and Cassani, Giovanni and Greco, Ciro and Lacasa, Lucas and Pavoni, Mattia and Polonioli, Andrea and Tagliabue, Jacopo},
+  journal={arXiv preprint arXiv:1907.00400},
+  year={2019}
+}
+```
 
