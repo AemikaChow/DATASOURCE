@@ -75,6 +75,16 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 
 ## Attribute
 For style analysis, attribute recognition, trend anaylsis, multi-task learning, consumer-to-shop clothes retrieval, in-shop clothes retrieval and etc.
+- UT-Zap50K 2014 [[homepage]](http://vision.cs.utexas.edu/projects/finegrained/utzap50k/) [[pdf]](http://aronyu.io/vision/papers/cvpr14/aron-cvpr14.pdf)
+```bib
+@InProceedings{finegrained,
+  author = {A. Yu and K. Grauman},
+  title = {Fine-Grained Visual Comparisons with Local Learning},
+  booktitle = {Computer Vision and Pattern Recognition (CVPR)},
+  month = {Jun},
+  year = {2014}
+}
+```
 - Etsy | Wear 2016 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/etsy-dataset/) [[pdf]](https://arxiv.org/pdf/1607.07262.pdf)
 ```bib
 @inproceedings{vittayakorn2016automatic,
@@ -123,6 +133,18 @@ For style analysis, attribute recognition, trend anaylsis, multi-task learning, 
   author={Umaashankar, Venkatesh and Prakash, Aditi and others},
   journal={arXiv preprint arXiv:1908.08984},
   year={2019}
+}
+```
+- DeepShoe 2019 [[homepage]]() [[pdf]](http://alumni.media.mit.edu/~shiboxin/files/Zhan_CVIU19.pdf)
+```bib
+@article{zhan2019deepshoe,
+  title={DeepShoe: An improved Multi-Task View-invariant CNN for street-to-shop shoe retrieval},
+  author={Zhan, Huijing and Shi, Boxin and Duan, Ling-Yu and Kot, Alex C},
+  journal={Computer Vision and Image Understanding},
+  volume={180},
+  pages={23--33},
+  year={2019},
+  publisher={Elsevier}
 }
 ```
 
