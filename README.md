@@ -108,6 +108,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year = {2014}
 }
 ```
+- DARN 2015 [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf) [[google]](https://drive.google.com/open?id=0B7YvPjaCEC3jV1M3LUNTMjczcDg)
+```bib
+@inproceedings{huang2015cross,
+  title={Cross-domain image retrieval with a dual attribute-aware ranking network},
+  author={Huang, Junshi and Feris, Rogerio S and Chen, Qiang and Yan, Shuicheng},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={1062--1070},
+  year={2015}
+}
+```
 - Etsy | Wear 2016 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/etsy-dataset/) [[pdf]](https://arxiv.org/pdf/1607.07262.pdf)
 ```bib
 @inproceedings{vittayakorn2016automatic,
