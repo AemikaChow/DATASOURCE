@@ -16,6 +16,16 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   organization={IEEE}
 }
 ```
+- paperdoll 2013 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/paperdoll/) [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Yamaguchi_Paper_Doll_Parsing_2013_ICCV_paper.pdf) :pig:
+```bib
+@inproceedings{yamaguchi2013paper,
+  title={Paper doll parsing: Retrieving similar styles to parse clothing items},
+  author={Yamaguchi, Kota and Hadi Kiapour, M and Berg, Tamara L},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={3519--3526},
+  year={2013}
+}
+```
 - CFPD 2013 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) :pig:
 ```bib
 @article{liu2013fashion,
