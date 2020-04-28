@@ -5,7 +5,7 @@
 ## Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and etc.
 - Fashionista 2012 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) :pig:
-<p align="justify">pixel annotations for 53 types of garment e.g. shoes, socks, belts, vests, blazers. hats</p>
+<p align="justify">&nbsp pixel annotations for 53 types of garment e.g. shoes, socks, belts, vests, blazers. hats</p>
 
 ```bib
 @inproceedings{yamaguchi2012parsing,
