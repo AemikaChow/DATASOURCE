@@ -1,5 +1,7 @@
 # DATASOURCE
 
+- :pig: means the dataset is available.
+
 ## Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and etc.
 - Fashionista 2012 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) :pig:
