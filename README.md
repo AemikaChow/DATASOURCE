@@ -1,7 +1,7 @@
 # DATASOURCE
 
 ## parsing
-- Fashionista 2012 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf)
+- Fashionista 2012 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) :pig:
 ```bib
 @inproceedings{yamaguchi2012parsing,
   title={Parsing clothing in fashion photographs},
