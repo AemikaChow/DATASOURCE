@@ -158,7 +158,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2019}
 }
 ```
-- DeepShoe 2019 [[homepage]]() [[pdf]](http://alumni.media.mit.edu/~shiboxin/files/Zhan_CVIU19.pdf)
+- DeepShoe 2019 [[pdf]](http://alumni.media.mit.edu/~shiboxin/files/Zhan_CVIU19.pdf)
 ```bib
 @article{zhan2019deepshoe,
   title={DeepShoe: An improved Multi-Task View-invariant CNN for street-to-shop shoe retrieval},
@@ -168,6 +168,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   pages={23--33},
   year={2019},
   publisher={Elsevier}
+}
+```
+- FindFashion combine DeepFashion & Street2Shop [[googlelink]](https://drive.google.com/file/d/1dt5ddlVbZ0ALHodqvWHX-p4UQd2jZ0Nv/view) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuang_Fashion_Retrieval_via_Graph_Reasoning_Networks_on_a_Similarity_Pyramid_ICCV_2019_paper.pdf) 
+```bib
+@inproceedings{kuang2019fashion,
+  title={Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid},
+  author={Kuang, Zhanghui and Gao, Yiming and Li, Guanbin and Luo, Ping and Chen, Yimin and Lin, Liang and Zhang, Wayne},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={3066--3075},
+  year={2019}
 }
 ```
 
