@@ -7,7 +7,7 @@
 - DeepFashion2 [[homepage]](https://github.com/switchablenorms/DeepFashion2)
 ## parsing
 - Fashionista [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/)
-- CFPD [[homepage]]() [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf)
+- CFPD 2013 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD)
 ```bib
 @article{liu2013fashion,
   title={Fashion parsing with weak color-category labels},
@@ -20,7 +20,7 @@
   publisher={IEEE}
 }
 ```
-- CCP [[homepage]]()
+- CCP 2013 [[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](http://linliang.net/wp-content/uploads/2017/07/TMM_Clothes.pdf) [[github]](https://github.com/bearpaw/clothing-co-parsing)
 ```bib
 @inproceedings{yang2014clothing,
   title={Clothing Co-Parsing by Joint Image Segmentation and Labeling},
