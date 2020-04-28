@@ -182,6 +182,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   organization={IEEE}
 }
 ```
+- iMaterialist [[homepage]](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6) [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Guo_The_iMaterialist_Fashion_Attribute_Dataset_ICCVW_2019_paper.pdf) [[github]](https://github.com/visipedia/imat_fashion_comp) :pig:
+```bib
+@inproceedings{guo2019imaterialist,
+  title={The imaterialist fashion attribute dataset},
+  author={Guo, Sheng and Huang, Weilin and Zhang, Xiao and Srikhanta, Prasanna and Cui, Yin and Li, Yuan and Adam, Hartwig and Scott, Matthew R and Belongie, Serge},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision Workshops},
+  pages={0--0},
+  year={2019}
+}
+```
 - Atlas 2019 [[homepage]](https://github.com/vumaasha/atlas) [[pdf]](https://arxiv.org/pdf/1908.08984.pdf) :pig:
 ```bib
 @article{umaashankar2019atlas,
@@ -214,12 +224,12 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 }
 ```
 
-## keypoints
+## Keypoints
 - LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
 - DeepFashion2 [[homepage]](https://github.com/switchablenorms/DeepFashion2)
 
 
-## outfit
+## Outfit
 - Stylatrix
 ```bib
 @article{sunstylatrix,
@@ -238,8 +248,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 - CP-VITON dataset [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
 
-## others
-- Fashion IQ 2019 [[pdf]](https://arxiv.org/pdf/1905.12794.pdf) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) :pig:
+## Others
+- Fashion IQ 2019 [[pdf]](https://arxiv.org/pdf/1905.12794.pdf) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) :pig:
 ```bib
 @article{guo2019fashion,
   title={The Fashion IQ Dataset: Retrieving Images by Combining Side Information and Relative Natural Language Feedback},
