@@ -239,6 +239,15 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 - CP-VITON dataset [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
 
 ## others
+- Fashion IQ 2019 [[pdf]](https://arxiv.org/pdf/1905.12794.pdf) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) :pig:
+```bib
+@article{guo2019fashion,
+  title={The Fashion IQ Dataset: Retrieving Images by Combining Side Information and Relative Natural Language Feedback},
+  author={Guo, Xiaoxiao and Wu, Hui and Gao, Yupeng and Rennie, Steven and Feris, Rogerio},
+  journal={arXiv preprint arXiv:1905.12794},
+  year={2019}
+}
+```
 - TFCD 2019 [[pdf]](https://arxiv.org/ftp/arxiv/papers/1907/1907.00400.pdf)
 ```bib
 @article{bigon2019prediction,
