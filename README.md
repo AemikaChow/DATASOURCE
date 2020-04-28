@@ -75,7 +75,18 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 
 ## Attribute
 For style analysis, attribute recognition, trend anaylsis, multi-task learning, consumer-to-shop clothes retrieval, in-shop clothes retrieval and etc.
-- DeepFashion 2016[[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/liuLQWTcvpr16.pdf) :pig:
+- Etsy | Wear 2016 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/etsy-dataset/) [[pdf]](https://arxiv.org/pdf/1607.07262.pdf)
+```bib
+@inproceedings{vittayakorn2016automatic,
+  title={Automatic attribute discovery with neural activations},
+  author={Vittayakorn, Sirion and Umeda, Takayuki and Murasaki, Kazuhiko and Sudo, Kyoko and Okatani, Takayuki and Yamaguchi, Kota},
+  booktitle={European Conference on Computer Vision},
+  pages={252--268},
+  year={2016},
+  organization={Springer}
+}
+```
+- DeepFashion 2016 [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/liuLQWTcvpr16.pdf) :pig:
 ```bib
 @inproceedings{liuLQWTcvpr16DeepFashion,
  author = {Liu, Ziwei and Luo, Ping and Qiu, Shi and Wang, Xiaogang and Tang, Xiaoou},
