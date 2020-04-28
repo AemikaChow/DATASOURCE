@@ -5,6 +5,7 @@
 ## Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and etc.
 - Fashionista 2012 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) :pig:
+pixel annotations for 53 types of garment e.g. shoes, socks, belts, vests, blazers. hats ...
 ```bib
 @inproceedings{yamaguchi2012parsing,
   title={Parsing clothing in fashion photographs},
@@ -16,6 +17,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
 - CFPD 2013 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) :pig:
+image-level color labels(beige, black, blue, brown, gray, green, orange, pink, purple, red, white, yellow), category labels
 ```bib
 @article{liu2013fashion,
   title={Fashion parsing with weak color-category labels},
