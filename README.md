@@ -123,6 +123,30 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
 
+## Keypoints
+- LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html) [[pdf]](https://arxiv.org/pdf/1608.03049.pdf) [[github]](https://github.com/liuziwei7/fashion-landmarks)
+```bib
+@inproceedings{liu2016fashionlandmark,
+ author = {Ziwei Liu, Sijie Yan, Ping Luo, Xiaogang Wang, and Xiaoou Tang},
+ title = {Fashion Landmark Detection in the Wild},
+ booktitle = {European Conference on Computer Vision (ECCV)},
+ month = {October},
+ year = {2016} 
+}
+```
+- FASHIONAI Keypoint 2018 [[homepage]](https://tianchi.aliyun.com/competition/entrance/231648/introduction?lang=zh-cn) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]]()
+```bib
+
+```
+- DeepFashion2 2019 [[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2)
+```bib
+@article{DeepFashion2,
+  author = {Yuying Ge and Ruimao Zhang and Lingyun Wu and Xiaogang Wang and Xiaoou Tang and Ping Luo},
+  title={A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images},
+  journal={CVPR},
+  year={2019}
+}
+```
 
 ## Attribute
 For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi-task learning, consumer-to-shop clothes retrieval, in-shop clothes retrieval and etc.
@@ -492,32 +516,6 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```bib
 
 ```
-
-## Keypoints
-- LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html) [[pdf]](https://arxiv.org/pdf/1608.03049.pdf) [[github]](https://github.com/liuziwei7/fashion-landmarks)
-```bib
-@inproceedings{liu2016fashionlandmark,
- author = {Ziwei Liu, Sijie Yan, Ping Luo, Xiaogang Wang, and Xiaoou Tang},
- title = {Fashion Landmark Detection in the Wild},
- booktitle = {European Conference on Computer Vision (ECCV)},
- month = {October},
- year = {2016} 
-}
-```
-- FASHIONAI Keypoint 2018 [[homepage]](https://tianchi.aliyun.com/competition/entrance/231648/introduction?lang=zh-cn) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]]()
-```bib
-
-```
-- DeepFashion2 2019 [[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2)
-```bib
-@article{DeepFashion2,
-  author = {Yuying Ge and Ruimao Zhang and Lingyun Wu and Xiaogang Wang and Xiaoou Tang and Ping Luo},
-  title={A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images},
-  journal={CVPR},
-  year={2019}
-}
-```
-
 
 ## Outfit
 - WoW 2012 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2393347.2393433)
