@@ -137,6 +137,27 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   organization={Springer}
 }
 ```
+- WFC 2013 [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2013/W03/papers/Di_Style_Finder_Fine-Grained_2013_CVPR_paper.pdf)
+```bib
+@inproceedings{di2013style,
+  title={Style finder: Fine-grained clothing style detection and retrieval},
+  author={Di, Wei and Wah, Catherine and Bhardwaj, Anurag and Piramuthu, Robinson and Sundaresan, Neel},
+  booktitle={Proceedings of the IEEE Conference on computer vision and pattern recognition workshops},
+  pages={8--13},
+  year={2013}
+}
+```
+- ZOZOTOWN 2013 [[pdf]](https://www.researchgate.net/profile/Kiyoharu_Aizawa/publication/261438969_SNAPPER_Fashion_coordinate_image_retrieval_system/links/0f31753472d15b5839000000/SNAPPER-Fashion-coordinate-image-retrieval-system.pdf)
+```bib
+@inproceedings{miura2013snapper,
+  title={SNAPPER: fashion coordinate image retrieval system},
+  author={Miura, Shinya and Yamasaki, Toshihiko and Aizawa, Kiyoharu},
+  booktitle={2013 International Conference on Signal-Image Technology \& Internet-Based Systems},
+  pages={784--789},
+  year={2013},
+  organization={IEEE}
+}
+```
 - UT-Zap50K 2014 [[homepage]](http://vision.cs.utexas.edu/projects/finegrained/utzap50k/) [[pdf]](http://aronyu.io/vision/papers/cvpr14/aron-cvpr14.pdf)
 ```bib
 @InProceedings{finegrained,
@@ -203,6 +224,28 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   title={Learning from Massive Noisy Labeled Data for Image Classification},
   author={Xiao, Tong and Xia, Tian and Yang, Yi and Huang, Chang and Wang, Xiaogang},
   booktitle={CVPR},
+  year={2015}
+}
+```
+- YahooClothing 2015 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2671188.2749318)
+```bib
+@inproceedings{lin2015rapid,
+  title={Rapid clothing retrieval via deep learning of binary codes and hierarchical search},
+  author={Lin, Kevin and Yang, Huei-Fang and Liu, Kuan-Hsien and Hsiao, Jen-Hao and Chen, Chu-Song},
+  booktitle={Proceedings of the 5th ACM on International Conference on Multimedia Retrieval},
+  pages={499--502},
+  year={2015}
+}
+```
+- Chitopia 2015 [[pdf]](http://www.bmva.org/bmvc/2015/papers/paper051/paper051.pdf)
+```bib
+@inproceedings{yamaguchi2015mix,
+  title={Mix and Match: Joint Model for Clothing and Attribute Recognition.},
+  author={Yamaguchi, Kota and Okatani, Takayuki and Sudo, Kyoko and Murasaki, Kazuhiko and Taniguchi, Yukinobu},
+  booktitle={BMVC},
+  volume={1},
+  number={2},
+  pages={4},
   year={2015}
 }
 ```
@@ -453,6 +496,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 - CP-VITON dataset [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
 
 ## Others
+- Amazon Reviews 2015 [[homepage]](https://nijianmo.github.io/amazon/index.html) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2766462.2767755)
+```bib
+@inproceedings{mcauley2015image,
+  title={Image-based recommendations on styles and substitutes},
+  author={McAuley, Julian and Targett, Christopher and Shi, Qinfeng and Van Den Hengel, Anton},
+  booktitle={Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={43--52},
+  year={2015}
+}
+```
 - Fashion-MNIST 2017 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/) [[pdf]](https://arxiv.org/pdf/1708.07747.pdf) [[github]](https://github.com/zalandoresearch/fashion-mnist)
 ```bib
 @online{xiao2017/online,
