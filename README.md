@@ -108,6 +108,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year = {2014}
 }
 ```
+- Fashion 10000 2014 [[homepage]](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2557642.2563675)
+```bib
+@inproceedings{loni2014fashion,
+  title={Fashion 10000: an enriched social image dataset for fashion and clothing},
+  author={Loni, Babak and Cheung, Lei Yen and Riegler, Michael and Bozzon, Alessandro and Gottlieb, Luke and Larson, Martha},
+  booktitle={Proceedings of the 5th ACM Multimedia Systems Conference},
+  pages={41--46},
+  year={2014}
+}
+```
 - DARN 2015 [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf)
 ```bib
 @inproceedings{huang2015cross,
