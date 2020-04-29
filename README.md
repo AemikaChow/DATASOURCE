@@ -84,6 +84,15 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   year={2017}
 }
 ```
+- FASHION8 [[pdf]](https://arxiv.org/pdf/1803.03415.pdf)
+```bib
+@article{zhang2018fusing,
+  title={Fusing Hierarchical Convolutional Features for Human Body Segmentation and Clothing Fashion Classification},
+  author={Zhang, Zheng and Song, Chengfang and Zou, Qin},
+  journal={arXiv preprint arXiv:1803.03415},
+  year={2018}
+}
+```
 - ModaNet 2018 [[homepage]](https://github.com/eBay/modanet) [[pdf]](https://arxiv.org/pdf/1807.01394.pdf) [[github]](https://github.com/hrsma2i/modanet) :pig:
 ```bib
 @inproceedings{zheng2018modanet,
