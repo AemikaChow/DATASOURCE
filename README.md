@@ -178,6 +178,19 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2017}
 }
 ```
+- X-domain 2018 [[pdf]](https://arxiv.org/pdf/1804.10851.pdf)
+```bib
+@article{dong2018imbalanced,
+  title={Imbalanced deep learning by minority class incremental rectification},
+  author={Dong, Qi and Gong, Shaogang and Zhu, Xiatian},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={41},
+  number={6},
+  pages={1367--1381},
+  year={2018},
+  publisher={IEEE}
+}
+```
 - Women | Men Video 2018 [[pdf]](https://www.researchgate.net/profile/Sanyi_Zhang/publication/321785076_Watch_Fashion_Shows_to_Tell_Clothing_Attributes/links/5cdf0e3c92851c4eabaa3e07/Watch-Fashion-Shows-to-Tell-Clothing-Attributes.pdf)
 ```bib
 @article{zhang2018watch,
