@@ -209,7 +209,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2016}
 }
 ```
-- Fashion200K [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Han_Automatic_Spatially-Aware_Fashion_ICCV_2017_paper.pdf) [[github]](https://github.com/xthan/fashion-200k/)
+- Fashion200K 2017 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Han_Automatic_Spatially-Aware_Fashion_ICCV_2017_paper.pdf) [[github]](https://github.com/xthan/fashion-200k/)
 ```bib
 @inproceedings{han2017automatic,
   title = {Automatic Spatially-aware Fashion Concept Discovery},
@@ -423,7 +423,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2018}
 }
 ```
-- FCDB 2019 [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Kataoka_Ten-Million-Order_Human_Database_for_World-Wide_Fashion_Culture_Analysis_CVPRW_2019_paper.pdf)
+- FCDB 2019 [[homepage]](http://hirokatsukataoka.net/) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Kataoka_Ten-Million-Order_Human_Database_for_World-Wide_Fashion_Culture_Analysis_CVPRW_2019_paper.pdf) [[github]](https://github.com/cvpaperchallenge/FashionCultureDataBase_DLoader)
 ```bib
 @InProceedings{Kataoka_2019_CVPR_Workshops,
 author = {Kataoka, Hirokatsu and Satoh, Yutaka and Abe, Kaori and Minoguchi, Munetaka and Nakamura, Akio},
