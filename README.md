@@ -514,6 +514,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2017}
 }
 ```
+- Fashion409K [[homepage]](http://vision.is.tohoku.ac.jp/~tangseng/smart_closet_project.html) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Tangseng_Recommending_Outfits_From_ICCV_2017_paper.pdf)
+```bib
+@InProceedings{Tangseng_2017_ICCV,
+author = {Tangseng, Pongsate and Yamaguchi, Kota and Okatani, Takayuki},
+title = {Recommending Outfits From Personal Closet},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
+month = {Oct},
+year = {2017}
+}
+```
 - Polyvore 2017 [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) [[github]](https://github.com/xthan/polyvore) :pig:
 ```bib
 @inproceedings{han2017learning,
@@ -679,5 +689,8 @@ year = {2019}
   year={2019}
 }
 ```
+
+## Other Sources
+- https://data.world/datasets/fashion
 ## Acknowledge
 Here I would like to thank Miss Boey Pang, Miss Selene Lee, for their hard work on collecting datasource information.
