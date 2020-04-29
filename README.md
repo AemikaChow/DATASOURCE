@@ -107,6 +107,17 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 
 ## Attribute
 For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi-task learning, consumer-to-shop clothes retrieval, in-shop clothes retrieval and etc.
+- Apparel Style 2012 [[homepage]](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/) [[pdf]](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/accv12_apparel-classification-with-style.pdf) :pig:
+```bib
+@inproceedings{bossard2012apparel,
+  title={Apparel classification with style},
+  author={Bossard, Lukas and Dantone, Matthias and Leistner, Christian and Wengert, Christian and Quack, Till and Van Gool, Luc},
+  booktitle={Asian conference on computer vision},
+  pages={321--335},
+  year={2012},
+  organization={Springer}
+}
+```
 - UT-Zap50K 2014 [[homepage]](http://vision.cs.utexas.edu/projects/finegrained/utzap50k/) [[pdf]](http://aronyu.io/vision/papers/cvpr14/aron-cvpr14.pdf)
 ```bib
 @InProceedings{finegrained,
@@ -158,6 +169,15 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2015}
 }
 ```
+- Clothing1M 2015 [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf) [[github]](https://github.com/Cysu/noisy_label)
+```bib
+@inproceedings{xiao2015learning,
+  title={Learning from Massive Noisy Labeled Data for Image Classification},
+  author={Xiao, Tong and Xia, Tian and Yang, Yi and Huang, Chang and Wang, Xiaogang},
+  booktitle={CVPR},
+  year={2015}
+}
+```
 - Etsy | Wear 2016 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/etsy-dataset/) [[pdf]](https://arxiv.org/pdf/1607.07262.pdf)
 ```bib
 @inproceedings{vittayakorn2016automatic,
@@ -197,6 +217,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   booktitle={Proceedings of the 25th ACM international conference on Multimedia},
   pages={190--198},
   year={2017}
+}
+```
+- BrandFashion 2018 [[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Manandhar_Tiered_Deep_Similarity_Search_for_Fashion_ECCVW_2018_paper.pdf)
+```bib
+@inproceedings{manandhar2018tiered,
+  title={Tiered Deep Similarity Search for Fashion},
+  author={Manandhar, Dipu and Bastan, Muhammet and Yap, Kim-Hui},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={0--0},
+  year={2018}
 }
 ```
 - Fashion60 2018 [[link]](https://ieeexplore.ieee.org/document/8396968)
