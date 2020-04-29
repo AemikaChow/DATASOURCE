@@ -594,8 +594,33 @@ Year = {2018}
   year={2019}
 }
 ```
+- ExpFashion 2019 [[pdf]](https://xuemengsong.github.io/Neuro_2019.pdf)
+```bib
+@article{liu2019neural,
+  title={Neural fashion experts: I know how to make the complementary clothing matching},
+  author={Liu, Jinhuan and Song, Xuemeng and Chen, Zhumin and Ma, Jun},
+  journal={Neurocomputing},
+  volume={359},
+  pages={249--263},
+  year={2019},
+  publisher={Elsevier}
+}
+```
+- ASOS outfits [[pdf]](https://arxiv.org/pdf/1904.00741.pdf)
+```bib
+
+```
 
 ## Generation
+- FashionGAN 2017 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf) [[github]](https://github.com/zhusz/ICCV17-fashionGAN) :pig:
+```bib
+@inproceedings{zhu2017be,
+  title={Be Your Own Prada: Fashion Synthesis with Structural Coherence},
+  author={Zhu, Shizhan and Fidler, Sanja and Urtasun, Raquel and Lin, Dahua and Chen, Change Loy},
+  booktitle={Proceedings of the IEEE Conference on International Conference on Computer Vision},
+  year={2017}
+}
+```
 - FashionGEN 2018 [[homepage]](https://fashion-gen.com/) [[pdf]](https://arxiv.org/pdf/1806.08317.pdf)
 ```bib
 @article{rostamzadeh2018fashion,
@@ -616,6 +641,10 @@ Year = {2018}
   organization={IEEE}
 }
 ```
+- StyleGAN 2019 [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Yildirim_Generating_High-Resolution_Fashion_Model_Images_Wearing_Custom_Outfits_ICCVW_2019_paper.pdf)
+```bib
+
+```
 - CP-VITON [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
 
 ## Others
@@ -627,6 +656,15 @@ Year = {2018}
   booktitle={Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   pages={43--52},
   year={2015}
+}
+```
+- Tradesy 2016 [[homepage]](http://jmcauley.ucsd.edu/data/tradesy/) [[pdf]](http://cseweb.ucsd.edu/~jmcauley/pdfs/aaai16.pdf) :pig:
+```bib
+@inproceedings{he2016vbpr,
+  title={VBPR: visual bayesian personalized ranking from implicit feedback},
+  author={He, Ruining and McAuley, Julian},
+  booktitle={Thirtieth AAAI Conference on Artificial Intelligence},
+  year={2016}
 }
 ```
 - Fashion-MNIST 2017 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/) [[pdf]](https://arxiv.org/pdf/1708.07747.pdf) [[github]](https://github.com/zalandoresearch/fashion-mnist)
@@ -692,6 +730,8 @@ year = {2019}
 
 ## Other Sources
 - Clothing Detection Dataset [[link]](https://github.com/seralexger/clothing-detection-dataset)
+- Clothing Size Recommendation [[link]](https://github.com/NeverInAsh/fit-recommendation)
 - https://data.world/datasets/fashion
+- https://tianchi.aliyun.com/dataset/
 ## Acknowledge
 Here I would like to thank Miss Boey Pang, Miss Selene Lee, for their hard work on collecting datasource information.
