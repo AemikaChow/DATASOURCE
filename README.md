@@ -218,6 +218,18 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year  = {2017},
 }
 ```
+- Amazon Dress [[pdf]](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_7.pdf)
+```bib
+@inproceedings{laenen2017cross,
+  title={Cross-modal search for fashion attributes},
+  author={Laenen, Katrien and Zoghbi, Susana and Moens, Marie-Francine},
+  booktitle={Proceedings of the KDD 2017 Workshop on Machine Learning Meets Fashion},
+  volume={2017},
+  pages={1--10},
+  year={2017},
+  organization={ACM}
+}
+```
 - SFS 2017 [[homepage]](https://zenodo.org/record/833051#.XqfGivmWa70) [[pdf]](http://doi.org/10.1145/3123266.3123441) :pig:
 ```bib
 @inproceedings{gu2017understanding,
