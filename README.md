@@ -834,6 +834,7 @@ year = {2019}
 - Clothing Detection Dataset [[link]](https://github.com/seralexger/clothing-detection-dataset)
 - Clothing Size Recommendation [[link]](https://github.com/NeverInAsh/fit-recommendation)
 - Fashion Product Image [[link]](https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset)
+- Dresses_Attribute_Sales Data Set [[link]](https://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales)
 - HICP-Clothing [[link]](https://data.europa.eu/euodp/en/data/dataset/sE1cgO8hyGVp2RxD9iafA)
 - Fashion Toolbox [[link]](https://github.com/open-mmlab/mmfashion)
 - https://data.world/datasets/fashion
