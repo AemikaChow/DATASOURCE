@@ -612,6 +612,17 @@ Year = {2018}
 ```
 
 ## Generation
+- MPI Dynamic FAUST 2017 [[homepage]](http://dfaust.is.tue.mpg.de/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf)
+```bib
+@inproceedings{dfaust:CVPR:2017,
+  title = {Dynamic {FAUST}: {R}egistering Human Bodies in Motion},
+  author = {Bogo, Federica and Romero, Javier and Pons-Moll, Gerard and Black, Michael J.},
+  booktitle = {IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+  month = jul,
+  year = {2017},
+  month_numeric = {7}
+}
+```
 - FashionGAN 2017 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf) [[github]](https://github.com/zhusz/ICCV17-fashionGAN) :pig:
 ```bib
 @inproceedings{zhu2017be,
@@ -619,6 +630,15 @@ Year = {2018}
   author={Zhu, Shizhan and Fidler, Sanja and Urtasun, Raquel and Lin, Dahua and Chen, Change Loy},
   booktitle={Proceedings of the IEEE Conference on International Conference on Computer Vision},
   year={2017}
+}
+```
+- VTON 2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf) [[github]](https://github.com/xthan/VITON)
+```bib
+@inproceedings{han2017viton,
+  title = {VITON: An Image-based Virtual Try-on Network},
+  author = {Han, Xintong and Wu, Zuxuan and Wu, Zhe and Yu, Ruichi and Davis, Larry S},
+  booktitle = {CVPR},
+  year  = {2018},
 }
 ```
 - FashionGEN 2018 [[homepage]](https://fashion-gen.com/) [[pdf]](https://arxiv.org/pdf/1806.08317.pdf)
