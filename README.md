@@ -219,6 +219,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2017}
 }
 ```
+- Video2Shop 2017 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cheng_Video2Shop_Exact_Matching_CVPR_2017_paper.pdf)
+```bib
+@inproceedings{cheng2017video2shop,
+  title={Video2shop: Exact matching clothes in videos to online shopping images},
+  author={Cheng, Zhi-Qi and Wu, Xiao and Liu, Yang and Hua, Xian-Sheng},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4048--4056},
+  year={2017}
+}
+```
 - BrandFashion 2018 [[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Manandhar_Tiered_Deep_Similarity_Search_for_Fashion_ECCVW_2018_paper.pdf)
 ```bib
 @inproceedings{manandhar2018tiered,
