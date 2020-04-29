@@ -612,7 +612,7 @@ Year = {2018}
 ```
 
 ## Generation
-- MPI Dynamic FAUST 2017 [[homepage]](http://dfaust.is.tue.mpg.de/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf)
+- MPI Dynamic FAUST | BUFF 2017 [[homepage]](http://buff.is.tue.mpg.de/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf)
 ```bib
 @inproceedings{dfaust:CVPR:2017,
   title = {Dynamic {FAUST}: {R}egistering Human Bodies in Motion},
@@ -648,6 +648,25 @@ Year = {2018}
   author={Rostamzadeh, Negar and Hosseini, Seyedarian and Boquet, Thomas and Stokowiec, Wojciech and Zhang, Ying and Jauvin, Christian and Pal, Chris},
   journal={arXiv preprint arXiv:1806.08317},
   year={2018}
+}
+```
+- ZalandoGAN 2018 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/generative-fashion-design/) [[pdf]](https://arxiv.org/pdf/1806.07819.pdf) [[github]](https://github.com/zalandoresearch/disentangling_conditional_gans)
+```bib
+
+```
+- RTW 2018 [[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Sbai_DesIGN_Design_Inspiration_from_Generative_Networks_ECCVW_2018_paper.pdf)
+```bib
+
+```
+- SMPL 2018 [[homepage]](https://www.epfl.ch/labs/cvlab/research/garment-simulation/garnet/) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gundogdu_GarNet_A_Two-Stream_Network_for_Fast_and_Accurate_3D_Cloth_ICCV_2019_paper.pdf) :pig:
+```bib
+@inproceedings{gundogdu19garnet,
+title = {Garnet: A Two-stream Network for Fast and Accurate 3D Cloth Draping},
+author = {Gundogdu, Erhan and Constantin, Victor and Seifoddini, Amrollah and Dang, Minh and Salzmann, Mathieu and Fua, Pascal},
+booktitle = {{IEEE} International Conference on Computer Vision ({ICCV})},
+month = {oct},
+organization = {{IEEE}},
+year = {2019},
 }
 ```
 - Fashion Takes 2019 [[pdf]](https://virtualhumans.mpi-inf.mpg.de/papers/sattar2019WACV/sattar2019WACV.pdf)
