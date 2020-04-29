@@ -312,7 +312,17 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2018}
 }
 ```
-- FCDB [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Kataoka_Ten-Million-Order_Human_Database_for_World-Wide_Fashion_Culture_Analysis_CVPRW_2019_paper.pdf)
+- Flickr30k 2018 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3184558.3186354)
+```bib
+@inproceedings{lin2018netizen,
+  title={Netizen-style commenting on fashion photos: dataset and diversity measures},
+  author={Lin, Wen Hua and Chen, Kuan-Ting and Chiang, Hung Yueh and Hsu, Winston},
+  booktitle={Companion Proceedings of the The Web Conference 2018},
+  pages={395--402},
+  year={2018}
+}
+```
+- FCDB 2019 [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Kataoka_Ten-Million-Order_Human_Database_for_World-Wide_Fashion_Culture_Analysis_CVPRW_2019_paper.pdf)
 ```bib
 @InProceedings{Kataoka_2019_CVPR_Workshops,
 author = {Kataoka, Hirokatsu and Satoh, Yutaka and Abe, Kaori and Minoguchi, Munetaka and Nakamura, Akio},
