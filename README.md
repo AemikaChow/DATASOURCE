@@ -127,6 +127,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2014}
 }
 ```
+- WITB 2015 [[homepage]](http://www.tamaraberg.com/street2shop/) [[pdf]](http://www.tamaraberg.com/papers/street2shop.pdf)
+```bib
+@inproceedings{
+            WhereToBuyItICCV15,
+            title     = {Where to Buy It:Matching Street Clothing Photos in Online Shops}
+            author    = {M. Hadi Kiapour, Xufeng Han, Svetlana Lazebnik, Alexander C. Berg, Tamara L. Berg},
+            booktitle = {International Conference on Computer Vision},
+            year      = {2015}
+            }
+```
 - DARN 2015 [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf)
 ```bib
 @inproceedings{huang2015cross,
