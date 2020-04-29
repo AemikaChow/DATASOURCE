@@ -75,7 +75,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   publisher={IEEE}
 }
 ```
-- StreetStyle 2017 [[homepage]](http://streetstyle.cs.cornell.edu/#dataset) [[pdf]](https://arxiv.org/pdf/1706.01869.pdf) :pig:
+- StreetStyle27K 2017 [[homepage]](http://streetstyle.cs.cornell.edu/#dataset) [[pdf]](https://arxiv.org/pdf/1706.01869.pdf) :pig:
 ```bib
 @article{StreetStyle2017,
   title={{StreetStyle}: {E}xploring world-wide clothing styles from millions of photos},
