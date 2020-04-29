@@ -514,7 +514,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2017}
 }
 ```
-- Polyvore 2017 [[homepage]](https://github.com/xthan/polyvore) [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) :pig:
+- Polyvore 2017 [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) [[github]](https://github.com/xthan/polyvore) :pig:
 ```bib
 @inproceedings{han2017learning,
   author = {Han, Xintong and Wu, Zuxuan and Jiang, Yu-Gang and Davis, Larry S},
@@ -523,7 +523,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year  = {2017},
 }
 ```
-- Polyvore 2018 [[homepage]](https://github.com/mvasil/fashion-compatibility) [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf)
+- Polyvore 2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf) [[github]](https://github.com/mvasil/fashion-compatibility) :pig:
 ```bib
 @inproceedings{VasilevaECCV18FasionCompatibility,
 Author = {Mariya I. Vasileva and Bryan A. Plummer and Krishna Dusad and Shreya Rajpal and Ranjitha Kumar and David Forsyth},
@@ -539,6 +539,16 @@ Year = {2018}
   author={Rostamzadeh, Negar and Hosseini, Seyedarian and Boquet, Thomas and Stokowiec, Wojciech and Zhang, Ying and Jauvin, Christian and Pal, Chris},
   journal={arXiv preprint arXiv:1806.08317},
   year={2018}
+}
+```
+- POG 2019 [[pdf]](https://arxiv.org/pdf/1905.01866.pdf) [[github]](https://github.com/wenyuer/POG) :pig:
+```bib
+@inproceedings{chen2019pog,
+  title={POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion},
+  author={Chen, Wen and Huang, Pipei and Xu, Jiaming and Guo, Xin and Guo, Cheng and Sun, Fei and Li, Chao and Pfadler, Andreas and Zhao, Huan and Zhao, Binqiang},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={2662--2670},
+  year={2019}
 }
 ```
 - CP-VITON dataset [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
