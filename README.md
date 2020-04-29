@@ -250,6 +250,19 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2017}
 }
 ```
+- RFS | PFS 2018 
+```bib
+@article{gu2018multi,
+  title={Multi-Modal and Multi-Domain Embedding Learning for Fashion Retrieval and Analysis},
+  author={Gu, Xiaoling and Wong, Yongkang and Shou, Lidan and Peng, Pai and Chen, Gang and Kankanhalli, Mohan S},
+  journal={IEEE Transactions on Multimedia},
+  volume={21},
+  number={6},
+  pages={1524--1537},
+  year={2018},
+  publisher={IEEE}
+}
+```
 - BrandFashion 2018 [[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Manandhar_Tiered_Deep_Similarity_Search_for_Fashion_ECCVW_2018_paper.pdf)
 ```bib
 @inproceedings{manandhar2018tiered,
