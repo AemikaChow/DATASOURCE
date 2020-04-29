@@ -168,6 +168,15 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   organization={Springer}
 }
 ```
+- Fashion144K 2015 [[homepage]](https://esslab.jp/~ess/en/data/fashion144k_stylenet/) [[pdf]](https://www.cs.toronto.edu/~urtasun/publications/simo_etal_cvpr15.pdf) :pig:
+```bib
+@InProceedings{SimoSerraCVPR2015,
+  author    = {Edgar Simo-Serra and Sanja Fidler and Francesc Moreno-Noguer and Raquel Urtasun},
+  title     = {{Neuroaesthetics in Fashion: Modeling the Perception of Fashionability}},
+  booktitle = "Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR)",
+  year      = 2015,
+}
+```
 - WITB 2015 [[homepage]](http://www.tamaraberg.com/street2shop/) [[pdf]](http://www.tamaraberg.com/papers/street2shop.pdf) :pig:
 ```bib
 @inproceedings{hadi2015buy,
@@ -235,6 +244,15 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   author = {Han, Xintong and Wu, Zuxuan and Huang, Phoenix X. and Zhang, Xiao and Zhu, Menglong and Li, Yuan and Zhao, Yang  and Davis, Larry S.},
   booktitle = {ICCV},
   year  = {2017},
+}
+```
+- Fashion550K 2017 [[homepage]](https://esslab.jp/~ess/en/data/fashion550k/) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Inoue_Multi-Label_Fashion_Image_ICCV_2017_paper.pdf) :pig:
+```bib
+@InProceedings{InoueICCVW2017,
+   author    = {Naoto Inoue and Edgar Simo-Serra and Toshihiko Yamasaki and Hiroshi Ishikawa},
+   title     = {{Multi-Label Fashion Image Classification with Minimal Human Supervision}},
+   booktitle = "Proceedings of the International Conference on Computer Vision Workshops (ICCVW)",
+   year      = 2017,
 }
 ```
 - Amazon Dress [[pdf]](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_7.pdf)
