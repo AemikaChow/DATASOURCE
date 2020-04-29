@@ -363,6 +363,10 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2018}
 }
 ```
+- FashionBrand 2018 [[pdf]](https://arxiv.org/pdf/1810.09941v1.pdf)
+```bib
+
+```
 - Fashion60 2018 [[link]](https://ieeexplore.ieee.org/document/8396968)
 ```bib
 @inproceedings{kuang2018ontology,
@@ -480,10 +484,31 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2019}
 }
 ```
+- GarmentSet 2020 [[pdf]](https://arxiv.org/pdf/2001.06427.pdf)
+```bib
+
+```
 
 ## Keypoints
-- LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
-- DeepFashion2 [[homepage]](https://github.com/switchablenorms/DeepFashion2)
+- LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html) [[pdf]](https://arxiv.org/pdf/1608.03049.pdf) [[github]](https://github.com/liuziwei7/fashion-landmarks)
+```bib
+@inproceedings{liu2016fashionlandmark,
+ author = {Ziwei Liu, Sijie Yan, Ping Luo, Xiaogang Wang, and Xiaoou Tang},
+ title = {Fashion Landmark Detection in the Wild},
+ booktitle = {European Conference on Computer Vision (ECCV)},
+ month = {October},
+ year = {2016} 
+}
+```
+- DeepFashion2 [[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2)
+```bib
+@article{DeepFashion2,
+  author = {Yuying Ge and Ruimao Zhang and Lingyun Wu and Xiaogang Wang and Xiaoou Tang and Ping Luo},
+  title={A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images},
+  journal={CVPR},
+  year={2019}
+}
+```
 
 
 ## Outfit
@@ -504,6 +529,15 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   author={Sun, Will J and Gajos, Krzysztof Z}
 }
 ```
+- Edge2Garment 2016 [[homepage]](https://phillipi.github.io/pix2pix/) [[pdf]](https://arxiv.org/pdf/1810.09941v1.pdf) [[github]](https://github.com/phillipi/pix2pix) [[datalink]](https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/) :pig:
+```bib
+@article{pix2pix2016,
+  title={Image-to-Image Translation with Conditional Adversarial Networks},
+  author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A},
+  journal={arxiv},
+  year={2016}
+}
+```
 - FashionVC 2017 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123314)
 ```bib
 @inproceedings{song2017neurostylist,
@@ -514,7 +548,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2017}
 }
 ```
-- Fashion409K [[homepage]](http://vision.is.tohoku.ac.jp/~tangseng/smart_closet_project.html) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Tangseng_Recommending_Outfits_From_ICCV_2017_paper.pdf)
+- Fashion409K 2017 [[homepage]](http://vision.is.tohoku.ac.jp/~tangseng/smart_closet_project.html) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Tangseng_Recommending_Outfits_From_ICCV_2017_paper.pdf)
 ```bib
 @InProceedings{Tangseng_2017_ICCV,
 author = {Tangseng, Pongsate and Yamaguchi, Kota and Okatani, Takayuki},
@@ -546,7 +580,7 @@ year = {2017}
  publisher={IEEE}
 }
 ```
-- Polyvore 2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf) [[github]](https://github.com/mvasil/fashion-compatibility) :pig:
+- UIUC 2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf) [[github]](https://github.com/mvasil/fashion-compatibility) :pig:
 ```bib
 @inproceedings{VasilevaECCV18FasionCompatibility,
 Author = {Mariya I. Vasileva and Bryan A. Plummer and Krishna Dusad and Shreya Rajpal and Ranjitha Kumar and David Forsyth},
@@ -573,6 +607,10 @@ Year = {2018}
   pages={438--446},
   year={2018}
 }
+```
+- Lookastic 2019 [[pdf]](http://staff.ustc.edu.cn/~hexn/papers/sigir19-fashion.pdf)
+```bib
+
 ```
 - POG 2019 [[pdf]](https://arxiv.org/pdf/1905.01866.pdf) [[github]](https://github.com/wenyuer/POG) :pig:
 ```bib
@@ -606,7 +644,11 @@ Year = {2018}
   publisher={Elsevier}
 }
 ```
-- ASOS outfits [[pdf]](https://arxiv.org/pdf/1904.00741.pdf)
+- ASOS outfits 2019 [[pdf]](https://arxiv.org/pdf/1904.00741.pdf)
+```bib
+
+```
+- Chuanda 2020 [[pdf]](https://arxiv.org/pdf/2004.06229.pdf)
 ```bib
 
 ```
@@ -692,7 +734,6 @@ year = {2019},
 ```bib
 
 ```
-- CP-VITON [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
 
 ## Others
 - Amazon Reviews 2015 [[homepage]](https://nijianmo.github.io/amazon/index.html) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2766462.2767755)
@@ -779,6 +820,7 @@ year = {2019}
 - MPV (Multi-Pose Virtual try on) dataset [[link]](http://sysu-hcp.net/lip/overview.php)
 - Clothing Detection Dataset [[link]](https://github.com/seralexger/clothing-detection-dataset)
 - Clothing Size Recommendation [[link]](https://github.com/NeverInAsh/fit-recommendation)
+- Fashion Toolbox [[link]](https://github.com/open-mmlab/mmfashion)
 - https://data.world/datasets/fashion
 - https://tianchi.aliyun.com/dataset/
 ## Acknowledge
