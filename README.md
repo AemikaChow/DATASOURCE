@@ -158,6 +158,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   organization={IEEE}
 }
 ```
+- Fashion136K 2013 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623332)
+```bib
+@inproceedings{jagadeesh2014large,
+  title={Large scale visual recommendations from street fashion images},
+  author={Jagadeesh, Vignesh and Piramuthu, Robinson and Bhardwaj, Anurag and Di, Wei and Sundaresan, Neel},
+  booktitle={Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining},
+  pages={1925--1934},
+  year={2014}
+}
+```
 - UT-Zap50K 2014 [[homepage]](http://vision.cs.utexas.edu/projects/finegrained/utzap50k/) [[pdf]](http://aronyu.io/vision/papers/cvpr14/aron-cvpr14.pdf)
 ```bib
 @InProceedings{finegrained,
@@ -477,6 +487,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 
 ## Outfit
+- WoW 2012 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2393347.2393433)
+```bib
+@inproceedings{liu2012hi,
+  title={Hi, magic closet, tell me what to wear!},
+  author={Liu, Si and Feng, Jiashi and Song, Zheng and Zhang, Tianzhu and Lu, Hanqing and Xu, Changsheng and Yan, Shuicheng},
+  booktitle={Proceedings of the 20th ACM international conference on Multimedia},
+  pages={619--628},
+  year={2012}
+}
+```
 - Stylatrix
 ```bib
 @article{sunstylatrix,
@@ -484,13 +504,41 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   author={Sun, Will J and Gajos, Krzysztof Z}
 }
 ```
-- Polyvore [[homepage]](https://github.com/xthan/polyvore) [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) :pig:
+- FashionVC 2017 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123314)
+```bib
+@inproceedings{song2017neurostylist,
+  title={Neurostylist: Neural compatibility modeling for clothing matching},
+  author={Song, Xuemeng and Feng, Fuli and Liu, Jinhuan and Li, Zekun and Nie, Liqiang and Ma, Jun},
+  booktitle={Proceedings of the 25th ACM international conference on Multimedia},
+  pages={753--761},
+  year={2017}
+}
+```
+- Polyvore 2017 [[homepage]](https://github.com/xthan/polyvore) [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) :pig:
 ```bib
 @inproceedings{han2017learning,
   author = {Han, Xintong and Wu, Zuxuan and Jiang, Yu-Gang and Davis, Larry S},
   title = {Learning Fashion Compatibility with Bidirectional LSTMs},
   booktitle = {ACM Multimedia},
   year  = {2017},
+}
+```
+- Polyvore 2018 [[homepage]](https://github.com/mvasil/fashion-compatibility) [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf)
+```bib
+@inproceedings{VasilevaECCV18FasionCompatibility,
+Author = {Mariya I. Vasileva and Bryan A. Plummer and Krishna Dusad and Shreya Rajpal and Ranjitha Kumar and David Forsyth},
+Title = {Learning Type-Aware Embeddings for Fashion Compatibility},
+booktitle = {ECCV},
+Year = {2018}
+}
+```
+- FashionGEN 2018 [[homepage]](https://fashion-gen.com/) [[pdf]](https://arxiv.org/pdf/1806.08317.pdf)
+```bib
+@article{rostamzadeh2018fashion,
+  title={Fashion-gen: The generative fashion dataset and challenge},
+  author={Rostamzadeh, Negar and Hosseini, Seyedarian and Boquet, Thomas and Stokowiec, Wojciech and Zhang, Ying and Jauvin, Christian and Pal, Chris},
+  journal={arXiv preprint arXiv:1806.08317},
+  year={2018}
 }
 ```
 - CP-VITON dataset [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
