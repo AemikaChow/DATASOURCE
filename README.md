@@ -632,6 +632,10 @@ Year = {2018}
   year={2017}
 }
 ```
+- BeautyGAN 2018 [[homepage]](http://liusi-group.com/projects/BeautyGAN) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240618) :pig:
+```bib
+
+```
 - VTON 2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf) [[github]](https://github.com/xthan/VITON)
 ```bib
 @inproceedings{han2017viton,
@@ -640,6 +644,10 @@ Year = {2018}
   booktitle = {CVPR},
   year  = {2018},
 }
+```
+- DeepWear 2018 [[pdf]](https://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2018/03/deepwear.pdf)
+```bib
+
 ```
 - FashionGEN 2018 [[homepage]](https://fashion-gen.com/) [[pdf]](https://arxiv.org/pdf/1806.08317.pdf)
 ```bib
@@ -768,6 +776,7 @@ year = {2019}
 ```
 
 ## Other Sources
+- MPV (Multi-Pose Virtual try on) dataset [[link]](http://sysu-hcp.net/lip/overview.php)
 - Clothing Detection Dataset [[link]](https://github.com/seralexger/clothing-detection-dataset)
 - Clothing Size Recommendation [[link]](https://github.com/NeverInAsh/fit-recommendation)
 - https://data.world/datasets/fashion
