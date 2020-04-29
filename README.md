@@ -209,6 +209,15 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2016}
 }
 ```
+- Fashion200K [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Han_Automatic_Spatially-Aware_Fashion_ICCV_2017_paper.pdf) [[github]](https://github.com/xthan/fashion-200k/)
+```bib
+@inproceedings{han2017automatic,
+  title = {Automatic Spatially-aware Fashion Concept Discovery},
+  author = {Han, Xintong and Wu, Zuxuan and Huang, Phoenix X. and Zhang, Xiao and Zhu, Menglong and Li, Yuan and Zhao, Yang  and Davis, Larry S.},
+  booktitle = {ICCV},
+  year  = {2017},
+}
+```
 - SFS 2017 [[homepage]](https://zenodo.org/record/833051#.XqfGivmWa70) [[pdf]](http://doi.org/10.1145/3123266.3123441) :pig:
 ```bib
 @inproceedings{gu2017understanding,
