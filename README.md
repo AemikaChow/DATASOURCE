@@ -523,6 +523,19 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year  = {2017},
 }
 ```
+- AVA 2017 [[homepage]](http://personal.ie.cuhk.edu.hk/~dy015/ImageAesthetics/Image_Aesthetic_Assessment.html) [[pdf]](https://arxiv.org/pdf/1610.00838.pdf) :pig:
+```bib
+@article{deng2017image,
+ author = {Deng, Yubin and Loy, Chen Change and Tang, Xiaoou},
+ title = {Image Aesthetic Assessment: An Experimental Survey},
+ journal={IEEE Signal Processing Magazine},
+ volume={34},
+ number={4},
+ pages={80--106},
+ year={2017},
+ publisher={IEEE}
+}
+```
 - Polyvore 2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf) [[github]](https://github.com/mvasil/fashion-compatibility) :pig:
 ```bib
 @inproceedings{VasilevaECCV18FasionCompatibility,
@@ -530,16 +543,6 @@ Author = {Mariya I. Vasileva and Bryan A. Plummer and Krishna Dusad and Shreya R
 Title = {Learning Type-Aware Embeddings for Fashion Compatibility},
 booktitle = {ECCV},
 Year = {2018}
-}
-```
-- Shop the Look [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.pdf)[[github]](https://github.com/kang205/STL-Dataset) :pig: 
-```bib
-@inproceedings{kang2019complete,
-  title={Complete the Look: Scene-based Complementary Product Recommendation},
-  author={Kang, Wang-Cheng and Kim, Eric and Leskovec, Jure and Rosenberg, Charles and McAuley, Julian},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={10532--10541},
-  year={2019}
 }
 ```
 - IQON 2018 [[pdf]](https://arxiv.org/pdf/1807.03133.pdf) [[github]](https://github.com/Cherrybruin/iqon-dataset)
@@ -568,6 +571,16 @@ Year = {2018}
   author={Chen, Wen and Huang, Pipei and Xu, Jiaming and Guo, Xin and Guo, Cheng and Sun, Fei and Li, Chao and Pfadler, Andreas and Zhao, Huan and Zhao, Binqiang},
   booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
   pages={2662--2670},
+  year={2019}
+}
+```
+- Shop the Look 2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.pdf)[[github]](https://github.com/kang205/STL-Dataset) :pig: 
+```bib
+@inproceedings{kang2019complete,
+  title={Complete the Look: Scene-based Complementary Product Recommendation},
+  author={Kang, Wang-Cheng and Kim, Eric and Leskovec, Jure and Rosenberg, Charles and McAuley, Julian},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={10532--10541},
   year={2019}
 }
 ```
