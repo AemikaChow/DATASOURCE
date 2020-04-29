@@ -691,6 +691,7 @@ year = {2019}
 ```
 
 ## Other Sources
+- Clothing Detection Dataset [[link]](https://github.com/seralexger/clothing-detection-dataset)
 - https://data.world/datasets/fashion
 ## Acknowledge
 Here I would like to thank Miss Boey Pang, Miss Selene Lee, for their hard work on collecting datasource information.
