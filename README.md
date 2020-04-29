@@ -75,6 +75,25 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   publisher={IEEE}
 }
 ```
+- StreetStyle 2017 [[homepage]](http://streetstyle.cs.cornell.edu/#dataset) [[pdf]](https://arxiv.org/pdf/1706.01869.pdf) :pig:
+```bib
+@article{StreetStyle2017,
+  title={{StreetStyle}: {E}xploring world-wide clothing styles from millions of photos},
+  author={Kevin Matzen and Kavita Bala and Noah Snavely},
+  journal={arXiv preprint arXiv:1706.01869},
+  year={2017}
+}
+```
+- Fashionstyle14 2017 [[homepage]](https://esslab.jp/~ess/en/data/fashionstyle14/) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Takagi_What_Makes_a_ICCV_2017_paper.pdf) :pig:
+```bib
+@inproceedings{takagi2017makes,
+  title={What makes a style: Experimental analysis of fashion prediction},
+  author={Takagi, Moeko and Simo-Serra, Edgar and Iizuka, Satoshi and Ishikawa, Hiroshi},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision Workshops},
+  pages={2247--2253},
+  year={2017}
+}
+```
 - Refined Fashionista 2017 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](https://arxiv.org/pdf/1703.01386.pdf) [[github]](https://github.com/pongsate1/fashion-parsing) :pig:
 ```bib
 @article{tangseng2017looking,
