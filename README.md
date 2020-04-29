@@ -127,6 +127,17 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2014}
 }
 ```
+- Hipster Wars 2014 [[pdf]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2014/papers/8689/86890472.pdf)
+```bib
+@inproceedings{kiapour2014hipster,
+  title={Hipster wars: Discovering elements of fashion styles},
+  author={Kiapour, M Hadi and Yamaguchi, Kota and Berg, Alexander C and Berg, Tamara L},
+  booktitle={European conference on computer vision},
+  pages={472--488},
+  year={2014},
+  organization={Springer}
+}
+```
 - WITB 2015 [[homepage]](http://www.tamaraberg.com/street2shop/) [[pdf]](http://www.tamaraberg.com/papers/street2shop.pdf) :pig:
 ```bib
 @inproceedings{hadi2015buy,
