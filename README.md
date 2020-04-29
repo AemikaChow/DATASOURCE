@@ -84,7 +84,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   year={2017}
 }
 ```
-- FASHION8 [[pdf]](https://arxiv.org/pdf/1803.03415.pdf)
+- FASHION8 2018 [[pdf]](https://arxiv.org/pdf/1803.03415.pdf)
 ```bib
 @article{zhang2018fusing,
   title={Fusing Hierarchical Convolutional Features for Human Body Segmentation and Clothing Fashion Classification},
@@ -199,6 +199,17 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2017}
 }
 ```
+- Fashion60 2018 [[link]](https://ieeexplore.ieee.org/document/8396968)
+```bib
+@inproceedings{kuang2018ontology,
+  title={Ontology-driven hierarchical deep learning for fashion recognition},
+  author={Kuang, Zhenzhong and Yu, Jun and Yu, Zhou and Fan, Jianping},
+  booktitle={2018 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)},
+  pages={19--24},
+  year={2018},
+  organization={IEEE}
+}
+```
 - X-domain 2018 [[pdf]](https://arxiv.org/pdf/1804.10851.pdf)
 ```bib
 @article{dong2018imbalanced,
@@ -224,6 +235,24 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   publisher={Elsevier}
 }
 ```
+- Feidegger 2018 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/feidegger-dataset/) [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/319.pdf)
+```bib
+@inproceedings{lefakis2018feidegger,
+  title={FEIDEGGER: A Multi-modal Corpus of Fashion Images and Descriptions in German},
+  author={Lefakis, Leonidas and Akbik, Alan and Vollgraf, Roland},
+  booktitle={Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+  year={2018}
+}
+```
+- Studio2Shop 2018 [[pdf]](https://www.scitepress.org/Papers/2018/65445/65445.pdf)
+```bib
+@article{lasserre2018studio2shop,
+  title={Studio2shop: from studio photo shoots to fashion articles},
+  author={Lasserre, Julia and Rasch, Katharina and Vollgraf, Roland},
+  journal={arXiv preprint arXiv:1807.00556},
+  year={2018}
+}
+```
 - Shopping 100k 2018 [[pdf]](https://www.researchgate.net/profile/Kenan_Ak/publication/324728522_Efficient_Multi-Attribute_Similarity_Learning_Towards_Attribute-based_Fashion_Search/links/5adf5078aca272fdaf89c65a/Efficient-Multi-Attribute-Similarity-Learning-Towards-Attribute-based-Fashion-Search.pdf)
 ```bib
 @inproceedings{ak2018efficient,
@@ -235,7 +264,18 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   organization={IEEE}
 }
 ```
-- iMaterialist [[homepage]](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6) [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Guo_The_iMaterialist_Fashion_Attribute_Dataset_ICCVW_2019_paper.pdf) [[github]](https://github.com/visipedia/imat_fashion_comp) :pig:
+- Footwear 2018 [[homepage]](https://www.cse.iitd.ac.in/~chetan/projects.html) [[pdf]](https://www.cse.iitd.ac.in/~chetan/papers/icip18-fgvc.pdf)
+```bib
+@inproceedings{mahajan2018pose,
+  title={Pose Aware Fine-Grained Visual Classification Using Pose Experts},
+  author={Mahajan, Kushagra and Khurana, Tarasha and Chopra, Ayush and Gupta, Isha and Arora, Chetan and Rai, Atul},
+  booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},
+  pages={2381--2385},
+  year={2018},
+  organization={IEEE}
+}
+```
+- iMaterialist 2019 [[homepage]](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6) [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Guo_The_iMaterialist_Fashion_Attribute_Dataset_ICCVW_2019_paper.pdf) [[github]](https://github.com/visipedia/imat_fashion_comp) :pig:
 ```bib
 @inproceedings{guo2019imaterialist,
   title={The imaterialist fashion attribute dataset},
@@ -302,6 +342,18 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 - CP-VITON dataset [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
 
 ## Others
+- Fashion-MNIST 2017 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/) [[pdf]](https://arxiv.org/pdf/1708.07747.pdf) [[github]](https://github.com/zalandoresearch/fashion-mnist)
+```bib
+@online{xiao2017/online,
+  author       = {Han Xiao and Kashif Rasul and Roland Vollgraf},
+  title        = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms},
+  date         = {2017-08-28},
+  year         = {2017},
+  eprintclass  = {cs.LG},
+  eprinttype   = {arXiv},
+  eprint       = {cs.LG/1708.07747},
+}
+```
 - Shoe 2018 [[pdf]](http://papers.nips.cc/paper/7348-dialog-based-interactive-image-retrieval.pdf)
 ```bib
 @inproceedings{guo2018dialog,
