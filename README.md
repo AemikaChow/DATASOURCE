@@ -532,12 +532,32 @@ booktitle = {ECCV},
 Year = {2018}
 }
 ```
-- FashionGEN 2018 [[homepage]](https://fashion-gen.com/) [[pdf]](https://arxiv.org/pdf/1806.08317.pdf)
+- Shop the Look [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.pdf)[[github]](https://github.com/kang205/STL-Dataset) :pig: 
 ```bib
-@article{rostamzadeh2018fashion,
-  title={Fashion-gen: The generative fashion dataset and challenge},
-  author={Rostamzadeh, Negar and Hosseini, Seyedarian and Boquet, Thomas and Stokowiec, Wojciech and Zhang, Ying and Jauvin, Christian and Pal, Chris},
-  journal={arXiv preprint arXiv:1806.08317},
+@inproceedings{kang2019complete,
+  title={Complete the Look: Scene-based Complementary Product Recommendation},
+  author={Kang, Wang-Cheng and Kim, Eric and Leskovec, Jure and Rosenberg, Charles and McAuley, Julian},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={10532--10541},
+  year={2019}
+}
+```
+- IQON 2018 [[pdf]](https://arxiv.org/pdf/1807.03133.pdf) [[github]](https://github.com/Cherrybruin/iqon-dataset)
+```bib
+@article{nakamura2018outfit,
+  title={Outfit generation and style extraction via bidirectional lstm and autoencoder},
+  author={Nakamura, Takuma and Goto, Ryosuke},
+  journal={arXiv preprint arXiv:1807.03133},
+  year={2018}
+}
+```
+- Style4BodyShape 2018 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240546)
+```bib
+@inproceedings{hidayati2018dress,
+  title={What dress fits me best? fashion recommendation on the clothing style for personal body shape},
+  author={Hidayati, Shintami Chusnul and Hsu, Cheng-Chun and Chang, Yu-Ting and Hua, Kai-Lung and Fu, Jianlong and Cheng, Wen-Huang},
+  booktitle={Proceedings of the 26th ACM international conference on Multimedia},
+  pages={438--446},
   year={2018}
 }
 ```
@@ -551,7 +571,29 @@ Year = {2018}
   year={2019}
 }
 ```
-- CP-VITON dataset [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
+
+## Generation
+- FashionGEN 2018 [[homepage]](https://fashion-gen.com/) [[pdf]](https://arxiv.org/pdf/1806.08317.pdf)
+```bib
+@article{rostamzadeh2018fashion,
+  title={Fashion-gen: The generative fashion dataset and challenge},
+  author={Rostamzadeh, Negar and Hosseini, Seyedarian and Boquet, Thomas and Stokowiec, Wojciech and Zhang, Ying and Jauvin, Christian and Pal, Chris},
+  journal={arXiv preprint arXiv:1806.08317},
+  year={2018}
+}
+```
+- Fashion Takes 2019 [[pdf]](https://virtualhumans.mpi-inf.mpg.de/papers/sattar2019WACV/sattar2019WACV.pdf)
+```bib
+@inproceedings{sattar2019fashion,
+  title={Fashion is taking shape: Understanding clothing preference based on body shape from online sources},
+  author={Sattar, Hosnieh and Pons-Moll, Gerard and Fritz, Mario},
+  booktitle={2019 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={968--977},
+  year={2019},
+  organization={IEEE}
+}
+```
+- CP-VITON [[homepage]](https://github.com/ChanningPing/Fashion_Attribute_Editing)
 
 ## Others
 - Amazon Reviews 2015 [[homepage]](https://nijianmo.github.io/amazon/index.html) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2766462.2767755)
