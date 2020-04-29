@@ -403,6 +403,10 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   publisher={Elsevier}
 }
 ```
+- FASHIONAI Attributes 2018 [[homepage]](https://tianchi.aliyun.com/competition/entrance/231649/information) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]]()
+```bib
+
+```
 - Feidegger 2018 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/feidegger-dataset/) [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/319.pdf)
 ```bib
 @inproceedings{lefakis2018feidegger,
@@ -500,7 +504,11 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
  year = {2016} 
 }
 ```
-- DeepFashion2 [[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2)
+- FASHIONAI Keypoint 2018 [[homepage]](https://tianchi.aliyun.com/competition/entrance/231648/introduction?lang=zh-cn) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]]()
+```bib
+
+```
+- DeepFashion2 2019 [[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2)
 ```bib
 @article{DeepFashion2,
   author = {Yuying Ge and Ruimao Zhang and Lingyun Wu and Xiaogang Wang and Xiaoou Tang and Ping Luo},
@@ -734,6 +742,10 @@ year = {2019},
 ```bib
 
 ```
+- Deep Fashion3D 2020 [[pdf]](https://arxiv.org/pdf/2003.12753.pdf)
+```bib
+
+```
 
 ## Others
 - Amazon Reviews 2015 [[homepage]](https://nijianmo.github.io/amazon/index.html) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2766462.2767755)
@@ -818,8 +830,11 @@ year = {2019}
 
 ## Other Sources
 - MPV (Multi-Pose Virtual try on) dataset [[link]](http://sysu-hcp.net/lip/overview.php)
+- Clothing Attributes Dataset [[link]](https://exhibits.stanford.edu/data/catalog/tb980qz1002)
 - Clothing Detection Dataset [[link]](https://github.com/seralexger/clothing-detection-dataset)
 - Clothing Size Recommendation [[link]](https://github.com/NeverInAsh/fit-recommendation)
+- Fashion Product Image [[link]](https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset)
+- HICP-Clothing [[link]](https://data.europa.eu/euodp/en/data/dataset/sE1cgO8hyGVp2RxD9iafA)
 - Fashion Toolbox [[link]](https://github.com/open-mmlab/mmfashion)
 - https://data.world/datasets/fashion
 - https://tianchi.aliyun.com/dataset/
