@@ -839,7 +839,7 @@ year = {2019},
   year={2016}
 }
 ```
-- Fashion-MNIST 2017 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/) [[pdf]](https://arxiv.org/pdf/1708.07747.pdf) [[github]](https://github.com/zalandoresearch/fashion-mnist)
+- Fashion-MNIST 2017 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/) [[pdf]](https://arxiv.org/pdf/1708.07747.pdf) [[github]](https://github.com/zalandoresearch/fashion-mnist) :pig:
 ```bib
 @online{xiao2017/online,
   author       = {Han Xiao and Kashif Rasul and Roland Vollgraf},
