@@ -105,7 +105,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 ```
 
 ## Keypoints
-- LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html) [[pdf]](https://arxiv.org/pdf/1608.03049.pdf) [[github]](https://github.com/liuziwei7/fashion-landmarks)
+- LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html) [[pdf]](https://arxiv.org/pdf/1608.03049.pdf) [[github]](https://github.com/liuziwei7/fashion-landmarks) :pig:
 ```bib
 @inproceedings{liu2016fashionlandmark,
  author = {Ziwei Liu, Sijie Yan, Ping Luo, Xiaogang Wang, and Xiaoou Tang},
@@ -119,7 +119,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 ```bib
 
 ```
-- DeepFashion2 2019 [[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2)
+- DeepFashion2 2019 [[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2) :pig:
 ```bib
 @article{DeepFashion2,
   author = {Yuying Ge and Ruimao Zhang and Lingyun Wu and Xiaogang Wang and Xiaoou Tang and Ping Luo},
@@ -389,7 +389,13 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 - FashionBrand 2018 [[pdf]](https://arxiv.org/pdf/1810.09941v1.pdf)
 ```bib
-
+@inproceedings{hadi2018brand,
+  title={Brand> Logo: Visual Analysis of Fashion Brands},
+  author={Hadi Kiapour, M and Piramuthu, Robinson},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={0--0},
+  year={2018}
+}
 ```
 - Fashion60 2018 [[link]](https://ieeexplore.ieee.org/document/8396968)
 ```bib
