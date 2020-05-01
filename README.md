@@ -49,7 +49,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   organization={IEEE}
 }
 ```
-- HPW 2015 [[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](https://arxiv.org/pdf/1503.02391.pdf)
+- HCP 2015 [[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](https://arxiv.org/pdf/1503.02391.pdf) :pig:
 ```bib
 @article{liang2015deep,
   title={Deep human parsing with active template regression},
