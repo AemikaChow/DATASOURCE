@@ -117,7 +117,13 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 ```
 - FASHIONAI Keypoint 2018 [[homepage]](https://tianchi.aliyun.com/competition/entrance/231648/introduction?lang=zh-cn) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]]()
 ```bib
-
+@inproceedings{zou2019fashionai,
+  title={FashionAI: A Hierarchical Dataset for Fashion Understanding},
+  author={Zou, Xingxing and Kong, Xiangheng and Wong, Waikeung and Wang, Congde and Liu, Yuguang and Cao, Yang},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={0--0},
+  year={2019}
+}
 ```
 - DeepFashion2 2019 [[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2) :pig:
 ```bib
@@ -435,7 +441,13 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 - FASHIONAI Attributes 2018 [[homepage]](https://tianchi.aliyun.com/competition/entrance/231649/information) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]]()
 ```bib
-
+@inproceedings{zou2019fashionai,
+  title={FashionAI: A Hierarchical Dataset for Fashion Understanding},
+  author={Zou, Xingxing and Kong, Xiangheng and Wong, Waikeung and Wang, Congde and Liu, Yuguang and Cao, Yang},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={0--0},
+  year={2019}
+}
 ```
 - Feidegger 2018 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/feidegger-dataset/) [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/319.pdf)
 ```bib
