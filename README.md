@@ -834,6 +834,7 @@ year = {2019}
 - Fashion Product Image [[link]](https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset)
 - Dresses_Attribute_Sales Data Set [[link]](https://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales)
 - HICP-Clothing [[link]](https://data.europa.eu/euodp/en/data/dataset/sE1cgO8hyGVp2RxD9iafA)
+- Paper Doll Raw Dataset [[link]](https://github.com/kyamagu/paperdoll/tree/master/data/chictopia)
 - Fashion Toolbox [[link]](https://github.com/open-mmlab/mmfashion)
 - https://data.world/datasets/fashion
 - https://tianchi.aliyun.com/dataset/
