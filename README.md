@@ -183,7 +183,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year = {2014}
 }
 ```
-- Fashion 10000 2014 [[homepage]](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2557642.2563675)
+- Fashion 10000 2014 [[homepage]](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2557642.2563675) :pig:
 ```bib
 @inproceedings{loni2014fashion,
   title={Fashion 10000: an enriched social image dataset for fashion and clothing},
