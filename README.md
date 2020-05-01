@@ -239,7 +239,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2015}
 }
 ```
-- Clothing1M 2015 [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf) [[github]](https://github.com/Cysu/noisy_label)
+- Clothing1M 2015 [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf) [[github]](https://github.com/Cysu/noisy_label) :pig:
 ```bib
 @inproceedings{xiao2015learning,
   title={Learning from Massive Noisy Labeled Data for Image Classification},
@@ -270,7 +270,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2015}
 }
 ```
-- Etsy | Wear 2016 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/etsy-dataset/) [[pdf]](https://arxiv.org/pdf/1607.07262.pdf)
+- Etsy | Wear 2016 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/etsy-dataset/) [[pdf]](https://arxiv.org/pdf/1607.07262.pdf) :pig:
 ```bib
 @inproceedings{vittayakorn2016automatic,
   title={Automatic attribute discovery with neural activations},
@@ -532,7 +532,13 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 - GarmentSet 2020 [[pdf]](https://arxiv.org/pdf/2001.06427.pdf)
 ```bib
-
+@inproceedings{chen2020tailorgan,
+  title={TailorGAN: Making User-Defined Fashion Designs},
+  author={Chen, Lele and Tian, Justin and Li, Guo and Wu, Cheng-Haw and King, Erh-Kan and Chen, Kuan-Ting and Hsieh, Shao-Hang and Xu, Chenliang},
+  booktitle={The IEEE Winter Conference on Applications of Computer Vision},
+  pages={3241--3250},
+  year={2020}
+}
 ```
 
 ## Outfit
@@ -572,7 +578,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2017}
 }
 ```
-- Fashion409K 2017 [[homepage]](http://vision.is.tohoku.ac.jp/~tangseng/smart_closet_project.html) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Tangseng_Recommending_Outfits_From_ICCV_2017_paper.pdf)
+- Fashion409K 2017 [[homepage]](http://vision.is.tohoku.ac.jp/~tangseng/smart_closet_project.html) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Tangseng_Recommending_Outfits_From_ICCV_2017_paper.pdf) :pig:
 ```bib
 @InProceedings{Tangseng_2017_ICCV,
 author = {Tangseng, Pongsate and Yamaguchi, Kota and Okatani, Takayuki},
@@ -634,7 +640,13 @@ Year = {2018}
 ```
 - Lookastic 2019 [[pdf]](http://staff.ustc.edu.cn/~hexn/papers/sigir19-fashion.pdf)
 ```bib
-
+@inproceedings{yang2019interpretable,
+  title={Interpretable Fashion Matching with Rich Attributes},
+  author={Yang, Xun and He, Xiangnan and Wang, Xiang and Ma, Yunshan and Feng, Fuli and Wang, Meng and Chua, Tat-Seng},
+  booktitle={Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={775--784},
+  year={2019}
+}
 ```
 - POG 2019 [[pdf]](https://arxiv.org/pdf/1905.01866.pdf) [[github]](https://github.com/wenyuer/POG) :pig:
 ```bib
@@ -670,15 +682,25 @@ Year = {2018}
 ```
 - ASOS outfits 2019 [[pdf]](https://arxiv.org/pdf/1904.00741.pdf)
 ```bib
-
+@article{bettaney2019fashion,
+  title={Fashion Outfit Generation for E-commerce},
+  author={Bettaney, Elaine M and Hardwick, Stephen R and Zisimopoulos, Odysseas and Chamberlain, Benjamin Paul},
+  journal={arXiv preprint arXiv:1904.00741},
+  year={2019}
+}
 ```
 - Chuanda 2020 [[pdf]](https://arxiv.org/pdf/2004.06229.pdf)
 ```bib
-
+@article{liu2020imitation,
+  title={Imitation Learning for Fashion Style Based on Hierarchical Multimodal Representation},
+  author={Liu, Shizhu and Yang, Shanglin and Zhou, Hui},
+  journal={arXiv preprint arXiv:2004.06229},
+  year={2020}
+}
 ```
 
 ## Generation
-- MPI Dynamic FAUST | BUFF 2017 [[homepage]](http://buff.is.tue.mpg.de/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf)
+- MPI Dynamic FAUST | BUFF 2017 [[homepage]](http://buff.is.tue.mpg.de/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf) :pig:
 ```bib
 @inproceedings{dfaust:CVPR:2017,
   title = {Dynamic {FAUST}: {R}egistering Human Bodies in Motion},
@@ -700,9 +722,15 @@ Year = {2018}
 ```
 - BeautyGAN 2018 [[homepage]](http://liusi-group.com/projects/BeautyGAN) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240618) :pig:
 ```bib
-
+@inproceedings{li2018beautygan,
+  title={Beautygan: Instance-level facial makeup transfer with deep generative adversarial network},
+  author={Li, Tingting and Qian, Ruihe and Dong, Chao and Liu, Si and Yan, Qiong and Zhu, Wenwu and Lin, Liang},
+  booktitle={Proceedings of the 26th ACM international conference on Multimedia},
+  pages={645--653},
+  year={2018}
+}
 ```
-- VTON 2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf) [[github]](https://github.com/xthan/VITON)
+- VTON 2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf) [[github]](https://github.com/xthan/VITON) :pig:
 ```bib
 @inproceedings{han2017viton,
   title = {VITON: An Image-based Virtual Try-on Network},
@@ -713,7 +741,13 @@ Year = {2018}
 ```
 - DeepWear 2018 [[pdf]](https://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2018/03/deepwear.pdf)
 ```bib
-
+@inproceedings{kato2018deepwear,
+  title={DeepWear: a Case Study of Collaborative Design between Human and Artificial Intelligence},
+  author={Kato, Natsumi and Osone, Hiroyuki and Sato, Daitetsu and Muramatsu, Naoya and Ochiai, Yoichi},
+  booktitle={Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction},
+  pages={529--536},
+  year={2018}
+}
 ```
 - FashionGEN 2018 [[homepage]](https://fashion-gen.com/) [[pdf]](https://arxiv.org/pdf/1806.08317.pdf)
 ```bib
@@ -726,11 +760,22 @@ Year = {2018}
 ```
 - ZalandoGAN 2018 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/generative-fashion-design/) [[pdf]](https://arxiv.org/pdf/1806.07819.pdf) [[github]](https://github.com/zalandoresearch/disentangling_conditional_gans)
 ```bib
-
+@article{yildirim2018disentangling,
+  title={Disentangling multiple conditional inputs in gans},
+  author={Yildirim, G{\"o}khan and Seward, Calvin and Bergmann, Urs},
+  journal={arXiv preprint arXiv:1806.07819},
+  year={2018}
+}
 ```
 - RTW 2018 [[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Sbai_DesIGN_Design_Inspiration_from_Generative_Networks_ECCVW_2018_paper.pdf)
 ```bib
-
+@inproceedings{sbai2018design,
+  title={Design: Design inspiration from generative networks},
+  author={Sbai, Othman and Elhoseiny, Mohamed and Bordes, Antoine and LeCun, Yann and Couprie, Camille},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={0--0},
+  year={2018}
+}
 ```
 - SMPL 2018 [[homepage]](https://www.epfl.ch/labs/cvlab/research/garment-simulation/garnet/) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gundogdu_GarNet_A_Two-Stream_Network_for_Fast_and_Accurate_3D_Cloth_ICCV_2019_paper.pdf) :pig:
 ```bib
@@ -756,11 +801,22 @@ year = {2019},
 ```
 - StyleGAN 2019 [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Yildirim_Generating_High-Resolution_Fashion_Model_Images_Wearing_Custom_Outfits_ICCVW_2019_paper.pdf)
 ```bib
-
+@inproceedings{yildirim2019generating,
+  title={Generating High-Resolution Fashion Model Images Wearing Custom Outfits},
+  author={Yildirim, Gokhan and Jetchev, Nikolay and Vollgraf, Roland and Bergmann, Urs},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision Workshops},
+  pages={0--0},
+  year={2019}
+}
 ```
 - Deep Fashion3D 2020 [[pdf]](https://arxiv.org/pdf/2003.12753.pdf)
 ```bib
-
+@article{zhu2020deep,
+  title={Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images},
+  author={Zhu, Heming and Cao, Yu and Jin, Hang and Chen, Weikai and Du, Dong and Wang, Zhangye and Cui, Shuguang and Han, Xiaoguang},
+  journal={arXiv preprint arXiv:2003.12753},
+  year={2020}
+}
 ```
 
 ## Others
