@@ -658,7 +658,7 @@ Year = {2018}
   year={2019}
 }
 ```
-- Shop the Look 2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.pdf)[[github]](https://github.com/kang205/STL-Dataset) :pig: 
+- Shop the Look 2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.pdf)[[github]](https://github.com/kang205/STL-Dataset) 
 ```bib
 @inproceedings{kang2019complete,
   title={Complete the Look: Scene-based Complementary Product Recommendation},
