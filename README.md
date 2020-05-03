@@ -777,7 +777,7 @@ Year = {2018}
   year={2018}
 }
 ```
-- SMPL 2018 [[homepage]](https://www.epfl.ch/labs/cvlab/research/garment-simulation/garnet/) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gundogdu_GarNet_A_Two-Stream_Network_for_Fast_and_Accurate_3D_Cloth_ICCV_2019_paper.pdf) :pig:
+- SMPL 2018 [[homepage]](https://www.epfl.ch/labs/cvlab/research/garment-simulation/garnet/) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gundogdu_GarNet_A_Two-Stream_Network_for_Fast_and_Accurate_3D_Cloth_ICCV_2019_paper.pdf) 
 ```bib
 @inproceedings{gundogdu19garnet,
 title = {Garnet: A Two-stream Network for Fast and Accurate 3D Cloth Draping},
