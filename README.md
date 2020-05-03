@@ -730,7 +730,7 @@ Year = {2018}
   year={2018}
 }
 ```
-- VTON 2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf) [[github]](https://github.com/xthan/VITON) :pig:
+- VTON 2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf) [[github]](https://github.com/xthan/VITON) 
 ```bib
 @inproceedings{han2017viton,
   title = {VITON: An Image-based Virtual Try-on Network},
