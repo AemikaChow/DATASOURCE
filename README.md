@@ -270,7 +270,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **WFC 2013**  
 
 (1) **Women’s Coat** Dataset contains **2,092** images total with manuly annotated labels.  
-(2) 12 coat/jacket categories: cape, military, motorcycle, peacoat, poncho, puffer, trench, *etc*.  
+(2) **12** coat/jacket categories: cape, military, motorcycle, peacoat, poncho, puffer, trench, *etc*.  
 (3) **27** (Material(5), Fastener(4), Fastener style(3),  clothing length(3), silhouette(2), pocket(2), neckline(8)) binary attributes.  
 
 [homepage] [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2013/W03/papers/Di_Style_Finder_Fine-Grained_2013_CVPR_paper.pdf)
@@ -287,6 +287,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **ZOZOTOWN 2013**  
 
+(1) **12,719** photos on  ZOZOTOWN.  
+(2) Have several meta-data, gender information,  wearing items information, and photo date.  
 
 [homepage] [[pdf]](https://www.researchgate.net/profile/Kiyoharu_Aizawa/publication/261438969_SNAPPER_Fashion_coordinate_image_retrieval_system/links/0f31753472d15b5839000000/SNAPPER-Fashion-coordinate-image-retrieval-system.pdf)
 ```bib
@@ -299,6 +301,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   organization={IEEE}
 }
 ```
+
+
 :cherries: **Fashion136K 2013**  
 
 
