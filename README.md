@@ -7,7 +7,7 @@ This is a summary. We reviewed all  (to our best knowledge) fashion-related pape
 We uniformed the words decribe the fashion concept.
 - &nbsp;**Silhouette** (shape, cut): the shape of a garment, *e.g.* H line, A line *etc*;
 - &nbsp;**Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
-- &nbsp;**Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
+- &nbsp;**Print** (pattern, texture): the surface design of a garment, *e.g.* checks, dotted *etc*;
 - &nbsp;**Neckline** (collar shape, collar): the design in the neck region of a garment, *e.g.* V-neck, lapel *etc*; 
 - &nbsp;**Design details** (structures): designs which can be used in anywhere of a garment, *e.g.* frilly, ruffled *etc*;
 - &nbsp;**Opening** (cloth button): the way designed in the opening of a garment *e.g.* button, zipped *etc*;
@@ -497,6 +497,9 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **DeepFashion 2016**  
 
+(1) over **800,000** images, which are richly annotated with massive attributes, clothing landmarks, and correspondence of images.  
+(2) **50** fine-grained categories and **1, 000 descriptive attributes**.  
+(3) attributes including Category,  Print, Material, Silhouette, Part, Style.  
 
 [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/liuLQWTcvpr16.pdf) :pig:
 ```bib
