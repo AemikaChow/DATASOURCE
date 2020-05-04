@@ -922,7 +922,16 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 
 ## 3. &nbsp;Outfit
+For outfit generation, recommendation, evaluation, comnpatibility learning *etc*.
+******
+
 :cherries: **WoW 2012**  
+
+(1) **24,417** clothing images that are fully annotated.  
+(2) **7** multi-value clothing attributes and **10** occasion categories.  
+(3) **9,469** images with visible full-body. **8,421** images with only upper-body. **6,527** images with lower-body clothing.  
+(4) Color(11), Material(6), Print(6), Neckline(6), Sleeve length(3), Bottom length(3).  
+(5) labeled with **10** common occasions.  
 
 [homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2393347.2393433)
 ```bib
@@ -934,8 +943,9 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2012}
 }
 ```
-:cherries: **Stylatrix**  
 
+
+:cherries: **Stylatrix**  
 
 [homepage] [[pdf]]  
 ```bib
@@ -944,6 +954,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   author={Sun, Will J and Gajos, Krzysztof Z}
 }
 ```
+
+
 :cherries: **Edge2Garment 2016**  
 
 [[homepage]](https://phillipi.github.io/pix2pix/) [[pdf]](https://arxiv.org/pdf/1810.09941v1.pdf) [[github]](https://github.com/phillipi/pix2pix) [[datalink]](https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/) :pig:
@@ -955,7 +967,12 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2016}
 }
 ```
+
+
 :cherries: **FashionVC 2017**  
+
+(1) **20,726** outfits with **14,871** tops and **13,663** bottoms.  
+(2) visual image, categories and title description are collected.  
 
 [homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123314)
 ```bib
@@ -967,7 +984,11 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2017}
 }
 ```
+
+
 :cherries: **Fashion409K 2017**  
+
+(1)	**409,776** sets of clothing items from **644,192** unique items.  
 
 [[homepage]](http://vision.is.tohoku.ac.jp/~tangseng/smart_closet_project.html) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Tangseng_Recommending_Outfits_From_ICCV_2017_paper.pdf) :pig:
 ```bib
@@ -979,7 +1000,13 @@ month = {Oct},
 year = {2017}
 }
 ```
+
+
 :cherries: **Polyvore 2017**  
+
+(1)  **21,889** outfits and **164,379** items.  
+(2) keep the first **8** for simplicity, the average number of fashion items in an outfit is **6.5**.  
+(3) to clean the text descriptions, words appearing fewer than 30 times are deleted, leading to a vocabulary of size **2,757**.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) [[github]](https://github.com/xthan/polyvore) :pig:
 ```bib
@@ -990,7 +1017,13 @@ year = {2017}
   year  = {2017},
 }
 ```
+
+
 :cherries: **AVA 2017**  
+
+(1) photo.net dataset contains **20,278** images with at least 10 score ratings per image.  
+(2) CUHK-PhotoQuality (CUHK-PQ) dataset t contains **17,690** images. All images are given a binary aesthetic label.  
+(3)	Aesthetic Visual Analysis (AVA) dataset contains **250k** images. Each image receives 78 ∼ 549 votes of score ranging from 1 to 10.  
 
 [[homepage]](http://personal.ie.cuhk.edu.hk/~dy015/ImageAesthetics/Image_Aesthetic_Assessment.html) [[pdf]](https://arxiv.org/pdf/1610.00838.pdf) :pig:
 ```bib
@@ -1005,7 +1038,12 @@ year = {2017}
  publisher={IEEE}
 }
 ```
+
+
 :cherries: **UIUC 2018**  
+
+(1) **68,306** outfits and **365,054** items.  
+(2) **19** max items, which has semantic category labeled.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf) [[github]](https://github.com/mvasil/fashion-compatibility) 
 ```bib
@@ -1016,7 +1054,11 @@ booktitle = {ECCV},
 Year = {2018}
 }
 ```
+
+
 :cherries: **IQON 2018**  
+
+(1)	**164,837** items of clothing grouped in **21,889** outfits.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1807.03133.pdf) [[github]](https://github.com/Cherrybruin/iqon-dataset)
 ```bib
@@ -1027,7 +1069,12 @@ Year = {2018}
   year={2018}
 }
 ```
+
+
 :cherries: **Style4BodyShape 2018**  
+
+(1)	**3,150** female celebrities annotated with the corresponding types of body shapes.  
+(2) **349,298** images of **270** stylish celebrities annotated with the types of clothing items.  
 
 [homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240546)
 ```bib
@@ -1039,7 +1086,14 @@ Year = {2018}
   year={2018}
 }
 ```
+
+
 :cherries: **Lookastic 2019**  
+
+(1) **30,790** fashionable outfits from the Lookastic.  
+(2) **124,665** matched pairs for men with **5,069** items.  
+(3) **158,755** matched pairs for women with **10,016** items.  
+(4) 65 Colors, 38 Materials, 40 Print, 253 fine-grained categories, 11 styles, and 114 sub-categories.  
 
 [homepage] [[pdf]](http://staff.ustc.edu.cn/~hexn/papers/sigir19-fashion.pdf)
 ```bib
@@ -1051,7 +1105,12 @@ Year = {2018}
   year={2019}
 }
 ```
+
+
 :cherries: **POG 2019**  
+
+(1) **1.01 million** outfits, **583K** fashion items, with context information.  
+(2) **0.28 billion** user click actions from **3.57 million** users.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1905.01866.pdf) [[github]](https://github.com/wenyuer/POG) :pig:
 ```bib
@@ -1063,7 +1122,11 @@ Year = {2018}
   year={2019}
 }
 ```
+
+
 :cherries: **Shop the Look 2019**  
+
+(1) based on Shop the Look (STL) task, and covert STL data into a format that can be used for our Complete the Look (CTL) task.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.pdf)[[github]](https://github.com/kang205/STL-Dataset) 
 ```bib
@@ -1075,7 +1138,13 @@ Year = {2018}
   year={2019}
 }
 ```
+
+
 :cherries: **ExpFashion 2019**  
+
+(1) FashionVC+, consisting of both the visual and textual metadata of fashion items (i.e.,the tops, bottoms and shoes) on Polyvore.  
+(2) **20,726** outfits with **14,870** tops, **13,662** bottoms and **14,093** pairs of shoes, respectively.  
+(3) ExpFashion dataset consists of **893,991** outfits with **168,682** tops and **117,668** bottom.  
 
 [homepage] [[pdf]](https://xuemengsong.github.io/Neuro_2019.pdf)
 ```bib
@@ -1089,7 +1158,13 @@ Year = {2018}
   publisher={Elsevier}
 }
 ```
+
+
 :cherries: **ASOS outfits 2019**  
+
+(1) **586,320** fashion outfits (images and textual descriptions) composed by ASOS stylists.  
+(2) each containing between 2 and 5 items.  
+(3) **591,725** unique items representing **18** different womenswear product types and **22** different menswear product type.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1904.00741.pdf)
 ```bib
@@ -1100,7 +1175,12 @@ Year = {2018}
   year={2019}
 }
 ```
+
+
 :cherries: **Chuanda 2020**  
+
+(1) **3,557** outfits covering **67** basic fashion styles.  
+(2) labeled with **1,879** distinct fashion related attributes that belong to 5 types: Gender, Season, Style, Material, and Function.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/2004.06229.pdf)
 ```bib
@@ -1112,7 +1192,11 @@ Year = {2018}
 }
 ```
 
+
 ## 4. &nbsp;Generation
+For 3D generation, VTON *etc*.
+*******
+
 :cherries: **MPI Dynamic FAUST | BUFF 2017**  
 
 [[homepage]](http://buff.is.tue.mpg.de/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf) :pig:
