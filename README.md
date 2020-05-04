@@ -22,7 +22,10 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 *****
 **Fashionista 2012** :pig:  
 
-(1) **158,235** fashion photos with associated text annotations (tags, comments, and links). (2) The tags are noisy or incomplete. (3) **685** photos with good visibility of the full-body with pose annotations for the usual 14 body parts. (4) There are totally **56** labels (**53** category or sub-category labels, and additional labels for hair, skin, and null (background).  
+(1) **158,235** fashion photos with associated text annotations (tags, comments, and links).  
+(2) The tags are noisy or incomplete.  
+(3) **685** photos with good visibility of the full-body with pose annotations for the usual 14 body parts.  
+(4) There are totally **56** labels (**53** category or sub-category labels, and additional labels for hair, skin, and null (background).  
 
 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) 
 ```bib
