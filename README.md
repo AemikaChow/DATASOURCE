@@ -10,6 +10,7 @@ We uniformed the words decribe the fashion concept.
 - &nbsp;**Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
 - &nbsp;**Neckline** (collar shape, collar): the design in the neck region of a garment, *e.g.* V-neck, lapel *etc*; 
 - &nbsp;**Design details** (structures): designs which can be used in anywhere of a garment, *e.g.* frilly, ruffled *etc*;
+- &nbsp;**Opening** (cloth button): the way designed in the opening of a garment *e.g.* button, zipped *etc*;
 - &nbsp;**Category** (type): type of a garment, *e.g.* dress, top *etc*;
 - &nbsp;**Sub-category**: fine-grained type of a garment, *e.g.* wedding dress, T-shire *etc*;
 - &nbsp;**Styles** (looks): the expressed feeling of a garment of an outfit, *e.g.* lovely, casual *etc*;
@@ -425,6 +426,9 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **Clothing1M 2015**  
 
+(1)  **1, 000, 000** clothing images with 14 class labels: T-shirt, Shirt, Knitwear, Chiffon, Sweater, Hoodie, Windbreaker, Jacket, Down Coat *etc*.  
+(2) each image is automatically assigned with a noisy label according to the keywords in its surrounding text.  
+(3) manually refine **72, 409** image labels, which constitute a clean sub-dataset.  
 
 [homepage] [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf) [[github]](https://github.com/Cysu/noisy_label) :pig:
 ```bib
