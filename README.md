@@ -2,15 +2,18 @@
 
 This is a summary. We reviewed all  (to our best knowledge) fashion-related papers in the past decade and recorded the datasets been used. The numbers to describe the dataset is faithfully followed its original paper.  
 
-:pig: means the dataset can be found
-- We uniformed the words for consistency. **Silhouette** (shape): the shape of a garment, *e.g.* H line, A line *etc*; **Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
-**Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
-**Category** (type): type of a garment, *e.g.* dress, top *etc*;
-**Sub-category**: fine-grained type of a garment, *e.g.* wedding dress, T-shire *etc*;
-**Style**: the expressed feeling of a garment of an outfit, *e.g.* lovely, casual *etc*;
-**Design Attributes**: the attributes used in the process of garment design, *e.g.* shirt cuff, shirt collar *etc*;
-**Retail Attributes**: the attributes used in the process of retail, *e.g.*  parka, windbreaker *etc*.
-- If you have problems with a specific dataset shows below, please kindly contact its authors. For quick check, you can also see [memo version](https://drive.google.com/open?id=1ucwMgee0Df1P--cDHQR9XdcPPuMjgaSt) &copy;
+:pig: means the dataset can be found  
+
+We uniformed the words for consistency.
+- **Silhouette** (shape): the shape of a garment, *e.g.* H line, A line *etc*; **Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
+- **Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
+- **Category** (type): type of a garment, *e.g.* dress, top *etc*;
+- **Sub-category**: fine-grained type of a garment, *e.g.* wedding dress, T-shire *etc*;
+- **Style**: the expressed feeling of a garment of an outfit, *e.g.* lovely, casual *etc*;
+- **Design Attributes**: the attributes used in the process of garment design, *e.g.* shirt cuff, shirt collar *etc*;
+- **Retail Attributes**: the attributes used in the process of retail, *e.g.*  parka, windbreaker *etc*.  
+
+If you have problems with a specific dataset shows below, please kindly contact its authors. For quick check, you can also see [memo version](https://drive.google.com/open?id=1ucwMgee0Df1P--cDHQR9XdcPPuMjgaSt) &copy;
 
 ## 0. Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and *etc*.
