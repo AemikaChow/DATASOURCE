@@ -6,9 +6,12 @@ This is a summary. We reviewed all  (to our best knowledge) fashion-related pape
 - If you have problems with a specific dataset shows below, please kindly contact its authors. For quick check, you can also see [memo version](https://drive.google.com/open?id=1ucwMgee0Df1P--cDHQR9XdcPPuMjgaSt) &copy;
 
 ## 0. Parsing 
-For semantic segmentation, object detection, instance segmentation, polygon detection, and etc.
+For semantic segmentation, object detection, instance segmentation, polygon detection, and *etc*.
 *****
-- Fashionista 2012 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) :pig:
+**Fashionista 2012**
+
+
+[[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) :pig:
 ```bib
 @inproceedings{yamaguchi2012parsing,
   title={Parsing clothing in fashion photographs},
