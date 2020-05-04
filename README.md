@@ -369,6 +369,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **Fashion144K 2015**  
 
+(1) **144,169** user posts containing diverse images, textual, and meta information.  
+(2) labels like location, comments, votes *etc*.  
 
 [[homepage]](https://esslab.jp/~ess/en/data/fashion144k_stylenet/) [[pdf]](https://www.cs.toronto.edu/~urtasun/publications/simo_etal_cvpr15.pdf) :pig:
 ```bib
