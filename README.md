@@ -3,11 +3,7 @@
 This is a summary. We reviewed all  (to our best knowledge) fashion-related papers in the past decade and recorded the datasets been used. The numbers to describe the dataset is faithfully followed its original paper.
 
 - :pig: means the dataset can be found
-- We uniformed the words for consistency.  
-
-Silhouette (shape): the shape of a garment, *e.g.* H line, A line *etc*;  
-
-Material (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
+- We uniformed the words for consistency. **Silhouette** (shape): the shape of a garment, *e.g.* H line, A line *etc*; **Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
 Print (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
 Style: the expressed feeling of a garment of an outfit, *e.g.* lovely, casual *etc*;
 Design Attributes: the attributes used in the process of garment design, *e.g.* shirt cuff, shirt collar *etc*;
