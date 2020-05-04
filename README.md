@@ -20,14 +20,14 @@ If you have problems with a specific dataset shows below, please kindly contact 
 ## 0. &nbsp;Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and *etc*.
 *****
-:cherries: **Fashionista 2012** :pig:  
+:cherries: **Fashionista 2012**   
 
 (1) **158,235** fashion photos with associated text annotations (tags, comments, and links).  
 (2) The tags are noisy or incomplete.  
 (3) **685** photos with good visibility of the full-body with pose annotations for the usual 14 body parts.  
 (4) There are totally **56** labels (**53** category or sub-category labels, and additional labels for hair, skin, and null (background).  
 
-[[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) 
+[[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) :pig:
 ```bib
 @inproceedings{yamaguchi2012parsing,
   title={Parsing clothing in fashion photographs},
@@ -39,13 +39,13 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
   
-**Paperdoll 2013** :pig:  
+**Paperdoll 2013**   
 
 (1) Over **1 million** pictures from chictopia.com with associated metadata tags i.e. color, clothing item, or occasion.  
 (2) **339,797** pictures weakly annotated with clothing items and estimated pose.  
 (3) **685** fully parsed images .
 
-[[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/paperdoll/) [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Yamaguchi_Paper_Doll_Parsing_2013_ICCV_paper.pdf) 
+[[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/paperdoll/) [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Yamaguchi_Paper_Doll_Parsing_2013_ICCV_paper.pdf) :pig:
 ```bib
 @inproceedings{yamaguchi2013paper,
   title={Paper doll parsing: Retrieving similar styles to parse clothing items},
@@ -56,13 +56,13 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
 
-**CFPD 2013** :pig:  
+**CFPD 2013**   
 
 (1) **97,490** images with 292,541 tags from Chictopia.com.  
 (2) **2,682** images in total, and all the pixels in the images are annotated with both color labels (**13**) and category labels (**23**).   
 (3) **Weakly supervised setting**, where only image-level tags are available in the training phase.
 
-[[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) 
+[[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) :pig:
 ```bib
 @article{liu2013fashion,
   title={Fashion parsing with weak color-category labels},
@@ -75,7 +75,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   publisher={IEEE}
 }
 ```
-**CCP 2013** :pig:    
+**CCP 2013**     
 
 (1) It consisting of **2098** high-resolution street fashion photos.  
 (2) More than **1,000** images are annotated with superpixel-level labeling with a total of **57** tags.  
@@ -83,7 +83,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 (4) Each image has **124** fine-grained semantic attributes.  
 (5) **20** categories, **56** colors, **6** clothing length, **10** silhouette, **25** necklines, and **7** sleeve length. 
  
-[[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](http://linliang.net/wp-content/uploads/2017/07/TMM_Clothes.pdf) [[github]](https://github.com/bearpaw/clothing-co-parsing) 
+[[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](http://linliang.net/wp-content/uploads/2017/07/TMM_Clothes.pdf) [[github]](https://github.com/bearpaw/clothing-co-parsing) :pig:
 ```bib
 @inproceedings{yang2014clothing,
   title={Clothing Co-Parsing by Joint Image Segmentation and Labeling},
@@ -93,14 +93,14 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   organization={IEEE}
 }
 ```
-**HCP 2015** :pig:  
+**HCP 2015**   
 
 (1) **7,700** images in total.  
 (2) Combined Fashionista (685), CFPD (2,682), Daily Photos dataset (2,500).  
 (3) Crawl another **1,833** challenging images （*e.g.* sitting or occlusion) annotate pixel-level labels.  
 (4) **18** categories of labels, *e.g.*  face, sunglass, hat, scarf *etc*.  
 
-[[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](https://arxiv.org/pdf/1503.02391.pdf) 
+[[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](https://arxiv.org/pdf/1503.02391.pdf) :pig:
 ```bib
 @article{liang2015deep,
   title={Deep human parsing with active template regression},
@@ -132,12 +132,12 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   publisher={IEEE}
 }
 ```
-**Refined Fashionista 2017** :pig:  
+**Refined Fashionista 2017**   
 
 (1) Reduces the number of clothing categories from **56** to **25** essential labels.  
 (2) Manually annotated all the **685** images in the Fashionista dataset.  
 
-[[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](https://arxiv.org/pdf/1703.01386.pdf) [[github]](https://github.com/pongsate1/fashion-parsing) 
+[[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](https://arxiv.org/pdf/1703.01386.pdf) [[github]](https://github.com/pongsate1/fashion-parsing) :pig:
 ```bib
 @article{tangseng2017looking,
   title={Looking at outfit to parse clothing},
