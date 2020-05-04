@@ -670,7 +670,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **BrandFashion 2018**  
 
-(1) **10K ** clothing images with distinctive logos from **15** brands.  
+(1) **10K** clothing images with distinctive logos from **15** brands.  
 (2) label with **16** clothing categories and **32** semantic attributes.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Manandhar_Tiered_Deep_Similarity_Search_for_Fashion_ECCVW_2018_paper.pdf)
@@ -686,7 +686,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **FashionBrand 2018**  
 
-(1) **3, 828, 735** clothing product images from **1,219** brands.   
+(1) **3,828,735** clothing product images from **1,219** brands.   
 (2) attributes including 5 categories, 13 sub-categories.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1810.09941v1.pdf)
@@ -700,6 +700,9 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 }
 ```
 :cherries: **Fashion60 2018**  
+
+(1) **539,704** images for training and **30, 000** images for testing.  
+(2) **60** fine-grained fashion attributes categorized into 5 coarse-grained groups.  
 
 [homepage] [[pdf]](https://ieeexplore.ieee.org/document/8396968)
 ```bib
@@ -716,7 +719,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 (1) **245,467** shop images. Each image is annotated by **9** attribute labels.  
 (2) imbalanced with an **imbalance-ratio** of 1:4,162 (20 : 204,177).  
-(3) 178 distinctive attributes over the 9 labels, including 6 sleeve-length, 55 colors.  
+(3) **178** distinctive attributes over the 9 labels, including 6 sleeve-length, 55 colors.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1804.10851.pdf)
 ```bib
@@ -734,6 +737,10 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 
 :cherries: **Women | Men Video 2018**  
+
+(1) video dataset **for unsupervised learning**.  
+(2) two new clothing image datasets are annotated with **10** pre-defined clothing attributes.  
+(3) **18,737** woman clothing videos and **21,224** man clothing videos.  
 
 [homepage] [[pdf]](https://www.researchgate.net/profile/Sanyi_Zhang/publication/321785076_Watch_Fashion_Shows_to_Tell_Clothing_Attributes/links/5cdf0e3c92851c4eabaa3e07/Watch-Fashion-Shows-to-Tell-Clothing-Attributes.pdf)
 ```bib
@@ -796,6 +803,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **Shopping 100k 2018**  
 
+(1) **101,021** images that consist of pure clothing items.  
+(2) Category(16), Neckline(17+11), Color(19), Material(14), Opening(9), Silhouette(15), Gender(2), Cloth length(7), Print(15), Pocket(7), Sleeve length(9), Sport(15).  
 
 [homepage] [[pdf]](https://www.researchgate.net/profile/Kenan_Ak/publication/324728522_Efficient_Multi-Attribute_Similarity_Learning_Towards_Attribute-based_Fashion_Search/links/5adf5078aca272fdaf89c65a/Efficient-Multi-Attribute-Similarity-Learning-Towards-Attribute-based-Fashion-Search.pdf)
 ```bib
@@ -808,9 +817,11 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   organization={IEEE}
 }
 ```
+
+
 :cherries: **Footwear 2018**  
 
-(1)	**1000** object, 12 category footwear dataset, each object captured from 4 different poses.  
+(1)	**1,000** object, 12 category footwear dataset, each object captured from 4 different poses.  
 
 [[homepage]](https://www.cse.iitd.ac.in/~chetan/projects.html) [[pdf]](https://www.cse.iitd.ac.in/~chetan/papers/icip18-fgvc.pdf)
 ```bib
@@ -825,7 +836,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **iMaterialist 2019**  
 
-(1) **1M+** fashion images with 228 fine-grained attributes in total (multi-labeled).  
+(1) **1M+** fashion images with **228** fine-grained attributes in total (multi-labeled).  
 (2) Category(105), Color(21), Gender(3), Material(34), Neckline(11), Print(28), Sleeve length(5), design details(21).  
 
 [[homepage]](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6) [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Guo_The_iMaterialist_Fashion_Attribute_Dataset_ICCVW_2019_paper.pdf) [[github]](https://github.com/visipedia/imat_fashion_comp) :pig:
@@ -842,7 +853,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **Atlas 2019**  
 
-(1) **186,150** images under clothing category with 3 levels and 52 leaf nodes in the taxonomy.  
+(1) **186,150** images under clothing category with **3** levels and **52** leaf nodes in the taxonomy.  
 
 [[homepage]](https://github.com/vumaasha/atlas) [[pdf]](https://arxiv.org/pdf/1908.08984.pdf) :pig:
 ```bib
@@ -857,7 +868,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **DeepShoe 2019**  
 
-(1) **14，314** and **31，048** images from the street and online shop scenario in multiple viewpoints.  
+(1) **14,314** and **31,048** images from the street and online shop scenario in multiple viewpoints.  
 (2) attributes including 22 colors, 4 Toe shape, 7 Heel shape.  
 
 [homepage] [[pdf]](http://alumni.media.mit.edu/~shiboxin/files/Zhan_CVIU19.pdf)
@@ -876,8 +887,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **FindFashion 2019 combine DeepFashion & Street2Shop**  
 
-(1) customer-to-shop clothes retrieval dataset consists of 565,041images and 382,230 pairs.  
-(2) labeled 3 attributes (i.e., occlusions, views, and cropping).  
+(1) customer-to-shop clothes retrieval dataset consists of **565,041** images and **382,230** pairs.  
+(2) labeled **3** attributes (i.e., occlusions, views, and cropping).  
 (3) divided the benchmark into 4 levels. i.e., Easy, Hard-Cropping, Hard-Occlusion, and Hard-View.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuang_Fashion_Retrieval_via_Graph_Reasoning_Networks_on_a_Similarity_Pyramid_ICCV_2019_paper.pdf) 
