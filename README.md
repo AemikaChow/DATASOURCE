@@ -5,7 +5,8 @@ This is a summary. We reviewed all  (to our best knowledge) fashion-related pape
 :pig: means the dataset can be found  
 
 We uniformed the words for consistency.
-- **Silhouette** (shape): the shape of a garment, *e.g.* H line, A line *etc*; **Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
+1. **Silhouette** (shape): the shape of a garment, *e.g.* H line, A line *etc*;
+- **Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
 - **Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
 - **Category** (type): type of a garment, *e.g.* dress, top *etc*;
 - **Sub-category**: fine-grained type of a garment, *e.g.* wedding dress, T-shire *etc*;
