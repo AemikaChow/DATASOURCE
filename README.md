@@ -4,7 +4,7 @@ This is a summary. We reviewed all  (to our best knowledge) fashion-related pape
 
 :pig: means the dataset can be found  
 
-We uniformed the words for consistency.
+We uniformed the words decribe the fashion concept.
 - &nbsp;**Silhouette** (shape): the shape of a garment, *e.g.* H line, A line *etc*;
 - &nbsp;**Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
 - &nbsp;**Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
@@ -121,7 +121,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
 
-## Keypoints
+## 1. &nbsp;Keypoints
 - LandmarkDetection [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html) [[pdf]](https://arxiv.org/pdf/1608.03049.pdf) [[github]](https://github.com/liuziwei7/fashion-landmarks) :pig:
 ```bib
 @inproceedings{liu2016fashionlandmark,
@@ -152,7 +152,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
 
-## Attribute
+## 2. &nbsp;Attribute
 For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi-task learning, consumer-to-shop clothes retrieval, in-shop clothes retrieval and etc.
 - Apparel Style 2012 [[homepage]](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/) [[pdf]](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/accv12_apparel-classification-with-style.pdf) :pig:
 ```bib
@@ -558,7 +558,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 }
 ```
 
-## Outfit
+## 3. &nbsp;Outfit
 - WoW 2012 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2393347.2393433)
 ```bib
 @inproceedings{liu2012hi,
@@ -716,7 +716,7 @@ Year = {2018}
 }
 ```
 
-## Generation
+## 4. &nbsp;Generation
 - MPI Dynamic FAUST | BUFF 2017 [[homepage]](http://buff.is.tue.mpg.de/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf) :pig:
 ```bib
 @inproceedings{dfaust:CVPR:2017,
@@ -836,7 +836,7 @@ year = {2019},
 }
 ```
 
-## Others
+## 5. &nbsp;Others
 - Amazon Reviews 2015 [[homepage]](https://nijianmo.github.io/amazon/index.html) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2766462.2767755)
 ```bib
 @inproceedings{mcauley2015image,
