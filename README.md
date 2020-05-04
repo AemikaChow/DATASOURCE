@@ -78,8 +78,8 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 **CCP 2013** :pig:    
 
 (1) It consisting of **2098** high-resolution street fashion photos.  
-(2) More than **1,000** images are annotated with superpixel-level labeling with a total of **57** tags, and the rest of the images are only annotated with image-level tags. 
-(3) Cross-scenario image pairs, which include about **10,000** product photos and user's photos image pairs. 
+(2) More than **1,000** images are annotated with superpixel-level labeling with a total of **57** tags, and the rest of the images are only annotated with image-level tags.  
+(3) Cross-scenario image pairs, which include about **10,000** product photos and user's photos image pairs.   
 (4) Each image has **124** fine-grained semantic attribute types (**20** categories, **56** colors, **6** clothing length, **10** silhouette, **25** necklines, and **7** sleeve length). 
  
 [[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](http://linliang.net/wp-content/uploads/2017/07/TMM_Clothes.pdf) [[github]](https://github.com/bearpaw/clothing-co-parsing) 
