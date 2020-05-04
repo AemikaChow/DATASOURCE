@@ -267,6 +267,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   organization={Springer}
 }
 ```
+
+
 :cherries: **WFC 2013**  
 
 (1) **Women’s Coat** Dataset contains **2,092** images total with manuly annotated labels.  
@@ -305,6 +307,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **Fashion136K 2013**  
 
+(1) **135,893** street fashion images with annotations by fashionistas, brand, demographics.  
+(2) **3-4** annotations per image.  
 
 [homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623332)
 ```bib
@@ -316,6 +320,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2014}
 }
 ```
+
+
 :cherries: **UT-Zap50K 2014**  
 
 
