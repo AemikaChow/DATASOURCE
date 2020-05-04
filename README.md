@@ -195,8 +195,12 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 ## 1. &nbsp;Keypoints
 For keypoint detection, landmark detection, and *etc*.
 *****
-:cherries: **LandmarkDetection 2016**  
+:cherries: **FLD 2016**  
 
+(1) Over 120K images.  
+(2) Each image is correctly labeled with **8** fashion landmarks along with their visibility.  
+(3) Different types of clothing items, including upper/lower/full-body clothes.  
+(4) Different subsets, including normal/medium/large poses and medium/large scales.  
 
 [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html) [[pdf]](https://arxiv.org/pdf/1608.03049.pdf) [[github]](https://github.com/liuziwei7/fashion-landmarks) :pig:
 ```bib
@@ -208,6 +212,8 @@ For keypoint detection, landmark detection, and *etc*.
  year = {2016} 
 }
 ```
+
+
 :cherries: **FASHIONAI Keypoint 2018**  
 
 
