@@ -1199,6 +1199,8 @@ For 3D generation, VTON *etc*.
 
 :cherries: **MPI Dynamic FAUST | BUFF 2017**  
 
+(1)	**40,000** raw and aligned meshes.  
+
 [[homepage]](http://buff.is.tue.mpg.de/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf) :pig:
 ```bib
 @inproceedings{dfaust:CVPR:2017,
@@ -1210,7 +1212,11 @@ For 3D generation, VTON *etc*.
   month_numeric = {7}
 }
 ```
+
+
 :cherries: **FashionGAN 2017** 
+
+(1)	extended the DeepFashion by collecting sentence descriptions for **79K** images.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf) [[github]](https://github.com/zhusz/ICCV17-fashionGAN) :pig:
 ```bib
@@ -1221,7 +1227,11 @@ For 3D generation, VTON *etc*.
   year={2017}
 }
 ```
+
+
 :cherries: **BeautyGAN 2018**  
+
+(1)	facial makeup dataset consists of **3,834** female images.  
 
 [[homepage]](http://liusi-group.com/projects/BeautyGAN) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240618) :pig:
 ```bib
@@ -1233,7 +1243,12 @@ For 3D generation, VTON *etc*.
   year={2018}
 }
 ```
+
+
 :cherries: **VTON 2018**  
+
+(1)	collected dataset from Zalando.  
+(2)	**19,000** frontal-view woman and top2 image pairs (removed noisy images with no parsing results), yielding **16,253** pairs.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf) [[github]](https://github.com/xthan/VITON) 
 ```bib
@@ -1244,7 +1259,11 @@ For 3D generation, VTON *etc*.
   year  = {2018},
 }
 ```
+
+
 :cherries: **DeepWear 2018**  
+
+(1)	a specific brand clothes dataset.  
 
 [homepage] [[pdf]](https://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2018/03/deepwear.pdf)
 ```bib
@@ -1256,7 +1275,16 @@ For 3D generation, VTON *etc*.
   year={2018}
 }
 ```
+
+
 :cherries: **FashionGEN 2018**  
+
+(1)	**293,008** high-resolution fashion images paired with item descriptions provided by professional stylists.  
+(2)	All fashion items are photographed from 1 to 6 different angles depending on the category of the item.  
+(3)	**48** main categories, and **121** fine-grained sub-categories.  
+(4)	paired with paragraph-length descriptive captions sourced from experts (professional designers).  
+(5)	provide metadata such as stylist recommended matched items, the fashion season, designer and the brand.  
+(6)	provide the distribution of colors extracted from the text description.  
 
 [[homepage]](https://fashion-gen.com/) [[pdf]](https://arxiv.org/pdf/1806.08317.pdf)
 ```bib
@@ -1267,7 +1295,11 @@ For 3D generation, VTON *etc*.
   year={2018}
 }
 ```
+
+
 :cherries: **ZalandoGAN 2018**  
+
+(1)	over **120,000** images of dresses that are downloaded from Zalando’s website.  
 
 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/generative-fashion-design/) [[pdf]](https://arxiv.org/pdf/1806.07819.pdf) [[github]](https://github.com/zalandoresearch/disentangling_conditional_gans)
 ```bib
@@ -1278,7 +1310,13 @@ For 3D generation, VTON *etc*.
   year={2018}
 }
 ```
+
+
 :cherries: **RTW 2018**  
+
+(1)	augment the dataset of **4,157** images by a factor 5 by jittering images with random scaling and translations.  
+(2)	7 categories: jackets, coats, shirts, tops, t-shirts, dresses and pullovers.  
+(3)	7 print: plain(uniform), plain(tiled?), striped, animal print(animal skin), dotted, graphic print(print and graphical pattern).  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Sbai_DesIGN_Design_Inspiration_from_Generative_Networks_ECCVW_2018_paper.pdf)
 ```bib
@@ -1290,7 +1328,11 @@ For 3D generation, VTON *etc*.
   year={2018}
 }
 ```
+
+
 :cherries: **SMPL 2018**  
+
+(1)	comprises a pair of jeans, a T-shirt and a sweater worn by **600** bodies in various poses.  
 
 [[homepage]](https://www.epfl.ch/labs/cvlab/research/garment-simulation/garnet/) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gundogdu_GarNet_A_Two-Stream_Network_for_Fast_and_Accurate_3D_Cloth_ICCV_2019_paper.pdf) 
 ```bib
@@ -1303,7 +1345,14 @@ organization = {{IEEE}},
 year = {2019},
 }
 ```
+
+
 :cherries: **Fashion Takes 2019**  
+
+(1)	over **18,000** images with meta-data including clothing category.  
+(2)	manual shape annotation indicating whether the person’s shape is above average or average.  
+(3)	the data comprises 181 different users.  
+(4) allowed to study ** the relationship between clothing categories and body shape**.  
 
 [homepage] [[pdf]](https://virtualhumans.mpi-inf.mpg.de/papers/sattar2019WACV/sattar2019WACV.pdf)
 ```bib
@@ -1316,7 +1365,12 @@ year = {2019},
   organization={IEEE}
 }
 ```
+
+
 :cherries: **StyleGAN 2019**  
+
+(1) based on a proprietary image dataset with around **380k** entries with high-resolution.  
+(2) an outfit is composed of a set of the maximum of **6** articles.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Yildirim_Generating_High-Resolution_Fashion_Model_Images_Wearing_Custom_Outfits_ICCVW_2019_paper.pdf)
 ```bib
@@ -1328,7 +1382,12 @@ year = {2019},
   year={2019}
 }
 ```
+
+
 :cherries: **Deep Fashion3D 2020**  
+
+(1)	**2,078** models reconstructed from real garments, which covers **10** different categories and **563** garment instances.  
+(2)	multi-view stereo, multi-view real images, 3D feature lines, 3D body pose.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/2003.12753.pdf)
 ```bib
