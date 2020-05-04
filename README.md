@@ -511,8 +511,12 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
  year = {2016} 
  }
  ```
+ 
+ 
 :cherries: **MVC 2016**  
 
+(1) **37,499** items and **161,638** clothing images, **264** attributes(gender, category, sub-catgegory, design attributes).  
+(2)  multi-view(front, back, right, left) with high-resolution.  
 
 [[homepage]](http://mvc-datasets.github.io/MVC/) [[pdf]](https://www.iis.sinica.edu.tw/papers/song/19692-F.pdf) [[github]](https://github.com/MVC-Datasets/MVC) :pig:
 ```bib
@@ -524,6 +528,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2016}
 }
 ```
+
+
 :cherries: **StreetStyle27K 2017**  
 
 
