@@ -5,12 +5,12 @@ This is a summary. We reviewed all  (to our best knowledge) fashion-related pape
 :pig: means the dataset can be found  
 
 We uniformed the words decribe the fashion concept.
-- &nbsp;**Silhouette** (shape, cut): the shape of a garment, *e.g.* H line, A line *etc*;
+- &nbsp;**Silhouette** (shape, cut, fit): the shape of a garment, *e.g.* H line, A line *etc*;
 - &nbsp;**Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
 - &nbsp;**Print** (pattern, texture): the surface design of a garment, *e.g.* checks, dotted *etc*;
 - &nbsp;**Neckline** (collar shape, collar): the design in the neck region of a garment, *e.g.* V-neck, lapel *etc*; 
-- &nbsp;**Design details** (structures): designs which can be used in anywhere of a garment, *e.g.* frilly, ruffled *etc*;
-- &nbsp;**Opening** (cloth button): the way designed in the opening of a garment *e.g.* button, zipped *etc*;
+- &nbsp;**Design details** (structures, style): designs which can be used in anywhere of a garment, *e.g.* frilly, ruffled *etc*;
+- &nbsp;**Opening** (cloth button, fastening): the way designed in the opening of a garment *e.g.* button, zipped *etc*;
 - &nbsp;**Category** (type): type of a garment, *e.g.* dress, top *etc*;
 - &nbsp;**Sub-category**: fine-grained type of a garment, *e.g.* wedding dress, T-shire *etc*;
 - &nbsp;**Styles** (looks): the expressed feeling of a garment of an outfit, *e.g.* lovely, casual *etc*;
