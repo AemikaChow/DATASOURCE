@@ -1,8 +1,8 @@
 # DATASOURCE for fAshIon
 
-This is a summary. We reviewed all  (to our best knowledge) fashion-related papers in the past decade and recorded the datasets been used. The numbers to describe the dataset is faithfully followed its original paper.
+This is a summary. We reviewed all  (to our best knowledge) fashion-related papers in the past decade and recorded the datasets been used. The numbers to describe the dataset is faithfully followed its original paper.  
 
-- :pig: means the dataset can be found
+:pig: means the dataset can be found
 - We uniformed the words for consistency. **Silhouette** (shape): the shape of a garment, *e.g.* H line, A line *etc*; **Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
 **Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
 **Category** (type): type of a garment, *e.g.* dress, top *etc*;
