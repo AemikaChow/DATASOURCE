@@ -197,7 +197,7 @@ For keypoint detection, landmark detection, and *etc*.
 *****
 :cherries: **FLD 2016**  
 
-(1) Over 120K images.  
+(1) Over **120K** images.  
 (2) Each image is correctly labeled with **8** fashion landmarks along with their visibility.  
 (3) Different types of clothing items, including upper/lower/full-body clothes.  
 (4) Different subsets, including normal/medium/large poses and medium/large scales.  
@@ -216,6 +216,7 @@ For keypoint detection, landmark detection, and *etc*.
 
 :cherries: **FASHIONAI Keypoint 2018**  
 
+(1) **24** key points in **324k** image。  
 
 [[homepage]](https://tianchi.aliyun.com/competition/entrance/231648/introduction?lang=zh-cn) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]]()
 ```bib
