@@ -338,6 +338,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year = {2014}
 }
 ```
+
+
 :cherries: **Fashion 10000 2014**  
 
 (1) **32,398** photos, with their associated metadata, distributed in **262** diﬀerent fashion categories.  
@@ -352,6 +354,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2014}
 }
 ```
+
+
 :cherries: **Hipster Wars 2014**  
 
 (1) **1,893** images labeled with **5 style** categories: hipster, bohemian, pinup, preppy, and goth.  
@@ -367,6 +371,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   organization={Springer}
 }
 ```
+
+
 :cherries: **Fashion144K 2015**  
 
 (1) **144,169** user posts containing diverse images, textual, and meta information.  
@@ -381,6 +387,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year      = 2015,
 }
 ```
+
+
 :cherries: **WITB(Exact Street2Shop) 2015**  
 
 (1) **404,683** shop photos and **20,357** street photos.  
@@ -396,8 +404,12 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2015}
 }
 ```
+
 :cherries: **DARN 2015**  
 
+(1)  **453,983** online upper-clothing images in high-resolution.  
+(2) each image contains a single frontal-view person.  
+(3) **179** attributes(opening(12), category(20), color(56), clothing length(6), print(27), silhouette(10), neckline(25), sleeve length(7), sleeve shape(16)).  
 
 [homepage] [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf)
 ```bib
@@ -409,6 +421,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2015}
 }
 ```
+
+
 :cherries: **Clothing1M 2015**  
 
 
