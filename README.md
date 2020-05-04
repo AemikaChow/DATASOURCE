@@ -41,8 +41,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   
 **Paperdoll 2013** :pig:  
 
-(1) It collected over **1 million** pictures from chictopia.com with associated metadata tags denoting
-characteristics such as color, clothing item, or occasion.  
+(1) Over **1 million** pictures from chictopia.com with associated metadata tags denoting characteristics such as color, clothing item, or occasion.  
 (2) **339,797** pictures weakly annotated with clothing items and estimated pose.  
 (3) **685** fully parsed images .
 
@@ -60,7 +59,7 @@ characteristics such as color, clothing item, or occasion.
 **CFPD 2013** :pig:  
 
 (1) **97,490** images with 292,541 tags from Chictopia.com.  
-(2) **2,682** images in total, and all the pixels in the images are annotated with both color labels (including **13** types: beige, black, blue, brown, gray, green, orange, pink, purple, red, white, yellow, bk) and category labels (including **23** types: face, sunglass, hat, scarf, hair, blazer, T-shirt, blouse, coat, sweater, jeans, legging, pants, shorts, skirt, shoes, socks, stocking, skin, belt, bag, dress, bk ).   
+(2) **2,682** images in total, and all the pixels in the images are annotated with both color labels (including **13**: beige, black, blue, brown, gray, green, orange, pink, purple, red, white, yellow, bk) and category labels (including **23**: face, sunglass, hat, scarf, hair, blazer, T-shirt, blouse, coat, sweater, jeans, legging, pants, shorts, skirt, shoes, socks, stocking, skin, belt, bag, dress, bk ).   
 (3) **Weakly supervised setting**, where only image-level tags are available in the training phase.
 
 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) 
