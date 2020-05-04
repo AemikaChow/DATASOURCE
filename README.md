@@ -34,7 +34,12 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   organization={IEEE}
 }
 ```
-- Paperdoll 2013 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/paperdoll/) [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Yamaguchi_Paper_Doll_Parsing_2013_ICCV_paper.pdf) :pig:
+  
+**Paperdoll 2013** :pig:  
+
+
+
+[[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/paperdoll/) [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Yamaguchi_Paper_Doll_Parsing_2013_ICCV_paper.pdf) 
 ```bib
 @inproceedings{yamaguchi2013paper,
   title={Paper doll parsing: Retrieving similar styles to parse clothing items},
