@@ -324,6 +324,9 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **UT-Zap50K 2014**  
 
+(1) **50,000 shoe** images with fine-grained attributes.  
+(2) **4** relative attributes: “open”, “pointy at the toe”, “sporty”, and “comfortable".  
+(3) **12,000** total pairs, 3,000 per attribute.  
 
 [[homepage]](http://vision.cs.utexas.edu/projects/finegrained/utzap50k/) [[pdf]](http://aronyu.io/vision/papers/cvpr14/aron-cvpr14.pdf) :pig:
 ```bib
