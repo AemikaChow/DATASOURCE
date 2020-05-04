@@ -193,7 +193,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 
 
 ## 1. &nbsp;Keypoints
-For keypoint detection, landmark detection, and *etc*.
+For keypoint detection, landmark detection, pose estimation and *etc*.
 *****
 :cherries: **FLD 2016**  
 
@@ -216,7 +216,7 @@ For keypoint detection, landmark detection, and *etc*.
 
 :cherries: **FASHIONAI Keypoint 2018**  
 
-(1) **24** key points in **324k** image。  
+(1) **24** key points in **324k** image (including armpit, crotch keypoints).  
 
 [[homepage]](https://tianchi.aliyun.com/competition/entrance/231648/introduction?lang=zh-cn) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]]()
 ```bib
@@ -228,8 +228,11 @@ For keypoint detection, landmark detection, and *etc*.
   year={2019}
 }
 ```
-:cherries: **DeepFashion2 2019** 
+:cherries: **DeepFashion2 2019**  
 
+(1) **801K** clothing items annotated with style, scale, viewpoint, occlusion, bounding box, dense landmarks, masks.  
+(2) **873K** Commercial-Consumer clothes pairs.  
+(3) **13** different definitions of landmarks and poses for **13** different categories.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2) :pig:
 ```bib
@@ -241,8 +244,10 @@ For keypoint detection, landmark detection, and *etc*.
 }
 ```
 
+
 ## 2. &nbsp;Attribute
-For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi-task learning, consumer-to-shop clothes retrieval, in-shop clothes retrieval and etc.
+For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi-task learning, consumer-to-shop clothes retrieval, in-shop clothes retrieval and *etc*.
+*****
 :cherries: **Apparel Style 2012**  
 
 
