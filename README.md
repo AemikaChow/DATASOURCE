@@ -146,7 +146,12 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   year={2017}
 }
 ```
-- FASHION8 2018 [[pdf]](https://arxiv.org/pdf/1803.03415.pdf)
+**FASHION8 2018**   
+
+(1) **9,339** fashion images from **8** continuous years are collected.  
+(2) With human-annotated foreground masks.  
+
+[[pdf]](https://arxiv.org/pdf/1803.03415.pdf)
 ```bib
 @article{zhang2018fusing,
   title={Fusing Hierarchical Convolutional Features for Human Body Segmentation and Clothing Fashion Classification},
