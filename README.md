@@ -59,7 +59,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 **CFPD 2013** :pig:  
 
 (1) **97,490** images with 292,541 tags from Chictopia.com.  
-(2) **2,682** images in total, and all the pixels in the images are annotated with both color labels (including **13**: beige, black, blue, brown, gray, green, orange, pink, purple, red, white, yellow, bk) and category labels (including **23**: face, sunglass, hat, scarf, hair, blazer, T-shirt, blouse, coat, sweater, jeans, legging, pants, shorts, skirt, shoes, socks, stocking, skin, belt, bag, dress, bk ).   
+(2) **2,682** images in total, and all the pixels in the images are annotated with both color labels (**13**) and category labels (**23**).   
 (3) **Weakly supervised setting**, where only image-level tags are available in the training phase.
 
 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) 
@@ -78,9 +78,10 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 **CCP 2013** :pig:    
 
 (1) It consisting of **2098** high-resolution street fashion photos.  
-(2) More than **1,000** images are annotated with superpixel-level labeling with a total of **57** tags, and the rest of the images are only annotated with image-level tags.  
+(2) More than **1,000** images are annotated with superpixel-level labeling with a total of **57** tags.  
 (3) Cross-scenario image pairs, which include about **10,000** product photos and user's photos image pairs.   
-(4) Each image has **124** fine-grained semantic attribute types (**20** categories, **56** colors, **6** clothing length, **10** silhouette, **25** necklines, and **7** sleeve length). 
+(4) Each image has **124** fine-grained semantic attribute types  
+(5) **20** categories, **56** colors, **6** clothing length, **10** silhouette, **25** necklines, and **7** sleeve length. 
  
 [[homepage]](http://www.sysu-hcp.net/clothing-co-parsing-by-joint-image-segmentation-and-labeling/) [[pdf]](http://linliang.net/wp-content/uploads/2017/07/TMM_Clothes.pdf) [[github]](https://github.com/bearpaw/clothing-co-parsing) 
 ```bib
