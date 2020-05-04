@@ -381,8 +381,10 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year      = 2015,
 }
 ```
-:cherries: **WITB 2015**  
+:cherries: **WITB(Exact Street2Shop) 2015**  
 
+(1) **404,683** shop photos and **20,357** street photos.  
+(2) providing a total of **39,479** clothing item matches.  
 
 [[homepage]](http://www.tamaraberg.com/street2shop/) [[pdf]](http://www.tamaraberg.com/papers/street2shop.pdf) :pig:
 ```bib
