@@ -37,7 +37,10 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   
 **Paperdoll 2013** :pig:  
 
-
+It collected over **1 million** pictures from
+chictopia.com with associated metadata tags denoting
+characteristics such as color, clothing item, or occasion.  **339,797** pictures weakly annotated with clothing
+items and estimated pose. **685** fully parsed images .
 
 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/paperdoll/) [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Yamaguchi_Paper_Doll_Parsing_2013_ICCV_paper.pdf) 
 ```bib
