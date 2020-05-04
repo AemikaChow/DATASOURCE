@@ -41,7 +41,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   
 **Paperdoll 2013** :pig:  
 
-(1) Over **1 million** pictures from chictopia.com with associated metadata tags denoting characteristics such as color, clothing item, or occasion.  
+(1) Over **1 million** pictures from chictopia.com with associated metadata tags i.e. color, clothing item, or occasion.  
 (2) **339,797** pictures weakly annotated with clothing items and estimated pose.  
 (3) **685** fully parsed images .
 
