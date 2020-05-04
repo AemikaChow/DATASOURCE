@@ -19,8 +19,7 @@ If you have problems with a specific dataset shows below, please kindly contact 
 ## 0. &nbsp;Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and *etc*.
 *****
-<font color=gray size=72>color=gray</font>
-**Fashionista 2012**  
+```diff**Fashionista 2012**  
 **158,235** fashion photos with associated text annotations (tags, comments, and links).  The tags are noisy or incomplete. **685** photos with good visibility of the full-body with pose annotations for the usual 14 body parts. Meanwhile, there are totally **56** labels (**53** category or sub-category labels, and additional labels for hair, skin, and null (background).  
 
 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) :pig:
