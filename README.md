@@ -113,7 +113,13 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   publisher={IEEE}
 }
 ```
-- Fashion Icon 2015 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20with%20Video%20Context.pdf)
+**Fashion Icon 2015** 
+
+(1) **Video dataset** and **Fashion Icon (FI) image dataset**.  
+(2) Video dataset contains **1, 500** videos.  
+(3) FI image dataset contains **1, 082** images, **18** categories.  
+
+[[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20with%20Video%20Context.pdf)
 ```bib
 @article{liu2015fashion,
   title={Fashion parsing with video context},
