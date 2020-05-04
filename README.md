@@ -460,6 +460,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **Chitopia 2015**  
 
+(1) Chictopia dataset has **26,8124** usable images, each image has **2** clothing-keywords under **18** categories.  
+(2) Dress dataset consists of **712** images with total of **58** attributes.  
 
 [homepage] [[pdf]](http://www.bmva.org/bmvc/2015/papers/paper051/paper051.pdf)
 ```bib
@@ -473,6 +475,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2015}
 }
 ```
+
+
 :cherries: **Etsy | Wear 2016**  
 
 
