@@ -479,6 +479,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **Etsy | Wear 2016**  
 
+(1) Etsy dataset has **173,175** clothing products.  
+(2) Wear dataset has **212,129** images associated shots from different views, list of items, blog text, tags, and other metadata.  
 
 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/etsy-dataset/) [[pdf]](https://arxiv.org/pdf/1607.07262.pdf) :pig:
 ```bib
@@ -491,6 +493,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   organization={Springer}
 }
 ```
+
+
 :cherries: **DeepFashion 2016**  
 
 
