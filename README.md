@@ -8,10 +8,12 @@ We uniformed the words decribe the fashion concept.
 - &nbsp;**Silhouette** (shape): the shape of a garment, *e.g.* H line, A line *etc*;
 - &nbsp;**Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
 - &nbsp;**Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
-- &nbsp;**Neckline** (collar shape)： the design in the neck region of a garment， *e.g.* V-neck, lapel *etc*; 
+- &nbsp;**Neckline** (collar shape): the design in the neck region of a garment， *e.g.* V-neck, lapel *etc*; 
+- &nbsp;**Design details** (structures): frilly, ruffled *etc*;
 - &nbsp;**Category** (type): type of a garment, *e.g.* dress, top *etc*;
 - &nbsp;**Sub-category**: fine-grained type of a garment, *e.g.* wedding dress, T-shire *etc*;
-- &nbsp;**Style**: the expressed feeling of a garment of an outfit, *e.g.* lovely, casual *etc*;
+- &nbsp;**Styles** (looks): the expressed feeling of a garment of an outfit, *e.g.* lovely, casual *etc*;
+- &nbsp;**Gender** (Persons): Men's wear, women's wear (child, boy, female) *etc*;
 - &nbsp;**Design Attributes**: the attributes used in the process of garment design, *e.g.* shirt cuff, shirt collar *etc*;
 - &nbsp;**Retail Attributes**: the attributes used in the process of retail, *e.g.*  parka, windbreaker *etc*.  
 
@@ -250,7 +252,9 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 *****
 :cherries: **Apparel Style 2012**  
 
-
+(1) **15** categories (*e.g.* Long dress, Coat, Jacket *etc*).  
+(2) Over **80, 000** images.  
+(3) Attributes including colors(13), print(15), material(8), design details(4), styles(4+21), gender(5), sleeve length(3).  
 
 [[homepage]](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/) [[pdf]](https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/accv12_apparel-classification-with-style.pdf) :pig:
 ```bib
