@@ -96,7 +96,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 **HCP 2015** :pig:  
 
 (1) **7,700** images in total.  
-(2) Combined Fashionista (685 ), CFPD （2,682）, Daily Photos dataset (2,500).  
+(2) Combined Fashionista (685), CFPD (2,682), Daily Photos dataset (2,500).  
 (3) Crawl another **1,833** challenging images （*e.g.* sitting or occlusion) annotate pixel-level labels.  
 (4) **18** categories of labels, *e.g.*  face, sunglass, hat, scarf *etc*.  
 
