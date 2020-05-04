@@ -377,7 +377,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Fashion144K 2015**  
 
 (1) **144,169** user posts containing diverse images, textual, and meta information.  
-(2) labels like location, comments, votes *etc*.  
+(2) Labels like location, comments, votes *etc*.  
 
 [[homepage]](https://esslab.jp/~ess/en/data/fashion144k_stylenet/) [[pdf]](https://www.cs.toronto.edu/~urtasun/publications/simo_etal_cvpr15.pdf) :pig:
 ```bib
@@ -393,7 +393,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **WITB(Exact Street2Shop) 2015**  
 
 (1) **404,683** shop photos and **20,357** street photos.  
-(2) providing a total of **39,479** clothing item matches.  
+(2) Providing a total of **39,479** clothing item matches.  
 
 [[homepage]](http://www.tamaraberg.com/street2shop/) [[pdf]](http://www.tamaraberg.com/papers/street2shop.pdf) :pig:
 ```bib
@@ -409,8 +409,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **DARN 2015**  
 
 (1)  **453,983** online upper-clothing images with **179** attributes in high-resolution.  
-(2) each image contains a single frontal-view person.  
-(3) opening(12), category(20), color(56), cloth length(6), print(27), silhouette(10), neckline(25), sleeve length(7), sleeve shape(16).  
+(2) Each image contains a single frontal-view person.  
+(3) Opening(12), Category(20), Color(56), Cloth length(6), Print(27), Silhouette(10), Neckline(25), Sleeve length(7), Sleeve shape(16).  
 
 [homepage] [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf)
 ```bib
@@ -427,8 +427,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Clothing1M 2015**  
 
 (1)  **1, 000, 000** clothing images with 14 class labels: T-shirt, Shirt, Knitwear, Chiffon, Sweater, Hoodie *etc*.  
-(2) each image is automatically assigned with a noisy label according to the keywords in its surrounding text.  
-(3) manually refine **72, 409** image labels, which constitute a clean sub-dataset.  
+(2) Each image is automatically assigned with a noisy label according to the keywords in its surrounding text.  
+(3) Manually refine **72, 409** image labels, which constitute a clean sub-dataset.  
 
 [homepage] [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf) [[github]](https://github.com/Cysu/noisy_label) :pig:
 ```bib
@@ -444,7 +444,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **YahooClothing 2015**  
 
 (1)  **161,234** fashion images in the Yahoo shopping dataset.  
-(2) it labeled with category, gender, and sub-category(15) such as Top, Dress, Coat *etc*.  
+(2) It labeled with category, gender, and sub-category(15) such as Top, Dress, Coat *etc*.  
 
 [homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2671188.2749318)
 ```bib
@@ -497,9 +497,9 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **DeepFashion 2016**  
 
-(1) over **800,000** images, which are richly annotated with massive attributes, clothing landmarks, and correspondence of images.  
+(1) Over **800,000** images, which are richly annotated with massive attributes, clothing landmarks, and correspondence of images.  
 (2) **50** fine-grained categories and **1, 000 descriptive attributes**.  
-(3) attributes including Category,  Print, Material, Silhouette, Part, Style.  
+(3) Attributes including Category,  Print, Material, Silhouette, Part, Style.  
 
 [[homepage]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/liuLQWTcvpr16.pdf) :pig:
 ```bib
@@ -516,7 +516,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **MVC 2016**  
 
 (1) **37,499** items and **161,638** clothing images, **264** attributes(gender, category, sub-catgegory, design attributes).  
-(2)  multi-view(front, back, right, left) with high-resolution.  
+(2)  Multi-view(front, back, right, left) with high-resolution.  
 
 [[homepage]](http://mvc-datasets.github.io/MVC/) [[pdf]](https://www.iis.sinica.edu.tw/papers/song/19692-F.pdf) [[github]](https://github.com/MVC-Datasets/MVC) :pig:
 ```bib
@@ -533,7 +533,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **StreetStyle27K 2017**  
 
 (1) **27K** images, each with **12** clothing attributes.  
-(2) a first-of-its-kind analysis of global and per-city fashion choices and trends.  
+(2) A first-of-its-kind analysis of global and per-city fashion choices and trends.  
 (3) 7 binary attributes(Wearing Jacket, Wearing Scarf *etc*), 13 colors, 7 categories, 3 sleeve length, 3 neckline, 6 print.  
 
 [[homepage]](http://streetstyle.cs.cornell.edu/#dataset) [[pdf]](https://arxiv.org/pdf/1706.01869.pdf) :pig:
@@ -565,8 +565,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **Fashion200K 2017**  
 
-(1) over **200,000** images of five categories (dress, top, pants, skirt, and jacket) and their product descriptions.  
-(2) after dealing with product description, **4,404** attributes(words) have remained.  
+(1) Over **200,000** images of five categories (dress, top, pants, skirt, and jacket) and their product descriptions.  
+(2) After dealing with product description, **4,404** attributes(words) have remained.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Han_Automatic_Spatially-Aware_Fashion_ICCV_2017_paper.pdf) [[github]](https://github.com/xthan/fashion-200k/) :pig:
 ```bib
@@ -598,7 +598,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Amazon Dress**  
 
 (1) **53 689** images of dresses and their product descriptions.  
-(2) different categories, such as bridesmaid, casual, mother of the bride, night out and cocktail, and wedding.  
+(2) Different categories, such as bridesmaid, casual, mother of the bride, night out and cocktail, and wedding.  
 (3) The product descriptions consist of the surrounding natural language text, like the title, features, and editorial content.  
 
 [homepage] [[pdf]](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_7.pdf)
@@ -618,7 +618,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **SFS 2017**  
 
 (1) **293,105** posts, each image consists of weakly-labeled multi-task ground-truth.  
-(2) labels including season, occasion, fashion style, garment categories, geographical and year information.  
+(2) Labels including season, occasion, fashion style, garment categories, geographical and year information.  
 
 [[homepage]](https://zenodo.org/record/833051#.XqfGivmWa70) [[pdf]](http://doi.org/10.1145/3123266.3123441) :pig:
 ```bib
@@ -671,7 +671,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **BrandFashion 2018**  
 
 (1) **10K** clothing images with distinctive logos from **15** brands.  
-(2) label with **16** clothing categories and **32** semantic attributes.  
+(2) Label with **16** clothing categories and **32** semantic attributes.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Manandhar_Tiered_Deep_Similarity_Search_for_Fashion_ECCVW_2018_paper.pdf)
 ```bib
@@ -687,7 +687,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **FashionBrand 2018**  
 
 (1) **3,828,735** clothing product images from **1,219** brands.   
-(2) attributes including 5 categories, 13 sub-categories.  
+(2) Attributes including 5 categories, 13 sub-categories.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1810.09941v1.pdf)
 ```bib
@@ -718,7 +718,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **X-domain 2018**  
 
 (1) **245,467** shop images. Each image is annotated by **9** attribute labels.  
-(2) imbalanced with an **imbalance-ratio** of 1:4,162 (20 : 204,177).  
+(2) Imbalanced with an **imbalance-ratio** of 1:4,162 (20 : 204,177).  
 (3) **178** distinctive attributes over the 9 labels, including 6 sleeve-length, 55 colors.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1804.10851.pdf)
@@ -738,8 +738,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **Women | Men Video 2018**  
 
-(1) video dataset **for unsupervised learning**.  
-(2) two new clothing image datasets are annotated with **10** pre-defined clothing attributes.  
+(1) Video dataset **for unsupervised learning**.  
+(2) Two new clothing image datasets are annotated with **10** pre-defined clothing attributes.  
 (3) **18,737** woman clothing videos and **21,224** man clothing videos.  
 
 [homepage] [[pdf]](https://www.researchgate.net/profile/Sanyi_Zhang/publication/321785076_Watch_Fashion_Shows_to_Tell_Clothing_Attributes/links/5cdf0e3c92851c4eabaa3e07/Watch-Fashion-Shows-to-Tell-Clothing-Attributes.pdf)
@@ -772,7 +772,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Feidegger 2018**  
 
 (1) **8,700** fashion items, each with a high-resolution image and **5** independently collected textual descriptions.
-(2) restrict the domain to images of dresses, and German-language visual descriptions.
+(2) Restrict the domain to images of dresses, and German-language visual descriptions.
 
 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/feidegger-dataset/) [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/319.pdf)
 ```bib
@@ -788,7 +788,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Studio2Shop 2018**  
 
 (1) **1.15 million** query images with neutral backgrounds.
-(2) category(7), color(82), print(19), cloth length (12), sleeve length (9), shirt collar(27), neckline (12), material (14), trouser rise (3).
+(2) Category(7), Color(82), Print(19), Cloth length (12), sleeve length (9), shirt collar(27), Neckline (12), Material (14), Trouser rise (3).
 
 [homepage] [[pdf]](https://www.scitepress.org/Papers/2018/65445/65445.pdf)
 ```bib
@@ -837,7 +837,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **iMaterialist 2019**  
 
 (1) **1M+** fashion images with **228** fine-grained attributes in total (multi-labeled).  
-(2) Category(105), Color(21), Gender(3), Material(34), Neckline(11), Print(28), Sleeve length(5), design details(21).  
+(2) Category(105), Color(21), Gender(3), Material(34), Neckline(11), Print(28), Sleeve length(5), Design details(21).  
 
 [[homepage]](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6) [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Guo_The_iMaterialist_Fashion_Attribute_Dataset_ICCVW_2019_paper.pdf) [[github]](https://github.com/visipedia/imat_fashion_comp) :pig:
 ```bib
@@ -869,7 +869,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **DeepShoe 2019**  
 
 (1) **14,314** and **31,048** images from the street and online shop scenario in multiple viewpoints.  
-(2) attributes including 22 colors, 4 Toe shape, 7 Heel shape.  
+(2) Attributes including 22 Colors, 4 Toe shape, 7 Heel shape.  
 
 [homepage] [[pdf]](http://alumni.media.mit.edu/~shiboxin/files/Zhan_CVIU19.pdf)
 ```bib
@@ -887,9 +887,9 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **FindFashion 2019 combine DeepFashion & Street2Shop**  
 
-(1) customer-to-shop clothes retrieval dataset consists of **565,041** images and **382,230** pairs.  
-(2) labeled **3** attributes (i.e., occlusions, views, and cropping).  
-(3) divided the benchmark into 4 levels. i.e., Easy, Hard-Cropping, Hard-Occlusion, and Hard-View.  
+(1) Customer-to-shop clothes retrieval dataset consists of **565,041** images and **382,230** pairs.  
+(2) Labeled **3** attributes (i.e., occlusions, views, and cropping).  
+(3) Divided the benchmark into 4 levels. i.e., Easy, Hard-Cropping, Hard-Occlusion, and Hard-View.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuang_Fashion_Retrieval_via_Graph_Reasoning_Networks_on_a_Similarity_Pyramid_ICCV_2019_paper.pdf) 
 ```bib
@@ -906,7 +906,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **GarmentSet 2020**  
 
 (1) **9,636** images with collar part annotations and **8,616** images with shoulder and sleeve annotations.  
-(2) with annotation of landmarks of collars and sleeves on clean garment images.  
+(2) With annotation of landmarks of collars and sleeves on clean garment images.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/2001.06427.pdf)
 ```bib
@@ -931,7 +931,7 @@ For outfit generation, recommendation, evaluation, comnpatibility learning *etc*
 (2) **7** multi-value clothing attributes and **10** occasion categories.  
 (3) **9,469** images with visible full-body. **8,421** images with only upper-body. **6,527** images with lower-body clothing.  
 (4) Color(11), Material(6), Print(6), Neckline(6), Sleeve length(3), Bottom length(3).  
-(5) labeled with **10** common occasions.  
+(5) Labeled with **10** common occasions.  
 
 [homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2393347.2393433)
 ```bib
@@ -972,7 +972,7 @@ For outfit generation, recommendation, evaluation, comnpatibility learning *etc*
 :cherries: **FashionVC 2017**  
 
 (1) **20,726** outfits with **14,871** tops and **13,663** bottoms.  
-(2) visual image, categories and title description are collected.  
+(2) Visual image, categories and title description are collected.  
 
 [homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123314)
 ```bib
@@ -1005,8 +1005,8 @@ year = {2017}
 :cherries: **Polyvore 2017**  
 
 (1)  **21,889** outfits and **164,379** items.  
-(2) keep the first **8** for simplicity, the average number of fashion items in an outfit is **6.5**.  
-(3) to clean the text descriptions, words appearing fewer than 30 times are deleted, leading to a vocabulary of size **2,757**.  
+(2) Keep the first **8** for simplicity, the average number of fashion items in an outfit is **6.5**.  
+(3) To clean the text descriptions, words appearing fewer than 30 times are deleted, leading to a vocabulary of size **2,757**.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) [[github]](https://github.com/xthan/polyvore) :pig:
 ```bib
@@ -1021,7 +1021,7 @@ year = {2017}
 
 :cherries: **AVA 2017**  
 
-(1) photo.net dataset contains **20,278** images with at least 10 score ratings per image.  
+(1) Photo.net dataset contains **20,278** images with at least 10 score ratings per image.  
 (2) CUHK-PhotoQuality (CUHK-PQ) dataset t contains **17,690** images. All images are given a binary aesthetic label.  
 (3)	Aesthetic Visual Analysis (AVA) dataset contains **250k** images. Each image receives 78 ∼ 549 votes of score ranging from 1 to 10.  
 
@@ -1093,7 +1093,7 @@ Year = {2018}
 (1) **30,790** fashionable outfits from the Lookastic.  
 (2) **124,665** matched pairs for men with **5,069** items.  
 (3) **158,755** matched pairs for women with **10,016** items.  
-(4) 65 Colors, 38 Materials, 40 Print, 253 fine-grained categories, 11 styles, and 114 sub-categories.  
+(4) 65 Colors, 38 Materials, 40 Print, 253 fine-grained Categories, 11 Styles, and 114 Sub-categories.  
 
 [homepage] [[pdf]](http://staff.ustc.edu.cn/~hexn/papers/sigir19-fashion.pdf)
 ```bib
@@ -1126,7 +1126,7 @@ Year = {2018}
 
 :cherries: **Shop the Look 2019**  
 
-(1) based on Shop the Look (STL) task, and covert STL data into a format that can be used for our Complete the Look (CTL) task.  
+(1) Based on Shop the Look (STL) task, and covert STL data into a format that can be used for our Complete the Look (CTL) task.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.pdf)[[github]](https://github.com/kang205/STL-Dataset) 
 ```bib
@@ -1163,7 +1163,7 @@ Year = {2018}
 :cherries: **ASOS outfits 2019**  
 
 (1) **586,320** fashion outfits (images and textual descriptions) composed by ASOS stylists.  
-(2) each containing between 2 and 5 items.  
+(2) Each containing between 2 and 5 items.  
 (3) **591,725** unique items representing **18** different womenswear product types and **22** different menswear product type.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1904.00741.pdf)
@@ -1180,7 +1180,7 @@ Year = {2018}
 :cherries: **Chuanda 2020**  
 
 (1) **3,557** outfits covering **67** basic fashion styles.  
-(2) labeled with **1,879** distinct fashion related attributes that belong to 5 types: Gender, Season, Style, Material, and Function.  
+(2) Labeled with **1,879** distinct fashion related attributes that belong to 5 types: Gender, Season, Style, Material, and Function.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/2004.06229.pdf)
 ```bib
@@ -1216,7 +1216,7 @@ For 3D generation, VTON *etc*.
 
 :cherries: **FashionGAN 2017** 
 
-(1)	extended the DeepFashion by collecting sentence descriptions for **79K** images.  
+(1)	Extended the DeepFashion by collecting sentence descriptions for **79K** images.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf) [[github]](https://github.com/zhusz/ICCV17-fashionGAN) :pig:
 ```bib
@@ -1231,7 +1231,7 @@ For 3D generation, VTON *etc*.
 
 :cherries: **BeautyGAN 2018**  
 
-(1)	facial makeup dataset consists of **3,834** female images.  
+(1)	Facial makeup dataset consists of **3,834** female images.  
 
 [[homepage]](http://liusi-group.com/projects/BeautyGAN) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240618) :pig:
 ```bib
@@ -1247,7 +1247,7 @@ For 3D generation, VTON *etc*.
 
 :cherries: **VTON 2018**  
 
-(1)	collected dataset from Zalando.  
+(1)	Collected dataset from Zalando.  
 (2)	**19,000** frontal-view woman and top2 image pairs (removed noisy images with no parsing results), yielding **16,253** pairs.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf) [[github]](https://github.com/xthan/VITON) 
@@ -1263,7 +1263,7 @@ For 3D generation, VTON *etc*.
 
 :cherries: **DeepWear 2018**  
 
-(1)	a specific brand clothes dataset.  
+(1)	A specific brand clothes dataset.  
 
 [homepage] [[pdf]](https://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2018/03/deepwear.pdf)
 ```bib
@@ -1282,9 +1282,9 @@ For 3D generation, VTON *etc*.
 (1)	**293,008** high-resolution fashion images paired with item descriptions provided by professional stylists.  
 (2)	All fashion items are photographed from 1 to 6 different angles depending on the category of the item.  
 (3)	**48** main categories, and **121** fine-grained sub-categories.  
-(4)	paired with paragraph-length descriptive captions sourced from experts (professional designers).  
-(5)	provide metadata such as stylist recommended matched items, the fashion season, designer and the brand.  
-(6)	provide the distribution of colors extracted from the text description.  
+(4)	Paired with paragraph-length descriptive captions sourced from experts (professional designers).  
+(5)	Provide metadata such as stylist recommended matched items, the fashion season, designer and the brand.  
+(6)	Provide the distribution of colors extracted from the text description.  
 
 [[homepage]](https://fashion-gen.com/) [[pdf]](https://arxiv.org/pdf/1806.08317.pdf)
 ```bib
@@ -1299,7 +1299,7 @@ For 3D generation, VTON *etc*.
 
 :cherries: **ZalandoGAN 2018**  
 
-(1)	over **120,000** images of dresses that are downloaded from Zalando’s website.  
+(1)	Over **120,000** images of dresses that are downloaded from Zalando’s website.  
 
 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/generative-fashion-design/) [[pdf]](https://arxiv.org/pdf/1806.07819.pdf) [[github]](https://github.com/zalandoresearch/disentangling_conditional_gans)
 ```bib
@@ -1314,7 +1314,7 @@ For 3D generation, VTON *etc*.
 
 :cherries: **RTW 2018**  
 
-(1)	augment the dataset of **4,157** images by a factor 5 by jittering images with random scaling and translations.  
+(1)	Augment the dataset of **4,157** images by a factor 5 by jittering images with random scaling and translations.  
 (2)	7 categories: jackets, coats, shirts, tops, t-shirts, dresses and pullovers.  
 (3)	7 print: plain(uniform), plain(tiled?), striped, animal print(animal skin), dotted, graphic print(print and graphical pattern).  
 
@@ -1332,7 +1332,7 @@ For 3D generation, VTON *etc*.
 
 :cherries: **SMPL 2018**  
 
-(1)	comprises a pair of jeans, a T-shirt and a sweater worn by **600** bodies in various poses.  
+(1)	Comprises a pair of jeans, a T-shirt and a sweater worn by **600** bodies in various poses.  
 
 [[homepage]](https://www.epfl.ch/labs/cvlab/research/garment-simulation/garnet/) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gundogdu_GarNet_A_Two-Stream_Network_for_Fast_and_Accurate_3D_Cloth_ICCV_2019_paper.pdf) 
 ```bib
@@ -1349,10 +1349,10 @@ year = {2019},
 
 :cherries: **Fashion Takes 2019**  
 
-(1)	over **18,000** images with meta-data including clothing category.  
-(2)	manual shape annotation indicating whether the person’s shape is above average or average.  
-(3)	the data comprises 181 different users.  
-(4) allowed to study ** the relationship between clothing categories and body shape**.  
+(1)	Over **18,000** images with meta-data including clothing category.  
+(2)	Manual shape annotation indicating whether the person’s shape is above average or average.  
+(3)	The data comprises 181 different users.  
+(4) Allowed to study ** the relationship between clothing categories and body shape**.  
 
 [homepage] [[pdf]](https://virtualhumans.mpi-inf.mpg.de/papers/sattar2019WACV/sattar2019WACV.pdf)
 ```bib
@@ -1369,8 +1369,8 @@ year = {2019},
 
 :cherries: **StyleGAN 2019**  
 
-(1) based on a proprietary image dataset with around **380k** entries with high-resolution.  
-(2) an outfit is composed of a set of the maximum of **6** articles.  
+(1) Based on a proprietary image dataset with around **380k** entries with high-resolution.  
+(2) An outfit is composed of a set of the maximum of **6** articles.  
 
 [homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Yildirim_Generating_High-Resolution_Fashion_Model_Images_Wearing_Custom_Outfits_ICCVW_2019_paper.pdf)
 ```bib
@@ -1387,7 +1387,7 @@ year = {2019},
 :cherries: **Deep Fashion3D 2020**  
 
 (1)	**2,078** models reconstructed from real garments, which covers **10** different categories and **563** garment instances.  
-(2)	multi-view stereo, multi-view real images, 3D feature lines, 3D body pose.  
+(2)	Multi-view stereo, multi-view real images, 3D feature lines, 3D body pose.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/2003.12753.pdf)
 ```bib
@@ -1402,8 +1402,8 @@ year = {2019},
 ## 5. &nbsp;Others
 :cherries: **Amazon Reviews 2015**  
 
-(1) based on the **Amazon** web store.  
-(2) over **180 million** relationships between a pool of almost 6 million objects.  
+(1) Based on the **Amazon** web store.  
+(2) Over **180 million** relationships between a pool of almost 6 million objects.  
 
 [[homepage]](https://nijianmo.github.io/amazon/index.html) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2766462.2767755)
 ```bib
@@ -1420,7 +1420,7 @@ year = {2019},
 :cherries: **Tradesy 2016**  
 
 (1)	**19,823** users, **166,526** items, **410,186** feedback.  
-(2)	contains users’ purchase histories and ‘thumbs-up’.  
+(2)	Contains users’ purchase histories and ‘thumbs-up’.  
 
 [[homepage]](http://jmcauley.ucsd.edu/data/tradesy/) [[pdf]](http://cseweb.ucsd.edu/~jmcauley/pdfs/aaai16.pdf) :pig:
 ```bib
@@ -1435,7 +1435,7 @@ year = {2019},
 
 :cherries: **Fashion-MNIST 2017**  
 
-(1)	comprising of 28 × 28 grayscale images of **70,000** fashion products from 10 categories.  
+(1)	Comprising of 28 × 28 grayscale images of **70,000** fashion products from 10 categories.  
 
 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/) [[pdf]](https://arxiv.org/pdf/1708.07747.pdf) [[github]](https://github.com/zalandoresearch/fashion-mnist) :pig:
 ```bib
@@ -1453,8 +1453,8 @@ year = {2019},
 
 :cherries: **Shoe 2018**  
 
-(1)	supports further research on the task of relative **image captioning**.  
-(2)	pairing **3,600** captions that were discriminative with additional dissimilar images.  
+(1)	Supports further research on the task of relative **image captioning**.  
+(2)	Pairing **3,600** captions that were discriminative with additional dissimilar images.  
 
 [homepage] [[pdf]](http://papers.nips.cc/paper/7348-dialog-based-interactive-image-retrieval.pdf)
 ```bib
@@ -1471,7 +1471,7 @@ year = {2019},
 :cherries: **Flickr30k 2018**  
 
 (1)	**300k** posts with **5M** comments.  
-(2)	each image is paired with user comment. The maximum number of comments is 427, average per image is 14.  
+(2)	Each image is paired with user comment. The maximum number of comments is 427, average per image is 14.  
 
 [homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3184558.3186354)
 ```bib
@@ -1502,8 +1502,8 @@ year = {2019}
 
 :cherries: **Fashion IQ 2019**  
 
-(1)	dataset for **natural language based fashion image retrieval**.  
-(2)	each image is crawled from Amazon.com and extracted corresponding product information, when available.  
+(1)	Dataset for **natural language based fashion image retrieval**.  
+(2)	Each image is crawled from Amazon.com and extracted corresponding product information, when available.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1905.12794.pdf) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) :pig:
 ```bib
@@ -1518,7 +1518,7 @@ year = {2019}
 
 :cherries: **TFCD 2019**  
 
-(1)	a dataset containing data from real user sessions on a major European e-commerce fashion website.  
+(1)	A dataset containing data from real user sessions on a major European e-commerce fashion website.  
 
 [homepage] [[pdf]](https://arxiv.org/ftp/arxiv/papers/1907/1907.00400.pdf)
 ```bib
