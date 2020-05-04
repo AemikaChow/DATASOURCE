@@ -9,7 +9,7 @@ We uniformed the words decribe the fashion concept.
 - &nbsp;**Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
 - &nbsp;**Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
 - &nbsp;**Neckline** (collar shape, collar): the design in the neck region of a garment， *e.g.* V-neck, lapel *etc*; 
-- &nbsp;**Design details** (structures): frilly, ruffled *etc*;
+- &nbsp;**Design details** (structures): designs which can be used in anywhere of a garment, *e.g.* frilly, ruffled *etc*;
 - &nbsp;**Category** (type): type of a garment, *e.g.* dress, top *etc*;
 - &nbsp;**Sub-category**: fine-grained type of a garment, *e.g.* wedding dress, T-shire *etc*;
 - &nbsp;**Styles** (looks): the expressed feeling of a garment of an outfit, *e.g.* lovely, casual *etc*;
@@ -17,7 +17,7 @@ We uniformed the words decribe the fashion concept.
 - &nbsp;**Design Attributes**: the attributes used in the process of garment design, *e.g.* shirt cuff, shirt collar *etc*;
 - &nbsp;**Retail Attributes**: the attributes used in the process of retail, *e.g.*  parka, windbreaker *etc*.  
 
-If you have problems with a specific dataset shows below, please kindly contact its authors. For quick check, you can also see [memo version](https://drive.google.com/open?id=1ucwMgee0Df1P--cDHQR9XdcPPuMjgaSt) &copy;
+If you have problems with a specific dataset shows below, please kindly contact its authors. For quick check, you can also see the [memo version](https://drive.google.com/open?id=1ucwMgee0Df1P--cDHQR9XdcPPuMjgaSt) &copy;
 
 ## 0. &nbsp;Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and *etc*.
