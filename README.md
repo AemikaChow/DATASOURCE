@@ -52,7 +52,12 @@ items and estimated pose. **685** fully parsed images .
   year={2013}
 }
 ```
-- CFPD 2013 [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) :pig:
+
+**CFPD 2013** :pig:  
+
+**97,490** images with 292,541 tags from Chictopia.com.  It consists of **2,682** images in total, and all the pixels in the images are annotated with both color labels (including 13 types: beige, black, blue, brown, gray, green, orange, pink, purple, red, white, yellow, bk) and category labels (including 23 types: face, sunglass, hat, scarf, hair, blazer, T-shirt, blouse, coat, sweater, jeans, legging, pants, shorts, skirt, shoes, socks, stocking, skin, belt, bag, dress, bk ).  *Weakly supervised setting*, where only image-level tags are available in the training phase.
+
+[[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) 
 ```bib
 @article{liu2013fashion,
   title={Fashion parsing with weak color-category labels},
