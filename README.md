@@ -408,9 +408,9 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **DARN 2015**  
 
-(1)  **453,983** online upper-clothing images in high-resolution.  
+(1)  **453,983** online upper-clothing images with **179** attributes in high-resolution.  
 (2) each image contains a single frontal-view person.  
-(3) **179** attributes(opening(12), category(20), color(56), clothing length(6), print(27), silhouette(10), neckline(25), sleeve length(7), sleeve shape(16)).  
+(3) opening(12), category(20), color(56), cloth length(6), print(27), silhouette(10), neckline(25), sleeve length(7), sleeve shape(16).  
 
 [homepage] [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf)
 ```bib
@@ -426,7 +426,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **Clothing1M 2015**  
 
-(1)  **1, 000, 000** clothing images with 14 class labels: T-shirt, Shirt, Knitwear, Chiffon, Sweater, Hoodie, Windbreaker, Jacket, Down Coat *etc*.  
+(1)  **1, 000, 000** clothing images with 14 class labels: T-shirt, Shirt, Knitwear, Chiffon, Sweater, Hoodie *etc*.  
 (2) each image is automatically assigned with a noisy label according to the keywords in its surrounding text.  
 (3) manually refine **72, 409** image labels, which constitute a clean sub-dataset.  
 
@@ -439,8 +439,12 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2015}
 }
 ```
-:cherries: **YahooClothing 2015** 
 
+
+:cherries: **YahooClothing 2015**  
+
+(1)  **161,234** fashion images in the Yahoo shopping dataset.  
+(2) it labeled with category, gender, and sub-category(15) such as Top, Dress, Coat *etc*.  
 
 [homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2671188.2749318)
 ```bib
@@ -452,6 +456,8 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   year={2015}
 }
 ```
+
+
 :cherries: **Chitopia 2015**  
 
 
