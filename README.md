@@ -5,6 +5,8 @@ This is a summary. We reviewed all  (to our best knowledge) fashion-related pape
 - :pig: means the dataset can be found
 - We uniformed the words for consistency. **Silhouette** (shape): the shape of a garment, *e.g.* H line, A line *etc*; **Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
 **Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
+**Category** (type): type of a garment, *e.g.* dress, top *etc*;
+**Sub-category**: fine-grained type of a garment, *e.g.* wedding dress, T-shire *etc*;
 **Style**: the expressed feeling of a garment of an outfit, *e.g.* lovely, casual *etc*;
 **Design Attributes**: the attributes used in the process of garment design, *e.g.* shirt cuff, shirt collar *etc*;
 **Retail Attributes**: the attributes used in the process of retail, *e.g.*  parka, windbreaker *etc*.
