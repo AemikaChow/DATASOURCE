@@ -62,7 +62,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 (2) **2,682** images in total, and all the pixels in the images are annotated with both color labels (**13**) and category labels (**23**).   
 (3) **Weakly supervised setting**, where only image-level tags are available in the training phase.
 
-[[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) :pig:
+[homepage] [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20With%20Weak%20Color-Category%20Labels.pdf) [[github1]](https://github.com/zbxzc35/dataset-CFPD) [[github2]](https://github.com/hrsma2i/dataset-CFPD) :pig:
 ```bib
 @article{liu2013fashion,
   title={Fashion parsing with weak color-category labels},
@@ -123,7 +123,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 (2) Video dataset contains **1, 500** videos.  
 (3) FI image dataset contains **1, 082** images, **18** categories.  
 
-[[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20with%20Video%20Context.pdf)
+[homepage] [[pdf]](https://liusi-group.com/pdf/Fashion%20Parsing%20with%20Video%20Context.pdf)
 ```bib
 @article{liu2015fashion,
   title={Fashion parsing with video context},
