@@ -3,10 +3,11 @@
 This is a summary. We reviewed all  (to our best knowledge) fashion-related papers in the past decade and recorded the datasets been used. The numbers to describe the dataset is faithfully followed its original paper.
 
 - :pig: means the dataset can be found
-- If you have problems with a specific dataset shows below, please kindly contact its authors. For quick check, you can also see [my memo](https://drive.google.com/open?id=1ucwMgee0Df1P--cDHQR9XdcPPuMjgaSt) &copy;
+- If you have problems with a specific dataset shows below, please kindly contact its authors. For quick check, you can also see [memo version](https://drive.google.com/open?id=1ucwMgee0Df1P--cDHQR9XdcPPuMjgaSt) &copy;
 
-## Parsing 
+## 0. Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and etc.
+*****
 - Fashionista 2012 [[homepage]](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/) [[pdf]](http://vision.is.tohoku.ac.jp/~kyamagu/papers/yamaguchi_cvpr2012.pdf) :pig:
 ```bib
 @inproceedings{yamaguchi2012parsing,
