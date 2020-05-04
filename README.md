@@ -1402,6 +1402,9 @@ year = {2019},
 ## 5. &nbsp;Others
 :cherries: **Amazon Reviews 2015**  
 
+(1) based on the **Amazon** web store.  
+(2) over **180 million** relationships between a pool of almost 6 million objects.  
+
 [[homepage]](https://nijianmo.github.io/amazon/index.html) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2766462.2767755)
 ```bib
 @inproceedings{mcauley2015image,
@@ -1412,7 +1415,12 @@ year = {2019},
   year={2015}
 }
 ```
+
+
 :cherries: **Tradesy 2016**  
+
+(1)	**19,823** users, **166,526** items, **410,186** feedback.  
+(2)	contains users’ purchase histories and ‘thumbs-up’.  
 
 [[homepage]](http://jmcauley.ucsd.edu/data/tradesy/) [[pdf]](http://cseweb.ucsd.edu/~jmcauley/pdfs/aaai16.pdf) :pig:
 ```bib
@@ -1423,7 +1431,11 @@ year = {2019},
   year={2016}
 }
 ```
+
+
 :cherries: **Fashion-MNIST 2017**  
+
+(1)	comprising of 28 × 28 grayscale images of **70,000** fashion products from 10 categories.  
 
 [[homepage]](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/) [[pdf]](https://arxiv.org/pdf/1708.07747.pdf) [[github]](https://github.com/zalandoresearch/fashion-mnist) :pig:
 ```bib
@@ -1437,7 +1449,12 @@ year = {2019},
   eprint       = {cs.LG/1708.07747},
 }
 ```
+
+
 :cherries: **Shoe 2018**  
+
+(1)	supports further research on the task of relative **image captioning**.  
+(2)	pairing **3,600** captions that were discriminative with additional dissimilar images.  
 
 [homepage] [[pdf]](http://papers.nips.cc/paper/7348-dialog-based-interactive-image-retrieval.pdf)
 ```bib
@@ -1449,7 +1466,12 @@ year = {2019},
   year={2018}
 }
 ```
+
+
 :cherries: **Flickr30k 2018**  
+
+(1)	**300k** posts with **5M** comments.  
+(2)	each image is paired with user comment. The maximum number of comments is 427, average per image is 14.  
 
 [homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3184558.3186354)
 ```bib
@@ -1463,6 +1485,9 @@ year = {2019},
 ```
 :cherries: **FCDB 2019**  
 
+(1)	**100 million** Flickr images which focus on 21 global cities based on city perception.  
+(2)	**25,707,690** clothing images for **trend analysis**.  
+
 [[homepage]](http://hirokatsukataoka.net/) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Kataoka_Ten-Million-Order_Human_Database_for_World-Wide_Fashion_Culture_Analysis_CVPRW_2019_paper.pdf) [[github]](https://github.com/cvpaperchallenge/FashionCultureDataBase_DLoader) :pig:
 ```bib
 @InProceedings{Kataoka_2019_CVPR_Workshops,
@@ -1473,7 +1498,12 @@ month = {June},
 year = {2019}
 }
 ```
+
+
 :cherries: **Fashion IQ 2019**  
+
+(1)	dataset for **natural language based fashion image retrieval**.  
+(2)	each image is crawled from Amazon.com and extracted corresponding product information, when available.  
 
 [homepage] [[pdf]](https://arxiv.org/pdf/1905.12794.pdf) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) :pig:
 ```bib
@@ -1484,7 +1514,11 @@ year = {2019}
   year={2019}
 }
 ```
+
+
 :cherries: **TFCD 2019**  
+
+(1)	a dataset containing data from real user sessions on a major European e-commerce fashion website.  
 
 [homepage] [[pdf]](https://arxiv.org/ftp/arxiv/papers/1907/1907.00400.pdf)
 ```bib
