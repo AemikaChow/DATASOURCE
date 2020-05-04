@@ -157,7 +157,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 (1) **9,339** fashion images from **8** continuous years are collected.  
 (2) With human-annotated foreground masks.  
 
-[[pdf]](https://arxiv.org/pdf/1803.03415.pdf)
+[homepage] [[pdf]](https://arxiv.org/pdf/1803.03415.pdf)
 ```bib
 @article{zhang2018fusing,
   title={Fusing Hierarchical Convolutional Features for Human Body Segmentation and Clothing Fashion Classification},
@@ -211,7 +211,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 :cherries: **DeepFashion2 2019** 
 
 
-[[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2) :pig:
+[homepage] [[pdf]](https://arxiv.org/pdf/1901.07973.pdf) [[github]](https://github.com/switchablenorms/DeepFashion2) :pig:
 ```bib
 @article{DeepFashion2,
   author = {Yuying Ge and Ruimao Zhang and Lingyun Wu and Xiaogang Wang and Xiaoou Tang and Ping Luo},
@@ -242,7 +242,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 
 
-[[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2013/W03/papers/Di_Style_Finder_Fine-Grained_2013_CVPR_paper.pdf)
+[homepage] [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2013/W03/papers/Di_Style_Finder_Fine-Grained_2013_CVPR_paper.pdf)
 ```bib
 @inproceedings{di2013style,
   title={Style finder: Fine-grained clothing style detection and retrieval},
@@ -255,7 +255,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **ZOZOTOWN 2013**  
 
 
-[[pdf]](https://www.researchgate.net/profile/Kiyoharu_Aizawa/publication/261438969_SNAPPER_Fashion_coordinate_image_retrieval_system/links/0f31753472d15b5839000000/SNAPPER-Fashion-coordinate-image-retrieval-system.pdf)
+[homepage] [[pdf]](https://www.researchgate.net/profile/Kiyoharu_Aizawa/publication/261438969_SNAPPER_Fashion_coordinate_image_retrieval_system/links/0f31753472d15b5839000000/SNAPPER-Fashion-coordinate-image-retrieval-system.pdf)
 ```bib
 @inproceedings{miura2013snapper,
   title={SNAPPER: fashion coordinate image retrieval system},
@@ -269,7 +269,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Fashion136K 2013**  
 
 
-[[pdf]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623332)
+[homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623332)
 ```bib
 @inproceedings{jagadeesh2014large,
   title={Large scale visual recommendations from street fashion images},
@@ -308,7 +308,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Hipster Wars 2014**  
 
 
-[[pdf]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2014/papers/8689/86890472.pdf)
+[homepage] [[pdf]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2014/papers/8689/86890472.pdf)
 ```bib
 @inproceedings{kiapour2014hipster,
   title={Hipster wars: Discovering elements of fashion styles},
@@ -347,7 +347,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **DARN 2015**  
 
 
-[[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf)
+[homepage] [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf)
 ```bib
 @inproceedings{huang2015cross,
   title={Cross-domain image retrieval with a dual attribute-aware ranking network},
@@ -360,7 +360,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Clothing1M 2015**  
 
 
-[[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf) [[github]](https://github.com/Cysu/noisy_label) :pig:
+[homepage] [[pdf]](https://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf) [[github]](https://github.com/Cysu/noisy_label) :pig:
 ```bib
 @inproceedings{xiao2015learning,
   title={Learning from Massive Noisy Labeled Data for Image Classification},
@@ -372,7 +372,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **YahooClothing 2015** 
 
 
-[[pdf]](https://dl.acm.org/doi/pdf/10.1145/2671188.2749318)
+[homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2671188.2749318)
 ```bib
 @inproceedings{lin2015rapid,
   title={Rapid clothing retrieval via deep learning of binary codes and hierarchical search},
@@ -385,7 +385,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Chitopia 2015**  
 
 
-[[pdf]](http://www.bmva.org/bmvc/2015/papers/paper051/paper051.pdf)
+[homepage] [[pdf]](http://www.bmva.org/bmvc/2015/papers/paper051/paper051.pdf)
 ```bib
 @inproceedings{yamaguchi2015mix,
   title={Mix and Match: Joint Model for Clothing and Attribute Recognition.},
@@ -464,7 +464,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **Fashion200K 2017**  
 
-[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Han_Automatic_Spatially-Aware_Fashion_ICCV_2017_paper.pdf) [[github]](https://github.com/xthan/fashion-200k/) :pig:
+[homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Han_Automatic_Spatially-Aware_Fashion_ICCV_2017_paper.pdf) [[github]](https://github.com/xthan/fashion-200k/) :pig:
 ```bib
 @inproceedings{han2017automatic,
   title = {Automatic Spatially-aware Fashion Concept Discovery},
@@ -488,7 +488,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Amazon Dress**  
 
 
-[[pdf]](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_7.pdf)
+[homepage] [[pdf]](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_7.pdf)
 ```bib
 @inproceedings{laenen2017cross,
   title={Cross-modal search for fashion attributes},
@@ -516,7 +516,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Video2Shop 2017**  
 
 
-[[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cheng_Video2Shop_Exact_Matching_CVPR_2017_paper.pdf)
+[homepage] [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cheng_Video2Shop_Exact_Matching_CVPR_2017_paper.pdf)
 ```bib
 @inproceedings{cheng2017video2shop,
   title={Video2shop: Exact matching clothes in videos to online shopping images},
@@ -529,6 +529,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **RFS | PFS 2018**  
 
 
+[homepage] [[pdf]]  
 ```bib
 @article{gu2018multi,
   title={Multi-Modal and Multi-Domain Embedding Learning for Fashion Retrieval and Analysis},
@@ -544,7 +545,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **BrandFashion 2018**  
 
 
-[[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Manandhar_Tiered_Deep_Similarity_Search_for_Fashion_ECCVW_2018_paper.pdf)
+[homepage] [[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Manandhar_Tiered_Deep_Similarity_Search_for_Fashion_ECCVW_2018_paper.pdf)
 ```bib
 @inproceedings{manandhar2018tiered,
   title={Tiered Deep Similarity Search for Fashion},
@@ -557,7 +558,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **FashionBrand 2018**  
 
 
-[[pdf]](https://arxiv.org/pdf/1810.09941v1.pdf)
+[homepage] [[pdf]](https://arxiv.org/pdf/1810.09941v1.pdf)
 ```bib
 @inproceedings{hadi2018brand,
   title={Brand> Logo: Visual Analysis of Fashion Brands},
@@ -569,7 +570,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **Fashion60 2018**  
 
-[[link]](https://ieeexplore.ieee.org/document/8396968)
+[homepage] [[pdf]](https://ieeexplore.ieee.org/document/8396968)
 ```bib
 @inproceedings{kuang2018ontology,
   title={Ontology-driven hierarchical deep learning for fashion recognition},
@@ -582,7 +583,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **X-domain 2018**  
 
-[[pdf]](https://arxiv.org/pdf/1804.10851.pdf)
+[homepage] [[pdf]](https://arxiv.org/pdf/1804.10851.pdf)
 ```bib
 @article{dong2018imbalanced,
   title={Imbalanced deep learning by minority class incremental rectification},
@@ -597,7 +598,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **Women | Men Video 2018**  
 
-[[pdf]](https://www.researchgate.net/profile/Sanyi_Zhang/publication/321785076_Watch_Fashion_Shows_to_Tell_Clothing_Attributes/links/5cdf0e3c92851c4eabaa3e07/Watch-Fashion-Shows-to-Tell-Clothing-Attributes.pdf)
+[homepage] [[pdf]](https://www.researchgate.net/profile/Sanyi_Zhang/publication/321785076_Watch_Fashion_Shows_to_Tell_Clothing_Attributes/links/5cdf0e3c92851c4eabaa3e07/Watch-Fashion-Shows-to-Tell-Clothing-Attributes.pdf)
 ```bib
 @article{zhang2018watch,
   title={Watch fashion shows to tell clothing attributes},
@@ -637,7 +638,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Studio2Shop 2018**  
 
 
-[[pdf]](https://www.scitepress.org/Papers/2018/65445/65445.pdf)
+[homepage] [[pdf]](https://www.scitepress.org/Papers/2018/65445/65445.pdf)
 ```bib
 @article{lasserre2018studio2shop,
   title={Studio2shop: from studio photo shoots to fashion articles},
@@ -649,7 +650,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Shopping 100k 2018**  
 
 
-[[pdf]](https://www.researchgate.net/profile/Kenan_Ak/publication/324728522_Efficient_Multi-Attribute_Similarity_Learning_Towards_Attribute-based_Fashion_Search/links/5adf5078aca272fdaf89c65a/Efficient-Multi-Attribute-Similarity-Learning-Towards-Attribute-based-Fashion-Search.pdf)
+[homepage] [[pdf]](https://www.researchgate.net/profile/Kenan_Ak/publication/324728522_Efficient_Multi-Attribute_Similarity_Learning_Towards_Attribute-based_Fashion_Search/links/5adf5078aca272fdaf89c65a/Efficient-Multi-Attribute-Similarity-Learning-Towards-Attribute-based-Fashion-Search.pdf)
 ```bib
 @inproceedings{ak2018efficient,
   title={Efficient multi-attribute similarity learning towards attribute-based fashion search},
@@ -701,7 +702,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **DeepShoe 2019**  
 
-[[pdf]](http://alumni.media.mit.edu/~shiboxin/files/Zhan_CVIU19.pdf)
+[homepage] [[pdf]](http://alumni.media.mit.edu/~shiboxin/files/Zhan_CVIU19.pdf)
 ```bib
 @article{zhan2019deepshoe,
   title={DeepShoe: An improved Multi-Task View-invariant CNN for street-to-shop shoe retrieval},
@@ -715,7 +716,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **FindFashion 2019 combine DeepFashion & Street2Shop**  
 
-[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuang_Fashion_Retrieval_via_Graph_Reasoning_Networks_on_a_Similarity_Pyramid_ICCV_2019_paper.pdf) 
+[homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuang_Fashion_Retrieval_via_Graph_Reasoning_Networks_on_a_Similarity_Pyramid_ICCV_2019_paper.pdf) 
 ```bib
 @inproceedings{kuang2019fashion,
   title={Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid},
@@ -727,7 +728,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **GarmentSet 2020**  
 
-[[pdf]](https://arxiv.org/pdf/2001.06427.pdf)
+[homepage] [[pdf]](https://arxiv.org/pdf/2001.06427.pdf)
 ```bib
 @inproceedings{chen2020tailorgan,
   title={TailorGAN: Making User-Defined Fashion Designs},
@@ -741,7 +742,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ## 3. &nbsp;Outfit
 :cherries: **WoW 2012**  
 
-[[pdf]](https://dl.acm.org/doi/pdf/10.1145/2393347.2393433)
+[homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2393347.2393433)
 ```bib
 @inproceedings{liu2012hi,
   title={Hi, magic closet, tell me what to wear!},
@@ -754,7 +755,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **Stylatrix**  
 
 
-
+[homepage] [[pdf]]  
 ```bib
 @article{sunstylatrix,
   title={Stylatrix: an interactive model-based system for fashion exploration and outfit discovery},
@@ -774,7 +775,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **FashionVC 2017**  
 
-[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123314)
+[homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123314)
 ```bib
 @inproceedings{song2017neurostylist,
   title={Neurostylist: Neural compatibility modeling for clothing matching},
@@ -798,7 +799,7 @@ year = {2017}
 ```
 :cherries: **Polyvore 2017**  
 
-[[pdf]](https://arxiv.org/pdf/1707.05691.pdf) [[github]](https://github.com/xthan/polyvore) :pig:
+[homepage] [[pdf]](https://arxiv.org/pdf/1707.05691.pdf) [[github]](https://github.com/xthan/polyvore) :pig:
 ```bib
 @inproceedings{han2017learning,
   author = {Han, Xintong and Wu, Zuxuan and Jiang, Yu-Gang and Davis, Larry S},
@@ -824,7 +825,7 @@ year = {2017}
 ```
 :cherries: **UIUC 2018**  
 
-[[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf) [[github]](https://github.com/mvasil/fashion-compatibility) 
+[homepage] [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf) [[github]](https://github.com/mvasil/fashion-compatibility) 
 ```bib
 @inproceedings{VasilevaECCV18FasionCompatibility,
 Author = {Mariya I. Vasileva and Bryan A. Plummer and Krishna Dusad and Shreya Rajpal and Ranjitha Kumar and David Forsyth},
@@ -835,7 +836,7 @@ Year = {2018}
 ```
 :cherries: **IQON 2018**  
 
-[[pdf]](https://arxiv.org/pdf/1807.03133.pdf) [[github]](https://github.com/Cherrybruin/iqon-dataset)
+[homepage] [[pdf]](https://arxiv.org/pdf/1807.03133.pdf) [[github]](https://github.com/Cherrybruin/iqon-dataset)
 ```bib
 @article{nakamura2018outfit,
   title={Outfit generation and style extraction via bidirectional lstm and autoencoder},
@@ -846,7 +847,7 @@ Year = {2018}
 ```
 :cherries: **Style4BodyShape 2018**  
 
-[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240546)
+[homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240546)
 ```bib
 @inproceedings{hidayati2018dress,
   title={What dress fits me best? fashion recommendation on the clothing style for personal body shape},
@@ -858,7 +859,7 @@ Year = {2018}
 ```
 :cherries: **Lookastic 2019**  
 
-[[pdf]](http://staff.ustc.edu.cn/~hexn/papers/sigir19-fashion.pdf)
+[homepage] [[pdf]](http://staff.ustc.edu.cn/~hexn/papers/sigir19-fashion.pdf)
 ```bib
 @inproceedings{yang2019interpretable,
   title={Interpretable Fashion Matching with Rich Attributes},
@@ -870,7 +871,7 @@ Year = {2018}
 ```
 :cherries: **POG 2019**  
 
-[[pdf]](https://arxiv.org/pdf/1905.01866.pdf) [[github]](https://github.com/wenyuer/POG) :pig:
+[homepage] [[pdf]](https://arxiv.org/pdf/1905.01866.pdf) [[github]](https://github.com/wenyuer/POG) :pig:
 ```bib
 @inproceedings{chen2019pog,
   title={POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion},
@@ -882,7 +883,7 @@ Year = {2018}
 ```
 :cherries: **Shop the Look 2019**  
 
-[[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.pdf)[[github]](https://github.com/kang205/STL-Dataset) 
+[homepage] [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.pdf)[[github]](https://github.com/kang205/STL-Dataset) 
 ```bib
 @inproceedings{kang2019complete,
   title={Complete the Look: Scene-based Complementary Product Recommendation},
@@ -894,7 +895,7 @@ Year = {2018}
 ```
 :cherries: **ExpFashion 2019**  
 
-[[pdf]](https://xuemengsong.github.io/Neuro_2019.pdf)
+[homepage] [[pdf]](https://xuemengsong.github.io/Neuro_2019.pdf)
 ```bib
 @article{liu2019neural,
   title={Neural fashion experts: I know how to make the complementary clothing matching},
@@ -908,7 +909,7 @@ Year = {2018}
 ```
 :cherries: **ASOS outfits 2019**  
 
-[[pdf]](https://arxiv.org/pdf/1904.00741.pdf)
+[homepage] [[pdf]](https://arxiv.org/pdf/1904.00741.pdf)
 ```bib
 @article{bettaney2019fashion,
   title={Fashion Outfit Generation for E-commerce},
@@ -919,7 +920,7 @@ Year = {2018}
 ```
 :cherries: **Chuanda 2020**  
 
-[[pdf]](https://arxiv.org/pdf/2004.06229.pdf)
+[homepage] [[pdf]](https://arxiv.org/pdf/2004.06229.pdf)
 ```bib
 @article{liu2020imitation,
   title={Imitation Learning for Fashion Style Based on Hierarchical Multimodal Representation},
@@ -945,7 +946,7 @@ Year = {2018}
 ```
 :cherries: **FashionGAN 2017** 
 
-[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf) [[github]](https://github.com/zhusz/ICCV17-fashionGAN) :pig:
+[homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf) [[github]](https://github.com/zhusz/ICCV17-fashionGAN) :pig:
 ```bib
 @inproceedings{zhu2017be,
   title={Be Your Own Prada: Fashion Synthesis with Structural Coherence},
@@ -968,7 +969,7 @@ Year = {2018}
 ```
 :cherries: **VTON 2018**  
 
-[[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf) [[github]](https://github.com/xthan/VITON) 
+[homepage] [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf) [[github]](https://github.com/xthan/VITON) 
 ```bib
 @inproceedings{han2017viton,
   title = {VITON: An Image-based Virtual Try-on Network},
@@ -979,7 +980,7 @@ Year = {2018}
 ```
 :cherries: **DeepWear 2018**  
 
-[[pdf]](https://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2018/03/deepwear.pdf)
+[homepage] [[pdf]](https://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2018/03/deepwear.pdf)
 ```bib
 @inproceedings{kato2018deepwear,
   title={DeepWear: a Case Study of Collaborative Design between Human and Artificial Intelligence},
@@ -1013,7 +1014,7 @@ Year = {2018}
 ```
 :cherries: **RTW 2018**  
 
-[[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Sbai_DesIGN_Design_Inspiration_from_Generative_Networks_ECCVW_2018_paper.pdf)
+[homepage] [[pdf]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Sbai_DesIGN_Design_Inspiration_from_Generative_Networks_ECCVW_2018_paper.pdf)
 ```bib
 @inproceedings{sbai2018design,
   title={Design: Design inspiration from generative networks},
@@ -1038,7 +1039,7 @@ year = {2019},
 ```
 :cherries: **Fashion Takes 2019**  
 
-[[pdf]](https://virtualhumans.mpi-inf.mpg.de/papers/sattar2019WACV/sattar2019WACV.pdf)
+[homepage] [[pdf]](https://virtualhumans.mpi-inf.mpg.de/papers/sattar2019WACV/sattar2019WACV.pdf)
 ```bib
 @inproceedings{sattar2019fashion,
   title={Fashion is taking shape: Understanding clothing preference based on body shape from online sources},
@@ -1051,7 +1052,7 @@ year = {2019},
 ```
 :cherries: **StyleGAN 2019**  
 
-[[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Yildirim_Generating_High-Resolution_Fashion_Model_Images_Wearing_Custom_Outfits_ICCVW_2019_paper.pdf)
+[homepage] [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Yildirim_Generating_High-Resolution_Fashion_Model_Images_Wearing_Custom_Outfits_ICCVW_2019_paper.pdf)
 ```bib
 @inproceedings{yildirim2019generating,
   title={Generating High-Resolution Fashion Model Images Wearing Custom Outfits},
@@ -1063,7 +1064,7 @@ year = {2019},
 ```
 :cherries: **Deep Fashion3D 2020**  
 
-[[pdf]](https://arxiv.org/pdf/2003.12753.pdf)
+[homepage] [[pdf]](https://arxiv.org/pdf/2003.12753.pdf)
 ```bib
 @article{zhu2020deep,
   title={Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images},
@@ -1113,7 +1114,7 @@ year = {2019},
 ```
 :cherries: **Shoe 2018**  
 
-[[pdf]](http://papers.nips.cc/paper/7348-dialog-based-interactive-image-retrieval.pdf)
+[homepage] [[pdf]](http://papers.nips.cc/paper/7348-dialog-based-interactive-image-retrieval.pdf)
 ```bib
 @inproceedings{guo2018dialog,
   title={Dialog-based interactive image retrieval},
@@ -1125,7 +1126,7 @@ year = {2019},
 ```
 :cherries: **Flickr30k 2018**  
 
-[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3184558.3186354)
+[homepage] [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3184558.3186354)
 ```bib
 @inproceedings{lin2018netizen,
   title={Netizen-style commenting on fashion photos: dataset and diversity measures},
@@ -1149,7 +1150,7 @@ year = {2019}
 ```
 :cherries: **Fashion IQ 2019**  
 
-[[pdf]](https://arxiv.org/pdf/1905.12794.pdf) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) :pig:
+[homepage] [[pdf]](https://arxiv.org/pdf/1905.12794.pdf) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) [[github]](https://github.com/XiaoxiaoGuo/fashion-iq) :pig:
 ```bib
 @article{guo2019fashion,
   title={The Fashion IQ Dataset: Retrieving Images by Combining Side Information and Relative Natural Language Feedback},
@@ -1160,7 +1161,7 @@ year = {2019}
 ```
 :cherries: **TFCD 2019**  
 
-[[pdf]](https://arxiv.org/ftp/arxiv/papers/1907/1907.00400.pdf)
+[homepage] [[pdf]](https://arxiv.org/ftp/arxiv/papers/1907/1907.00400.pdf)
 ```bib
 @article{bigon2019prediction,
   title={Prediction is very hard, especially about conversion. Predicting user purchases from clickstream data in fashion e-commerce},
