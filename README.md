@@ -39,6 +39,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
   
+  
 :cherries: **Paperdoll 2013**   
 
 (1) Over **1 million** pictures from chictopia.com with associated metadata tags i.e. color, clothing item, or occasion.  
@@ -55,6 +56,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   year={2013}
 }
 ```
+
 
 :cherries: **CFPD 2013**   
 
@@ -96,6 +98,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
 
+
 :cherries: **HCP 2015**   
 
 (1) **7,700** images in total.  
@@ -117,6 +120,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
 
+
 :cherries: **Fashion Icon 2015** 
 
 (1) **Video dataset** and **Fashion Icon (FI) image dataset**.  
@@ -137,6 +141,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
 
+
 :cherries: **Refined Fashionista 2017**   
 
 (1) Reduces the number of clothing categories from **56** to **25** essential labels.  
@@ -151,6 +156,7 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
   year={2017}
 }
 ```
+
 
 :cherries: **FASHION8 2018**   
 
@@ -167,8 +173,12 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
 
+
 :cherries: **ModaNet 2018**  
 
+(1) **55, 176** street images, fully annotated with polygons (bounding box, segmentation mask).  
+(2) Based on 1 million weakly annotated street images in **Paperdoll**.  
+(3) **13** categories annotated (*e.g.* bag, belt, boots).  
 
 [[homepage]](https://github.com/eBay/modanet) [[pdf]](https://arxiv.org/pdf/1807.01394.pdf) [[github]](https://github.com/hrsma2i/modanet) :pig:
 ```bib
@@ -181,7 +191,10 @@ For semantic segmentation, object detection, instance segmentation, polygon dete
 }
 ```
 
+
 ## 1. &nbsp;Keypoints
+For keypoint detection, landmark detection, and *etc*.
+*****
 :cherries: **LandmarkDetection 2016**  
 
 
