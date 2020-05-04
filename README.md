@@ -8,6 +8,7 @@ We uniformed the words decribe the fashion concept.
 - &nbsp;**Silhouette** (shape): the shape of a garment, *e.g.* H line, A line *etc*;
 - &nbsp;**Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
 - &nbsp;**Print** (pattern): the surface design of a garment, *e.g.* checks, dotted *etc*;
+- &nbsp;**Neckline** (collar shape)： the design in the neck region of a garment， *e.g.* V-neck, lapel *etc*; 
 - &nbsp;**Category** (type): type of a garment, *e.g.* dress, top *etc*;
 - &nbsp;**Sub-category**: fine-grained type of a garment, *e.g.* wedding dress, T-shire *etc*;
 - &nbsp;**Style**: the expressed feeling of a garment of an outfit, *e.g.* lovely, casual *etc*;
