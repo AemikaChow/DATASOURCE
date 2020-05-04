@@ -20,7 +20,7 @@ If you have problems with a specific dataset shows below, please kindly contact 
 ## 0. &nbsp;Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and *etc*.
 *****
-:arrow_forward: **Fashionista 2012** :pig:  
+:heart_decoration: **Fashionista 2012** :pig:  
 
 (1) **158,235** fashion photos with associated text annotations (tags, comments, and links).  
 (2) The tags are noisy or incomplete.  
