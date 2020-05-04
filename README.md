@@ -340,6 +340,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **Fashion 10000 2014**  
 
+(1) **32,398** photos, with their associated metadata, distributed in **262** diﬀerent fashion categories.  
 
 [[homepage]](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2557642.2563675) :pig:
 ```bib
