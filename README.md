@@ -354,6 +354,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 ```
 :cherries: **Hipster Wars 2014**  
 
+(1) **1,893** images labeled with **5 style** categories: hipster, bohemian, pinup, preppy, and goth.  
 
 [homepage] [[pdf]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2014/papers/8689/86890472.pdf)
 ```bib
