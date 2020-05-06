@@ -4,7 +4,7 @@ This is a **summary**. We reviewed all  (to our best knowledge) fashion-related 
 
 The sections are defined according to the types of data, *e.g.* if you want clothing segmentation information, you can see Section 0. parsing to find annotated data.  
 
-If you want to obtain some attributes, you can see Section 1. attribute. We present the type of attributes (*e.g.* brand, style, date, review, comment, neckline, color *etc*), the number of images, potential tasks, type of images (*e.g.* product image, model image, which view, *etc*) for a quick check.  
+If you want to obtain some attributes, you can see Section 1. attribute. We present the type of attributes (*e.g.* brand, review, comment, neckline, color *etc*), the number of images, potential tasks, type of images (*e.g.* product image, model image, which view, *etc*) for a quick check.  
 
 :pig: means the dataset can be found. If you find the dataset helpful, please kindly cite it in your paper~  
 
