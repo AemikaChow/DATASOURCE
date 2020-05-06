@@ -1547,4 +1547,4 @@ year = {2019}
 - https://data.world/datasets/fashion
 - https://tianchi.aliyun.com/dataset/
 ## Acknowledge
-Here I would like to thank Miss Po Yee(Boey), PANG, Miss Wai Lee(Selene), CHONG, for their hard work on collecting datasource information.
+Here I would like to thank Miss Po Yee(Boey), PANG, Miss Wai Lee(Selene), CHONG, for their hard work on collecting the datasource information.
