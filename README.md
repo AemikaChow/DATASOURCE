@@ -6,7 +6,7 @@ The sections are defined according to the types of data, *e.g.* if you want clot
 
 If you want to obtain some attributes, you can see Section 1. attribute. We present the type of attributes (*e.g.* brand, review, style, comment, neckline, color *etc*), the number of images, potential tasks, type of images (*e.g.* product image, model image, which view, *etc*) for a quick check.  
 
-:pig: means the dataset can be found. If you find the dataset helpful, please kindly cite it in your paper~  
+:pig: means the dataset can be found. If you find the dataset helpful, please kindly cite it in your paper ("bibtex" is offered for your convenience)~  
 
 Meanwhile, for consistency, we uniformed the words decribe the fashion concept.
 - &nbsp;**Silhouette** (shape, cut, fit): the shape of a garment, *e.g.* H line, A line *etc*;
