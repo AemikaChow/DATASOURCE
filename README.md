@@ -1,10 +1,12 @@
 # DATASOURCE for *fAshIon* :thought_balloon:
 
-This is a summary. We reviewed all  (to our best knowledge) fashion-related papers in the past decade and recorded the datasets been used. The numbers to describe the dataset is faithfully followed its original paper.  
+This is a **summary**. We reviewed all  (to our best knowledge) fashion-related papers in the past decade and recorded the datasets had been used. The numbers to describe the dataset is faithfully followed its original paper. The webpage is organized as:  
 
-:pig: means the dataset can be found  
+Sections are defined according to the types of data, *e.g.* if you want clothing segmentation information, you can see Section 0. parsing to find annotated data. If you want to obtain some attributes, you can see Section 1. attribute. We present the type of attributes (*e.g.* brand, style, date, review, comment, neckline, color *etc*), the number of images, potential tasks, type of images (*e.g.* product image, model image, which view, *etc*) for a quick check.  
 
-We uniformed the words decribe the fashion concept.
+:pig: means the dataset can be found. If you find the dataset helpful, please kindly cite it in your paper~  
+
+Meanwhile, for consistency, we uniformed the words decribe the fashion concept.
 - &nbsp;**Silhouette** (shape, cut, fit): the shape of a garment, *e.g.* H line, A line *etc*;
 - &nbsp;**Material** (fabric): the material made a garment, *e.g.* chiffon, lace *etc*;
 - &nbsp;**Print** (pattern, texture): the surface design of a garment, *e.g.* checks, dotted *etc*;
@@ -18,7 +20,7 @@ We uniformed the words decribe the fashion concept.
 - &nbsp;**Design Attributes**: the attributes used in the process of garment design, *e.g.* shirt cuff, shirt collar *etc*;
 - &nbsp;**Retail Attributes**: the attributes used in the process of retail, *e.g.*  parka, windbreaker *etc*.  
 
-If you have problems with a specific dataset shows below, please kindly contact its authors. For quick check, you can also see the [memo version](https://drive.google.com/open?id=1ucwMgee0Df1P--cDHQR9XdcPPuMjgaSt) &copy;
+If you have problems with a specific dataset shows below, please kindly contact its authors. For a quick check, you can also see my own [memo version](https://drive.google.com/open?id=1ucwMgee0Df1P--cDHQR9XdcPPuMjgaSt) &copy;
 
 ## 0. &nbsp;Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and *etc*.
@@ -1543,4 +1545,4 @@ year = {2019}
 - https://data.world/datasets/fashion
 - https://tianchi.aliyun.com/dataset/
 ## Acknowledge
-Here I would like to thank Miss Boey Pang, Miss Selene Lee, for their hard work on collecting datasource information.
+Here I would like to thank Miss Po Yee(Boey), PANG, Miss Wai Lee(Selene), CHONG, for their hard work on collecting datasource information.
