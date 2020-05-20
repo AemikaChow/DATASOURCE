@@ -24,6 +24,19 @@ Meanwhile, for consistency, we uniformed the words decribe the fashion concept.
 
 If you have problems with a specific dataset shows below, please kindly contact its authors. For a quick check, you can also see my own [memo version](https://drive.google.com/open?id=1ucwMgee0Df1P--cDHQR9XdcPPuMjgaSt) &copy;
 
+<!-- toc -->
+
+- [0. &nbsp;Parsing](#0-parsing)
+- [1. &nbsp;Keypoints](#1-keypoints)
+- [2. &nbsp;Attribute](#2-attribute)
+- [3. &nbsp;Outfit](#3-outfit)
+- [4. &nbsp;Generation](#4-generation)
+- [5. &nbsp;Others](#5-others)
+- [Other Sources](#other-sources)
+- [Acknowledge](#acknowledge)
+
+<!-- tocstop -->
+
 ## 0. &nbsp;Parsing 
 For semantic segmentation, object detection, instance segmentation, polygon detection, and *etc*.
 *****
