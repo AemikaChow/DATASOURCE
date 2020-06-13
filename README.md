@@ -776,7 +776,9 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 :cherries: **FASHIONAI Attributes 2018**  
 
 (1)	**324k** images with **245** labels that cover 6 categories of women’s clothing, and a total of 41 subcategories (single labeled).  
-[[homepage]](https://tianchi.aliyun.com/competition/entrance/231649/information) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]]() :pig:
+[[homepage]](https://tianchi.aliyun.com/competition/entrance/231649/information) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]](https://tianchi.aliyun.com/competition/entrance/231671/introduction?spm=5176.12281949.1003.10.493e1dc1qVUD4c) :pig:
+
+:orange: You may kindly obtain the data by logging in to the TIANCHI platform (Choosing the international version, then register a personal account and sign the agreement. You will be supposed to access the data successfully).
 ```bib
 @inproceedings{zou2019fashionai,
   title={FashionAI: A Hierarchical Dataset for Fashion Understanding},
