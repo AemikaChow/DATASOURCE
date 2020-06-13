@@ -238,7 +238,9 @@ For keypoint detection, landmark detection, pose estimation and *etc*.
 
 (1) **24** key points in **324k** image (including armpit, crotch keypoints).  
 
-[[homepage]](https://tianchi.aliyun.com/competition/entrance/231648/introduction?lang=zh-cn) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]]() :pig:
+[[homepage]](https://tianchi.aliyun.com/competition/entrance/231648/introduction?lang=zh-cn) [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf) [[TIANCHI]](https://tianchi.aliyun.com/competition/entrance/231670/introduction?spm=5176.12281949.1003.9.493e1dc1qVUD4c) :pig:
+
+:orange: You may kindly obtain the data by logging in to the TIANCHI platform (Choosing the international version, then register a personal account and sign the agreement. You will be supposed to access the data successfully).
 ```bib
 @inproceedings{zou2019fashionai,
   title={FashionAI: A Hierarchical Dataset for Fashion Understanding},
