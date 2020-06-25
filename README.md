@@ -1367,6 +1367,23 @@ year = {2019},
 }
 ```
 
+:cherries: **MVP 2019**  
+
+(1)	Contains **35,687** person images and **13,524** clothes images.
+(2) Each person image in MPV has different poses.
+(3) The image is in the resolution of 256 × 192.
+(4) 62,780 three-tuples of the same person in the same clothes but with different poses.
+
+[[homepage]](https://github.com/thaithanhtuan/MyMGVTON) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Towards_Multi-Pose_Guided_Virtual_Try-On_Network_ICCV_2019_paper.pdf) :pig:
+```bib
+@inproceedings{dong2019towards,
+  title={Towards multi-pose guided virtual try-on network},
+  author={Dong, Haoye and Liang, Xiaodan and Shen, Xiaohui and Wang, Bochao and Lai, Hanjiang and Zhu, Jia and Hu, Zhiting and Yin, Jian},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={9026--9035},
+  year={2019}
+}
+```
 
 :cherries: **Fashion Takes 2019**  
 
