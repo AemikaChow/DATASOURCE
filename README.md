@@ -1427,7 +1427,7 @@ year = {2019},
 (1)	**2,078** models reconstructed from real garments, which covers **10** different categories and **563** garment instances.  
 (2)	Multi-view stereo, multi-view real images, 3D feature lines, 3D body pose.  
 
-[homepage] [[pdf]](https://arxiv.org/pdf/2003.12753.pdf)
+[[homepage]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/) [[pdf]](https://arxiv.org/pdf/2003.12753.pdf)
 ```bib
 @article{zhu2020deep,
   title={Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images},
