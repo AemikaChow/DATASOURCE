@@ -940,6 +940,22 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 }
 ```
 
+:cherries: **InFashAIv1 dataset 2021**
+
+(1) contains 15,716 images.  
+(2) a large volume of data on African fashion.
+
+[[homepage]](https://github.com/hgilles06/infashai) [[pdf]](https://arxiv.org/pdf/2001.06427.pdf) :pig:
+```bib
+@inproceedings{chen2020tailorgan,
+  title={TailorGAN: Making User-Defined Fashion Designs},
+  author={Chen, Lele and Tian, Justin and Li, Guo and Wu, Cheng-Haw and King, Erh-Kan and Chen, Kuan-Ting and Hsieh, Shao-Hang and Xu, Chenliang},
+  booktitle={The IEEE Winter Conference on Applications of Computer Vision},
+  pages={3241--3250},
+  year={2020}
+}
+```
+
 
 
 ## 3. &nbsp;Outfit
@@ -1385,6 +1401,27 @@ year = {2019},
 }
 ```
 
+:cherries: **AMASS dataset 2019** 
+
+AMASS is a large database of human motion unifying different optical marker-based motion capture datasets by representing them within a common framework and parameterization. AMASS is readily useful for animation, visualization, and generating training data for deep learning.
+
+(1) more than 40 hours of motion data, spanning over 300 subjects, more than 11000 motions
+
+[[homepage]](https://amass.is.tue.mpg.de/)[[pdf]](https://arxiv.org/pdf/1904.03278.pdf)
+```bib
+@inproceedings{AMASS:2019,
+  title={AMASS: Archive of Motion Capture as Surface Shapes},
+  author={Mahmood, Naureen and Ghorbani, Nima and F. Troje, Nikolaus and Pons-Moll, Gerard and Black, Michael J.},
+  booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+  year={2019},
+  month = {Oct},
+  url = {https://amass.is.tue.mpg.de},
+  month_numeric = {10}
+}
+```
+
+
+
 :cherries: **Fashion Takes 2019**  
 
 (1)	Over **18,000** images with meta-data including clothing category.  
@@ -1427,7 +1464,7 @@ year = {2019},
 (1)	**2,078** models reconstructed from real garments, which covers **10** different categories and **563** garment instances.  
 (2)	Multi-view stereo, multi-view real images, 3D feature lines, 3D body pose.  
 
-[[homepage]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/) [[pdf]](https://arxiv.org/pdf/2003.12753.pdf)
+[[homepage]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/) [[pdf]](https://arxiv.org/pdf/2003.12753.pdf) :pig:
 ```bib
 @article{zhu2020deep,
   title={Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images},
@@ -1435,6 +1472,76 @@ year = {2019},
   journal={arXiv preprint arXiv:2003.12753},
   year={2020}
 }
+```
+
+:cherries: **CAPE 2020**
+
+(1) provides SMPL mesh registration of 4D scans of people in clothing, along with registered scans of the ground truth body shapes under clothing. 
+(2) 10 male and 5 female subjects.
+(3) 600+ motion sequences, 140K+ frames, 4 different types of outfits: short upper body clothing with long trousers (denoted as "short long"), and "short short", "long short", "long long"
+(4) covers 8 common garment types: short T-shirts, long T-shirts, long jerseys, long-sleeve shirts, polo shirts, blazers, shorts, long trousers.
+
+[[homepage]](https://cape.is.tue.mpg.de/dataset.html) [[pdf]](https://arxiv.org/pdf/1907.13615.pdf) :pig:
+```bib
+@inproceedings{CAPE:CVPR:20,
+  title = {{Learning to Dress 3D People in Generative Clothing}},
+  author = {Ma, Qianli and Yang, Jinlong and Ranjan, Anurag and Pujades, Sergi and Pons-Moll, Gerard and Tang, Siyu and Black, Michael J.},
+  booktitle = {Computer Vision and Pattern Recognition (CVPR)},
+  month = June,
+  year = {2020},
+  month_numeric = {6}}
+```
+
+:cherries: **CLOTH3D 2021**
+
+(1) consisting of 2, 300 3D point cloud sequences by adapting CLOTH3D, which serves as the first benchmark dataset for evaluating posed garment reconstruction based on point cloud sequences.
+
+[[homepage]](https://hongfz16.github.io/projects/Garment4D.html) [[pdf]](https://papers.nips.cc/paper/2021/file/eb160de1de89d9058fcb0b968dbbbd68-Paper.pdf) :pig:
+```bib
+@inproceedings{
+    hong2021garmentd,
+    title={Garment4D: Garment Reconstruction from Point Cloud Sequences},
+    author={Fangzhou Hong and Liang Pan and Zhongang Cai and Ziwei Liu},
+    booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+    year={2021},
+    url={https://openreview.net/forum?id=aF60hOEwHP}
+}
+```
+
+
+:cherries: **AGORA 2021**
+
+(1) 4240 commercially available, high-quality, textured human scans in diverse poses and natural clothing; this includes 257 scans of children. We create reference 3D poses and body shapes by fitting the SMPL-X body model (with face and hands) to the 3D scans, taking into account clothing. 
+(2) around 14K training and 3K test images by rendering between 5 and 15 people per image using either image-based lighting or rendered 3D environments, taking care to make the images physically plausible and photoreal. 
+(3) consists of 173K individual person crops.
+
+[[homepage]](https://agora.is.tue.mpg.de/) [[pdf]](https://arxiv.org/pdf/2104.14643.pdf) :pig:
+```bib
+@inproceedings{Patel:CVPR:2021,
+  title = {{AGORA}: Avatars in Geography Optimized for Regression Analysis}, 
+  author = {Patel, Priyanka and Huang, Chun-Hao P. and Tesch, Joachim and Hoffmann, David T. and Tripathi, Shashank and Black, Michael J.}, 
+  booktitle = {Proceedings IEEE/CVF Conf.~on Computer Vision and Pattern Recognition ({CVPR})}, 
+  month = jun,
+  year = {2021},
+  month_numeric = {6}
+}
+```
+
+:cherries: **ReSynth Dataset 2021**
+
+(1) contains 24 outfits of diverse garment types, dressed on varied body shapes across both genders, as shown in the image below.
+(2) the clothing designs are created by a professional clothing designer so that they faithfully reflect those in the real scanned human dataset (RenderPeople).
+(3) all outfits are simulated using a consistent set of 20 motion sequences captured in the CAPE dataset.
+
+[[homepage]](https://pop.is.tue.mpg.de/) [[pdf]](https://arxiv.org/pdf/2109.01137.pdf) :pig:
+```bib
+@inproceedings{POP:ICCV:2021,
+title = {The Power of Points for Modeling Humans in Clothing},
+author = {Ma, Qianli and Yang, Jinlong and Tang, Siyu and Black, Michael J.},
+booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+month = oct,
+year = {2021},
+month_numeric = {10}}
 ```
 
 ## 5. &nbsp;Others
@@ -1565,6 +1672,36 @@ year = {2019}
   author={Bigon, Luca and Cassani, Giovanni and Greco, Ciro and Lacasa, Lucas and Pavoni, Mattia and Polonioli, Andrea and Tagliabue, Jacopo},
   journal={arXiv preprint arXiv:1907.00400},
   year={2019}
+}
+```
+
+:cherries: **SHIFT15M 2021**
+
+(1) a dataset that can be used to properly evaluate models in situations where the distribution of data changes between training and testing.
+(2) Multiobjective, each instance in the dataset has several numerical values that can be used as target variables. 
+(3) Large-scale, the SHIFT15M dataset consists of 15million fashion images. 
+(4) Coverage of types of dataset shifts. It contains multiple dataset shift problem settings.
+
+[[homepage]](https://github.com/st-tech/zozo-shift15m) [[pdf]](https://arxiv.org/pdf/2108.12992.pdf) :pig:
+```bib
+@article{kimura2021shift15m,
+  title={SHIFT15M: Multiobjective Large-Scale Fashion Dataset with Distributional Shifts},
+  author={Kimura, Masanari and Nakamura, Takuma and Saito, Yuki},
+  journal={arXiv preprint arXiv:2108.12992},
+  year={2021}
+}
+```
+
+:cherries: **3D Garments with Sewing Patterns 2021**
+
+(1) consisting of 19 garment types and more then 20 000 garment samples.
+
+[[homepage]](https://github.com/maria-korosteleva/Garment-Pattern-Generator) [[pdf]](https://arxiv.org/pdf/2109.05633.pdf) :pig:
+```bib
+@article{korosteleva2021generating,
+  title={Generating Datasets of 3D Garments with Sewing Patterns},
+  author={Korosteleva, Maria and Lee, Sung-Hee},
+  year={2021}
 }
 ```
 
