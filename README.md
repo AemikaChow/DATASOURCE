@@ -670,8 +670,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 
 :cherries: **RFS | PFS 2018**  
 
-  
-
+ 
 [homepage] [[pdf]]  
 ```bib
 @article{gu2018multi,
@@ -773,6 +772,7 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
   publisher={Elsevier}
 }
 ```
+
 :cherries: **FASHIONAI Attributes 2018**  
 
 (1)	**324k** images with **245** labels that cover 6 categories of women’s clothing, and a total of 41 subcategories (single labeled).  
@@ -1407,7 +1407,7 @@ AMASS is a large database of human motion unifying different optical marker-base
 
 (1) more than 40 hours of motion data, spanning over 300 subjects, more than 11000 motions
 
-[[homepage]](https://amass.is.tue.mpg.de/)[[pdf]](https://arxiv.org/pdf/1904.03278.pdf)
+[[homepage]](https://amass.is.tue.mpg.de/)[[pdf]](https://arxiv.org/pdf/1904.03278.pdf) :pig:
 ```bib
 @inproceedings{AMASS:2019,
   title={AMASS: Archive of Motion Capture as Surface Shapes},
