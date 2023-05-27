@@ -956,6 +956,14 @@ For style analysis, attribute recognition, trend anaylsis, style anaylsis, multi
 }
 ```
 
+:cherries: **TextileNet 2023**  
+(1) contains 33 fibres labels and 27 fabrics labels
+(2)  has in total of 760,949 images
+
+[[pdf]](https://arxiv.org/pdf/2301.06160.pdf) :pig:
+
+:cherries: **SHIFT15M 2023**  
+[[homepage]](https://github.com/st-tech/zozo-shift15m)
 
 
 ## 3. &nbsp;Outfit
